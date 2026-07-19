@@ -1,0 +1,45 @@
+name: Weekly content health check
+
+on:
+  schedule:
+    - cron: "0 6 * * 1" # every Monday, 06:00 UTC
+  workflow_dispatch: {} # lets you trigger it manually from the Actions tab
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run structure + link check
+        id: check
+        continue-on-error: true
+        run: |
+          python tools/maintain.py --links > report.txt 2>&1
+          echo "exit_code=$?" >> "$GITHUB_OUTPUT"
+          cat report.txt
+
+      - name: Prepare report for issue
+        if: steps.check.outputs.exit_code != '0'
+        run: |
+          {
+            echo 'REPORT<<EOF'
+            cat report.txt
+            echo EOF
+          } >> "$GITHUB_ENV"
+
+      - name: Open or update an issue if problems were found
+        if: steps.check.outputs.exit_code != '0'
+        uses: JasonEtco/create-an-issue@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          filename: .github/ISSUE_TEMPLATE/maintenance-report.md
+          update_existing: true

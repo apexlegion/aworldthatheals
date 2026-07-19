@@ -25,9 +25,33 @@ deploy in CI.
 - `emergency.json`'s `default` country exists.
 - With `--links`: every `https://` URL across the data returns a live response.
 
+## Automation (live, GitHub-only)
+
+Two GitHub Actions workflows run this script automatically — no Netlify or
+external server involved:
+
+- **`.github/workflows/validate.yml`** — runs `maintain.py` (fast, offline) on
+  every push and pull request to `main`. Catches broken JSON or a bad
+  cross-reference before it merges.
+- **`.github/workflows/maintain.yml`** — runs `maintain.py --links` every
+  Monday (and on-demand from the Actions tab), and if anything is broken —
+  invalid JSON or a dead external link — it automatically opens (or updates)
+  a GitHub issue with the report, using the template in
+  `.github/ISSUE_TEMPLATE/maintenance-report.md`. It reuses one open issue
+  per week rather than spamming duplicates.
+
+This auto-*detects and flags* problems; it does not auto-rewrite health
+content. On a mental-health site, resource text should be reviewed by a human
+before it changes — the workflow's job is making sure nothing goes stale or
+dead without you knowing.
+
+Hosting is GitHub Pages, serving directly from `main` — every push to `main`
+that passes `validate.yml` auto-publishes, with no separate deploy step.
+
 ## Future (Phase 8+ continued)
-The full vision's "auto-update every ~10 hours" pipeline would extend this into a
-scheduled job that also: pulls new resources from trusted sources, de-duplicates,
-archives dead links, and opens a pull request with the changes. That requires a
-backend/CI runner beyond the static site and is intentionally out of scope for the
-static build — this script is the foundation it would grow from.
+The full original vision's "auto-update every ~10 hours" pipeline — pulling in
+*new* resources from trusted sources, not just checking existing ones — would
+extend this into a scheduled job that also fetches candidate content and opens
+a PR for review. That's a larger scraping/aggregation system and is
+intentionally out of scope for now; this script and its workflows are the
+foundation it would grow from.
