@@ -1,0 +1,63 @@
+{
+  "id": "day-one-again",
+  "title": "Day one, again",
+  "category": "Addiction recovery",
+  "blurb": "A relapse wasn't the end of recovery — it was part of it.",
+  "lead": "A story about the shame of relapse, and the courage it takes to reach out and begin again.",
+  "sections": [
+    {
+      "heading": null,
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "The streak had felt like an identity. Ninety days. Then one hard night, and it was gone. The shame afterward was worse than the craving — a voice saying you were a fraud, a failure, that you'd ruined everything and might as well keep going."
+        },
+        {
+          "kind": "p",
+          "text": "That voice nearly won. What interrupted it was a single, hard phone call — telling someone in a recovery group the truth. No judgement came back. Just: 'Welcome back. Day one is still worth showing up for.'"
+        },
+        {
+          "kind": "p",
+          "text": "Relapse, it turned out, wasn't proof that recovery had failed. It was information — about a trigger, an unmet need, a gap in the plan. Recovery continued, a little wiser."
+        },
+        {
+          "kind": "p",
+          "text": "The streak restarted. But something had changed: the goal was no longer a perfect record. It was staying honest, and staying connected."
+        }
+      ]
+    },
+    {
+      "heading": null,
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "quote",
+          "text": "The bravest thing I ever did wasn't staying sober. It was picking up the phone the day after I wasn't."
+        }
+      ]
+    },
+    {
+      "heading": "A note on this story",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "This is an illustrative composite — a realistic story drawn from common experiences, not a real named individual. It's here to remind you that change is possible."
+        }
+      ]
+    }
+  ],
+  "resources": [],
+  "related": [
+    {
+      "id": "relapse",
+      "title": "Relapse & Recovery",
+      "detailBase": "topic"
+    },
+    {
+      "id": "shame-guilt",
+      "title": "Shame & Guilt",
+      "detailBase": "topic"
+    }
+  ]
+}

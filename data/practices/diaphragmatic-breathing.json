@@ -1,0 +1,99 @@
+{
+  "id": "diaphragmatic-breathing",
+  "title": "Diaphragmatic (Belly) Breathing",
+  "category": "Breathwork",
+  "evidenceStatus": "evidence-based",
+  "blurb": "Full, low breathing that switches on calm.",
+  "lead": "Diaphragmatic breathing — breathing deep into the belly rather than the chest — is a well-established foundation for relaxation and stress relief.",
+  "sections": [
+    {
+      "heading": "What it is",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Diaphragmatic breathing means breathing fully using the diaphragm, so your belly expands rather than your chest rising and shoulders lifting."
+        },
+        {
+          "kind": "p",
+          "text": "It's the basis of most relaxation breathing and is well supported for reducing the physical stress response. Many people breathe shallowly when stressed; this retrains a calmer pattern."
+        }
+      ]
+    },
+    {
+      "heading": "How to practise",
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "steps",
+          "items": [
+            "Sit or lie down. Place one hand on your chest, one on your belly.",
+            "Breathe in slowly through your nose, directing the breath low so your belly hand rises more than your chest hand.",
+            "Exhale slowly, feeling the belly fall.",
+            "Keep the chest relatively still and the breath smooth.",
+            "Practise a few minutes daily so it becomes your default under stress."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Good to know",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "meta",
+          "items": [
+            {
+              "label": "Duration",
+              "value": "3–10 minutes"
+            },
+            {
+              "label": "Best for",
+              "value": "Stress, anxiety, foundation for other techniques"
+            },
+            {
+              "label": "Evidence",
+              "value": "Well supported"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Common mistakes",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Heaving the chest and shoulders. The movement should be low and gentle in the belly."
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "article",
+      "title": "Breathing exercises for stress",
+      "source": "NHS",
+      "url": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/",
+      "whyHere": "Free, trustworthy instructions.",
+      "evidenceStatus": "evidence-based"
+    },
+    {
+      "type": "app",
+      "title": "MindShift CBT",
+      "source": "Anxiety Canada",
+      "url": "https://www.anxietycanada.com/resources/mindshift-cbt/",
+      "whyHere": "Free calm-breathing tools.",
+      "evidenceStatus": "evidence-based"
+    }
+  ],
+  "related": [
+    {
+      "id": "coherent-breathing",
+      "title": "Coherent Breathing"
+    },
+    {
+      "id": "physiological-sigh",
+      "title": "Physiological Sigh"
+    }
+  ]
+}

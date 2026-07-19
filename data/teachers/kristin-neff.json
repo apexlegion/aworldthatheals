@@ -1,0 +1,74 @@
+{
+  "id": "kristin-neff",
+  "title": "Kristin Neff",
+  "role": "Researcher & author",
+  "category": "Self-compassion",
+  "blurb": "The pioneering researcher on self-compassion.",
+  "lead": "The psychologist who pioneered the scientific study of self-compassion and created widely used free practices.",
+  "sections": [
+    {
+      "heading": "About",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Kristin Neff is a pioneering researcher who first defined and measured self-compassion, showing its powerful benefits for wellbeing."
+        },
+        {
+          "kind": "p",
+          "text": "She has made her research practical through free guided exercises used around the world."
+        }
+      ]
+    },
+    {
+      "heading": "Teaching focus",
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "chips",
+          "items": [
+            "Self-compassion",
+            "Self-kindness",
+            "Common humanity",
+            "Research-based practices"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Where to start",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Try her free self-compassion exercises and meditations — especially the self-compassion break — and take the free self-compassion test."
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "worksheet",
+      "title": "Self-compassion practices",
+      "source": "Dr. Kristin Neff",
+      "url": "https://self-compassion.org/self-compassion-practices/",
+      "whyHere": "Free guided exercises and meditations."
+    },
+    {
+      "type": "video",
+      "title": "Self-esteem vs self-compassion",
+      "source": "TEDx",
+      "url": "https://www.youtube.com/watch?v=IvtZBUSplr4",
+      "whyHere": "Clear introduction to her work."
+    }
+  ],
+  "related": [
+    {
+      "id": "tara-brach",
+      "title": "Tara Brach"
+    },
+    {
+      "id": "sharon-salzberg",
+      "title": "Sharon Salzberg"
+    }
+  ]
+}

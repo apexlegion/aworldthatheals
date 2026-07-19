@@ -1,0 +1,57 @@
+{
+  "default": "INTL",
+  "countries": {
+    "INTL": {
+      "name": "International / not listed",
+      "resources": [
+        { "name": "Find A Helpline", "description": "Free, confidential support lines in over 130 countries — pick yours.", "contact": "findahelpline.com", "url": "https://findahelpline.com" },
+        { "name": "Befrienders Worldwide", "description": "Global network of emotional-support and suicide-prevention centres.", "contact": "befrienders.org", "url": "https://www.befrienders.org" },
+        { "name": "International Association for Suicide Prevention", "description": "Directory of crisis centres worldwide.", "contact": "iasp.info/resources", "url": "https://www.iasp.info/resources/Crisis_Centres/" }
+      ]
+    },
+    "US": {
+      "name": "United States",
+      "emergency": "911",
+      "resources": [
+        { "name": "988 Suicide & Crisis Lifeline", "description": "Free, confidential, 24/7. Call or text.", "contact": "988", "tel": "988" },
+        { "name": "Crisis Text Line", "description": "Text with a trained crisis counselor, 24/7.", "contact": "Text HOME to 741741", "sms": "741741" },
+        { "name": "SAMHSA National Helpline", "description": "Free treatment referral for mental health and substance use, 24/7.", "contact": "1-800-662-4357", "tel": "18006624357" }
+      ]
+    },
+    "GB": {
+      "name": "United Kingdom",
+      "emergency": "999",
+      "resources": [
+        { "name": "Samaritans", "description": "Free, 24/7 emotional support for anyone in distress.", "contact": "116 123", "tel": "116123" },
+        { "name": "Shout", "description": "Free, confidential 24/7 crisis text support.", "contact": "Text SHOUT to 85258", "sms": "85258" },
+        { "name": "NHS 111 (option 2)", "description": "Urgent mental health help through the NHS.", "contact": "111", "tel": "111" }
+      ]
+    },
+    "CA": {
+      "name": "Canada",
+      "emergency": "911",
+      "resources": [
+        { "name": "9-8-8 Suicide Crisis Helpline", "description": "Free, 24/7 support in English and French. Call or text.", "contact": "988", "tel": "988" },
+        { "name": "Kids Help Phone", "description": "24/7 support for young people. Call or text.", "contact": "1-800-668-6868", "tel": "18006686868" }
+      ]
+    },
+    "AU": {
+      "name": "Australia",
+      "emergency": "000",
+      "resources": [
+        { "name": "Lifeline", "description": "Free, confidential 24/7 crisis support.", "contact": "13 11 14", "tel": "131114" },
+        { "name": "Beyond Blue", "description": "Support for anxiety, depression and suicide, 24/7.", "contact": "1300 22 4636", "tel": "1300224636" },
+        { "name": "13YARN", "description": "24/7 support line for Aboriginal & Torres Strait Islander people.", "contact": "13 92 76", "tel": "139276" }
+      ]
+    },
+    "IN": {
+      "name": "India",
+      "emergency": "112",
+      "resources": [
+        { "name": "KIRAN Mental Health Helpline", "description": "Government helpline, 24/7, multiple languages.", "contact": "1800-599-0019", "tel": "18005990019" },
+        { "name": "Vandrevala Foundation", "description": "Free, confidential mental health support, 24/7.", "contact": "1860-266-2345", "tel": "18602662345" },
+        { "name": "iCALL (TISS)", "description": "Free counselling by phone and email, Mon–Sat.", "contact": "9152987821", "tel": "9152987821" }
+      ]
+    }
+  }
+}

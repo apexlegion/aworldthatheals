@@ -1,0 +1,100 @@
+{
+  "id": "breath-awareness",
+  "title": "Breath Awareness",
+  "category": "Mindfulness",
+  "evidenceStatus": "evidence-based",
+  "blurb": "The simplest anchor: resting your attention on the breath.",
+  "lead": "Breath awareness is the foundation of most meditation. You simply notice the natural breath — and gently return whenever the mind wanders.",
+  "sections": [
+    {
+      "heading": "What it is",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Breath awareness means resting your attention on the sensations of breathing — the air at your nostrils, the rise and fall of your chest or belly."
+        },
+        {
+          "kind": "p",
+          "text": "You are not trying to control the breath or stop thoughts. Each time you notice your mind has wandered and return to the breath, you strengthen attention and calm. The returning is the practice."
+        }
+      ]
+    },
+    {
+      "heading": "How to practise",
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "steps",
+          "items": [
+            "Sit comfortably, upright but relaxed. Close your eyes or soften your gaze.",
+            "Notice where you feel the breath most clearly — nose, chest, or belly.",
+            "Rest your attention there, following each in-breath and out-breath.",
+            "When you notice thinking (you will, often), gently return to the breath — no frustration needed.",
+            "Continue for a few minutes to start; build up over time."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Good to know",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "meta",
+          "items": [
+            {
+              "label": "Duration",
+              "value": "2–20 minutes"
+            },
+            {
+              "label": "Best for",
+              "value": "Beginners, focus, everyday calm"
+            },
+            {
+              "label": "Tradition",
+              "value": "Common to nearly all contemplative paths"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Common mistakes",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Believing you're 'failing' when the mind wanders. Wandering is normal — noticing and returning is exactly the skill you're building."
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "app",
+      "title": "Healthy Minds Program",
+      "source": "Healthy Minds Innovations",
+      "url": "https://hminnovations.org/meditation-app",
+      "whyHere": "Free, structured beginner training in awareness.",
+      "evidenceStatus": "evidence-based"
+    },
+    {
+      "type": "app",
+      "title": "UCLA Mindful",
+      "source": "UCLA Health",
+      "url": "https://www.uclahealth.org/programs/marc/free-guided-meditations",
+      "whyHere": "Free guided breath meditations in many languages.",
+      "evidenceStatus": "evidence-based"
+    }
+  ],
+  "related": [
+    {
+      "id": "body-scan",
+      "title": "Body Scan"
+    },
+    {
+      "id": "coherent-breathing",
+      "title": "Coherent Breathing",
+      "collection": "practice"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "coherent-breathing",
+  "title": "Coherent (Resonance) Breathing",
+  "category": "Breathwork",
+  "evidenceStatus": "evidence-based",
+  "blurb": "Slow, even breaths at about six per minute.",
+  "lead": "Coherent or resonance breathing means slowing to about five to six breaths per minute, which balances the nervous system and supports calm.",
+  "sections": [
+    {
+      "heading": "What it is",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Coherent breathing means breathing slowly and evenly — roughly five to six breaths per minute, with equal inhales and exhales."
+        },
+        {
+          "kind": "p",
+          "text": "This pace is close to the body's 'resonance frequency', where heart rate and breathing sync in a way that supports calm and emotional balance. It has reasonable research support for reducing stress and anxiety."
+        }
+      ]
+    },
+    {
+      "heading": "How to practise",
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "steps",
+          "items": [
+            "Sit or lie comfortably.",
+            "Breathe in gently through the nose for about 5 seconds.",
+            "Breathe out gently for about 5 seconds.",
+            "Keep the breath smooth and unforced — no holding.",
+            "Continue for 5–20 minutes; a guide or app helps keep the pace."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Good to know",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "meta",
+          "items": [
+            {
+              "label": "Duration",
+              "value": "5–20 minutes"
+            },
+            {
+              "label": "Best for",
+              "value": "Ongoing stress, anxiety, emotional balance"
+            },
+            {
+              "label": "Evidence",
+              "value": "Supported by research on resonance/HRV breathing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Common mistakes",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Breathing too deeply. Aim for slow and smooth, not big — comfort keeps it sustainable."
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "app",
+      "title": "Healthy Minds Program",
+      "source": "Healthy Minds Innovations",
+      "url": "https://hminnovations.org/meditation-app",
+      "whyHere": "Free training that includes slow, balanced breathing.",
+      "evidenceStatus": "evidence-based"
+    },
+    {
+      "type": "article",
+      "title": "Breathing for stress",
+      "source": "NHS",
+      "url": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/",
+      "whyHere": "Free guidance on slow breathing.",
+      "evidenceStatus": "evidence-based"
+    }
+  ],
+  "related": [
+    {
+      "id": "physiological-sigh",
+      "title": "Physiological Sigh"
+    },
+    {
+      "id": "diaphragmatic-breathing",
+      "title": "Diaphragmatic Breathing"
+    }
+  ]
+}

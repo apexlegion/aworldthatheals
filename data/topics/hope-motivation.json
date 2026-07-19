@@ -1,0 +1,32 @@
+{
+  "id": "hope-motivation",
+  "title": "Hope & Motivation",
+  "evidenceStatus": "emerging",
+  "lead": "When everything feels stuck, waiting for motivation can keep you frozen. Often, action comes first — and one tiny step is enough to start.",
+  "explanation": [
+    "Losing hope and motivation can feel like a personal failing, but it's usually a symptom — of exhaustion, depression, overwhelm, or repeated disappointment. When the tank is empty, 'just try harder' doesn't work, and shaming yourself makes it worse.",
+    "We often believe we need to feel motivated before we act. In reality it's frequently the reverse: taking a small action first creates a spark of momentum and mood that then fuels more action. Motivation follows movement as often as it precedes it.",
+    "Hope isn't naive optimism that everything will be fine. It's the belief that things can change and that your actions matter — and it can be rebuilt in small, concrete ways, especially with support and tiny wins."
+  ],
+  "symptoms": ["Feeling stuck or paralysed", "'What's the point' thinking", "Struggling to start tasks", "Loss of interest or drive", "Fatigue and low energy", "Hopelessness about the future", "Guilt about not doing enough"],
+  "copingTools": {
+    "immediate": [
+      { "title": "Shrink it until it's easy", "steps": ["Take whatever you 'should' do and cut it to something almost laughably small", "Not 'go for a run' but 'put on my shoes'", "Do just that one step", "Momentum often carries you further — but the tiny step counts on its own"] },
+      { "title": "Act first, feel second", "description": "Don't wait to feel like it. Move your body, start the smallest piece, and let a bit of motivation catch up to the action instead of the other way around." },
+      { "title": "Find one anchor of hope", "description": "Recall one time you got through something hard, or one small thing you're looking forward to. Hope is built from small evidence that things can shift." }
+    ],
+    "longTerm": [
+      { "title": "Behavioural activation", "description": "A well-evidenced approach: gradually reintroducing small, meaningful, or pleasurable activities to rebuild energy, mood, and momentum." },
+      { "title": "Connect actions to values", "description": "Motivation lasts longer when it's tied to what genuinely matters to you, rather than what you think you 'should' do. Small acts aligned with your values rebuild purpose." },
+      { "title": "Rule out and treat what's underneath", "description": "Persistent hopelessness can be a sign of depression or burnout. Addressing those directly is often what restores real motivation." }
+    ]
+  },
+  "resources": [
+    { "type": "video", "title": "Behavioural activation explained", "source": "Therapy in a Nutshell (YouTube)", "url": "https://www.youtube.com/@TherapyinaNutshell", "whyHere": "Free, clear therapist videos on rebuilding motivation and beating the freeze.", "evidenceStatus": "emerging" },
+    { "type": "article", "title": "How to overcome procrastination", "source": "Solving Procrastination", "url": "https://solvingprocrastination.com", "whyHere": "Free, research-based strategies for getting unstuck.", "evidenceStatus": "emerging" },
+    { "type": "book", "title": "The Happiness Trap (free resources)", "source": "Russ Harris", "url": "https://thehappinesstrap.com/free-resources/", "whyHere": "Free ACT worksheets on values and committed action.", "evidenceStatus": "evidence-based" },
+    { "type": "app", "title": "Healthy Minds Program", "source": "Healthy Minds Innovations", "url": "https://hminnovations.org/meditation-app", "whyHere": "Free training with a 'purpose' pillar that helps rebuild direction.", "evidenceStatus": "evidence-based" }
+  ],
+  "relatedTopics": ["depression", "burnout", "self-esteem", "mindfulness"],
+  "matchPhrases": ["i feel stuck", "i have no motivation", "i can't get anything done", "what's the point", "i feel hopeless about the future", "i can't get started", "i've lost all drive", "i feel paralysed", "i keep procrastinating", "i don't see the point in trying"]
+}

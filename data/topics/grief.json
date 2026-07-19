@@ -1,0 +1,32 @@
+{
+  "id": "grief",
+  "title": "Grief & Loss",
+  "evidenceStatus": "evidence-based",
+  "lead": "Grief is the price of love. There's no timeline, no correct order, and no way around it — only through, at your own pace, and not alone.",
+  "explanation": [
+    "Grief is the natural response to losing someone or something you care about. It can follow a death, but also a breakup, a diagnosis, a lost job, or the end of a chapter of life. It touches everything: emotions, body, thoughts, and daily functioning.",
+    "It rarely moves in neat stages. Grief comes in waves — crashing in unexpectedly, receding, returning. You might feel sadness, numbness, anger, guilt, relief, or all of them in an hour. All of this is normal, and none of it means you're grieving wrongly.",
+    "Healing doesn't mean 'getting over it' or forgetting. Over time, most people find the waves come less often and they slowly build a life that carries the loss alongside meaning and connection again. Some people benefit from extra support when grief stays overwhelming for a long time."
+  ],
+  "symptoms": ["Waves of intense sadness or longing", "Numbness or disbelief", "Anger or guilt", "Trouble sleeping or eating", "Difficulty concentrating", "Physical aches or fatigue", "Withdrawing from others", "Feeling the presence of the person you lost"],
+  "copingTools": {
+    "immediate": [
+      { "title": "Let the wave move through", "description": "When grief surges, try not to fight it. Find a safe moment, breathe, and let yourself feel it. Waves peak and pass — resisting them only prolongs the ache." },
+      { "title": "Anchor to the basics", "steps": ["Drink some water", "Eat something small, even if you're not hungry", "Step outside for a few minutes", "Rest when your body asks — grief is exhausting"] },
+      { "title": "Say it out loud", "description": "Tell one safe person 'I'm having a hard moment', or speak or write to the person you lost. Grief needs expression, not containment." }
+    ],
+    "longTerm": [
+      { "title": "Mourn in your own way", "description": "Rituals, memories, photos, letters, continuing bonds — there's no single right way. Honour the loss in whatever way feels true to you." },
+      { "title": "Lean on connection", "description": "Grief is isolating, but sharing it with people who understand — including grief support groups — helps carry the weight." },
+      { "title": "Seek support if grief stays stuck", "description": "If, after a long time, grief remains as intense and disabling as at the start, a professional can help. This is sometimes called prolonged grief, and support genuinely helps." }
+    ]
+  },
+  "resources": [
+    { "type": "article", "title": "Coping with grief and loss", "source": "HelpGuide", "url": "https://www.helpguide.org/mental-health/grief/coping-with-grief-and-loss", "whyHere": "Compassionate, practical, free guide to the grieving process.", "evidenceStatus": "emerging" },
+    { "type": "article", "title": "Grief information and support", "source": "Cruse Bereavement Support", "url": "https://www.cruse.org.uk/understanding-grief/", "whyHere": "Trusted bereavement charity with free guidance for many kinds of loss.", "evidenceStatus": "evidence-based" },
+    { "type": "community", "title": "The Dinner Party", "source": "The Dinner Party", "url": "https://www.thedinnerparty.org", "whyHere": "Free peer community for people grieving a significant loss.", "evidenceStatus": "emerging" },
+    { "type": "podcast", "title": "Griefcast / grief podcasts", "source": "Various", "url": "https://whatsyourgrief.com", "whyHere": "What's Your Grief offers free articles, resources and companionship in loss.", "evidenceStatus": "emerging" }
+  ],
+  "relatedTopics": ["depression", "loneliness", "shame-guilt", "hope-motivation"],
+  "matchPhrases": ["i lost someone", "someone i love died", "i'm grieving", "i lost my mother", "i lost my father", "my partner died", "i can't stop crying", "i miss them so much", "how do i deal with loss", "i lost my best friend", "the grief is unbearable"]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "carrying-them-with-me",
+  "title": "Carrying them with me",
+  "category": "Grief",
+  "blurb": "Grief didn't end — it changed shape, and so did life around it.",
+  "lead": "A story about losing someone deeply loved, and slowly learning to live alongside the loss.",
+  "sections": [
+    {
+      "heading": null,
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "People kept talking about 'stages' and 'closure', as if grief were a task to complete. It wasn't. It came in waves — flattening at the strangest moments, receding, returning without warning."
+        },
+        {
+          "kind": "p",
+          "text": "For a while, the waves were constant. Getting through a day felt like an achievement. Well-meaning advice to 'move on' missed the point entirely — moving on felt like a betrayal."
+        },
+        {
+          "kind": "p",
+          "text": "What helped wasn't getting over it. It was small rituals — a photo, a favourite song, saying their name out loud. Letting the waves come instead of bracing against them. Letting other people help carry the weight."
+        },
+        {
+          "kind": "p",
+          "text": "The waves never fully stopped. But they came less often. And slowly, life grew back around the loss — not replacing it, but holding it alongside meaning and even joy again."
+        }
+      ]
+    },
+    {
+      "heading": null,
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "quote",
+          "text": "I didn't learn to let them go. I learned to carry them with me, and to keep living anyway."
+        }
+      ]
+    },
+    {
+      "heading": "A note on this story",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "This is an illustrative composite — a realistic story drawn from common experiences, not a real named individual. It's here to remind you that change is possible."
+        }
+      ]
+    }
+  ],
+  "resources": [],
+  "related": [
+    {
+      "id": "grief",
+      "title": "Grief & Loss",
+      "detailBase": "topic"
+    },
+    {
+      "id": "loneliness",
+      "title": "Loneliness",
+      "detailBase": "topic"
+    }
+  ]
+}

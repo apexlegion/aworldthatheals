@@ -1,0 +1,32 @@
+{
+  "id": "breakups",
+  "title": "Breakups & Relationships",
+  "evidenceStatus": "emerging",
+  "lead": "The end of a relationship can hurt like a physical wound — because to your brain, it partly is one. Heartbreak is real grief, and it does heal.",
+  "explanation": [
+    "A breakup or relationship loss can bring genuine grief: sadness, longing, anger, confusion, and a disorienting sense that your future has been rewritten. Research shows social rejection activates some of the same brain regions as physical pain — so no, you're not overreacting.",
+    "It's normal to swing between missing the person and knowing the relationship wasn't right, to idealise them one moment and feel furious the next. Healing isn't linear, and there's no 'correct' timeline for moving on.",
+    "Over time, most people not only recover but grow — rediscovering themselves, their needs, and what they want. The early weeks are the hardest; be patient and gentle with yourself while the intensity settles."
+  ],
+  "symptoms": ["Waves of sadness or longing", "Difficulty sleeping or eating", "Replaying the relationship", "Anger, guilt, or regret", "Loneliness", "Anxiety about the future", "Urge to check on or contact your ex", "Feeling your identity has been shaken"],
+  "copingTools": {
+    "immediate": [
+      { "title": "Feel it without feeding it", "description": "Let yourself grieve — cry, journal, talk. But try to limit re-reading messages or checking their profile, which reopens the wound each time." },
+      { "title": "Reach for support", "steps": ["Tell a friend you're struggling", "Let people show up for you — you don't have to be strong", "Being with others reminds you that you're loved beyond this relationship"] },
+      { "title": "Tend the basics", "description": "Heartbreak is physically depleting. Sleep, food, water, and gentle movement genuinely help your brain and body cope with the loss." }
+    ],
+    "longTerm": [
+      { "title": "Create distance to heal", "description": "Space from an ex — especially early on — gives the attachment part of your brain room to recalibrate. Reducing contact usually speeds healing." },
+      { "title": "Rebuild your own life", "description": "Reconnect with friends, interests, and parts of yourself the relationship may have crowded out. Rediscovery is a real part of recovery." },
+      { "title": "Reflect, when you're ready", "description": "In time, gently exploring what you learned — about your needs, patterns, and boundaries — turns pain into growth for future relationships." }
+    ]
+  },
+  "resources": [
+    { "type": "article", "title": "Dealing with a breakup or divorce", "source": "HelpGuide", "url": "https://www.helpguide.org/relationships/love-connection/dealing-with-a-breakup-or-divorce", "whyHere": "Free, compassionate guide to coping and healing after a relationship ends.", "evidenceStatus": "emerging" },
+    { "type": "video", "title": "The science of heartbreak", "source": "Various / reputable science channels", "url": "https://www.ted.com/talks/guy_winch_how_to_fix_a_broken_heart", "whyHere": "Guy Winch's evidence-informed talk on why heartbreak hurts and how to heal.", "evidenceStatus": "emerging" },
+    { "type": "community", "title": "7 Cups", "source": "7 Cups", "url": "https://www.7cups.com", "whyHere": "Free, anonymous listeners any time you need to talk it through.", "evidenceStatus": "emerging" },
+    { "type": "article", "title": "Building healthy relationships", "source": "The Gottman Institute (free resources)", "url": "https://www.gottman.com", "whyHere": "Research-based articles for understanding relationship patterns.", "evidenceStatus": "emerging" }
+  ],
+  "relatedTopics": ["grief", "loneliness", "self-esteem", "depression"],
+  "matchPhrases": ["my partner broke up with me", "we broke up", "i'm heartbroken", "i can't get over my ex", "i'm going through a divorce", "i miss my ex", "my relationship ended", "i got dumped", "i can't stop thinking about them", "how do i move on"]
+}

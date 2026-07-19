@@ -1,0 +1,90 @@
+{
+  "id": "physiological-sigh",
+  "title": "Physiological Sigh",
+  "category": "Breathwork",
+  "evidenceStatus": "evidence-based",
+  "blurb": "The fastest way to calm down in real time.",
+  "lead": "The physiological sigh — a double inhale followed by a long exhale — is one of the quickest evidence-based ways to lower stress in the moment.",
+  "sections": [
+    {
+      "heading": "What it is",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "A physiological sigh is a deep inhale through the nose, a second short 'top-up' inhale, then a long, slow exhale through the mouth."
+        },
+        {
+          "kind": "p",
+          "text": "It reinflates tiny air sacs in the lungs and offloads carbon dioxide, quickly shifting the nervous system toward calm. Research suggests a few cyclic sighs can measurably reduce stress and improve mood."
+        }
+      ]
+    },
+    {
+      "heading": "How to practise",
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "steps",
+          "items": [
+            "Inhale through your nose to fill your lungs.",
+            "At the top, take a second short sip of air to fully expand them.",
+            "Slowly exhale all the air out through your mouth.",
+            "Repeat 1–3 times for quick relief, or several minutes for a deeper reset."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Good to know",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "meta",
+          "items": [
+            {
+              "label": "Duration",
+              "value": "30 seconds to 5 minutes"
+            },
+            {
+              "label": "Best for",
+              "value": "Acute stress, anxiety spikes, resetting quickly"
+            },
+            {
+              "label": "Evidence",
+              "value": "Supported by recent controlled research"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Common mistakes",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Rushing the exhale. The long, slow out-breath is what triggers the calming response."
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "video",
+      "title": "How breathing affects stress",
+      "source": "Stanford / reputable science channels",
+      "url": "https://www.youtube.com/results?search_query=physiological+sigh+huberman",
+      "whyHere": "Clear explanations of the physiological sigh and cyclic sighing.",
+      "evidenceStatus": "evidence-based"
+    }
+  ],
+  "related": [
+    {
+      "id": "coherent-breathing",
+      "title": "Coherent Breathing"
+    },
+    {
+      "id": "box-breathing",
+      "title": "Box Breathing"
+    }
+  ]
+}

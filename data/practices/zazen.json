@@ -1,0 +1,91 @@
+{
+  "id": "zazen",
+  "title": "Zazen (Zen)",
+  "category": "Mindfulness",
+  "evidenceStatus": "traditional",
+  "blurb": "Just sitting — the heart of Zen practice.",
+  "lead": "Zazen is the seated meditation at the core of Zen. Its spirit is 'just sitting' — being fully present without chasing any goal.",
+  "sections": [
+    {
+      "heading": "What it is",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Zazen means 'seated meditation'. In the Soto Zen tradition it is practised as shikantaza — 'just sitting' — resting in open, alert presence without striving for any particular experience."
+        },
+        {
+          "kind": "p",
+          "text": "It is a spiritual discipline. Its value is found through steady practice within the tradition rather than measured by research."
+        }
+      ]
+    },
+    {
+      "heading": "How to practise",
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "steps",
+          "items": [
+            "Sit on a cushion or chair with a stable, upright posture; hands resting in your lap.",
+            "Keep the eyes half-open, gaze lowered a few feet ahead.",
+            "Breathe naturally through the nose.",
+            "Rather than focusing on one object, allow everything to be as it is — thoughts come and go like clouds.",
+            "When you notice you've drifted into thinking, gently return to open, upright presence."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Good to know",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "meta",
+          "items": [
+            {
+              "label": "Duration",
+              "value": "15–40 minutes"
+            },
+            {
+              "label": "Best for",
+              "value": "Simplicity, presence, discipline"
+            },
+            {
+              "label": "Tradition",
+              "value": "Zen Buddhism"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Common mistakes",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Straining to 'empty the mind'. Zazen isn't about forcing blankness — it's about not clinging to what passes through."
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "article",
+      "title": "Introduction to Zen meditation",
+      "source": "San Francisco Zen Center",
+      "url": "https://www.sfzc.org",
+      "whyHere": "Free, clear zazen instruction from an established Zen center.",
+      "evidenceStatus": "traditional"
+    }
+  ],
+  "related": [
+    {
+      "id": "vipassana",
+      "title": "Vipassana (Insight)"
+    },
+    {
+      "id": "breath-awareness",
+      "title": "Breath Awareness"
+    }
+  ]
+}

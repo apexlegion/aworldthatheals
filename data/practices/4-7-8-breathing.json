@@ -1,0 +1,91 @@
+{
+  "id": "4-7-8-breathing",
+  "title": "4-7-8 Breathing",
+  "category": "Breathwork",
+  "evidenceStatus": "emerging",
+  "blurb": "A longer exhale to wind down before sleep.",
+  "lead": "4-7-8 breathing lengthens the exhale to gently downshift the nervous system — a popular tool for winding down and easing into sleep.",
+  "sections": [
+    {
+      "heading": "What it is",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "In 4-7-8 breathing you inhale for 4, hold for 7, and exhale slowly for 8."
+        },
+        {
+          "kind": "p",
+          "text": "The extended exhale activates the body's calming (parasympathetic) response. Many find it helpful for relaxation and sleep; formal evidence is still emerging."
+        }
+      ]
+    },
+    {
+      "heading": "How to practise",
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "steps",
+          "items": [
+            "Exhale completely through your mouth.",
+            "Inhale quietly through your nose for a count of 4.",
+            "Hold your breath for a count of 7.",
+            "Exhale slowly through your mouth for a count of 8.",
+            "Repeat for 4 cycles to start."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Good to know",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "meta",
+          "items": [
+            {
+              "label": "Duration",
+              "value": "2–5 minutes"
+            },
+            {
+              "label": "Best for",
+              "value": "Winding down, sleep, relaxation"
+            },
+            {
+              "label": "Evidence",
+              "value": "Emerging"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Common mistakes",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Feeling lightheaded from over-effort. If the counts feel long, scale them down proportionally (e.g. 2-3.5-4)."
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "article",
+      "title": "Breathing exercises for relaxation",
+      "source": "NHS",
+      "url": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/",
+      "whyHere": "Free, trustworthy breathing guidance.",
+      "evidenceStatus": "evidence-based"
+    }
+  ],
+  "related": [
+    {
+      "id": "coherent-breathing",
+      "title": "Coherent Breathing"
+    },
+    {
+      "id": "box-breathing",
+      "title": "Box Breathing"
+    }
+  ]
+}

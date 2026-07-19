@@ -1,0 +1,63 @@
+{
+  "id": "the-friend-i-became",
+  "title": "The friend I became to myself",
+  "category": "Self-worth",
+  "blurb": "Trading a brutal inner critic for something kinder.",
+  "lead": "A story about self-hatred — and learning to speak to yourself the way you'd speak to someone you love.",
+  "sections": [
+    {
+      "heading": null,
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "The inner voice was relentless. Every mistake became proof of being fundamentally not good enough. It felt like honesty — like the voice was just telling the truth."
+        },
+        {
+          "kind": "p",
+          "text": "The idea of self-compassion sounded soft, even self-indulgent. Surely being hard on yourself was what kept you from failing?"
+        },
+        {
+          "kind": "p",
+          "text": "The shift started with one question, learned from a book: 'Would I say this to a friend I love?' The answer was always no — the words were far too cruel. So why say them to yourself?"
+        },
+        {
+          "kind": "p",
+          "text": "It felt awkward at first, offering yourself kindness. But slowly, the harsh voice got quieter, and something steadier grew in its place. Not arrogance. Just the sense of being a flawed, worthy human being — and finally being on your own side."
+        }
+      ]
+    },
+    {
+      "heading": null,
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "quote",
+          "text": "I spent years being my own worst critic. Learning to be my own friend changed everything."
+        }
+      ]
+    },
+    {
+      "heading": "A note on this story",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "This is an illustrative composite — a realistic story drawn from common experiences, not a real named individual. It's here to remind you that change is possible."
+        }
+      ]
+    }
+  ],
+  "resources": [],
+  "related": [
+    {
+      "id": "self-esteem",
+      "title": "Self-Esteem & Self-Hatred",
+      "detailBase": "topic"
+    },
+    {
+      "id": "shame-guilt",
+      "title": "Shame & Guilt",
+      "detailBase": "topic"
+    }
+  ]
+}

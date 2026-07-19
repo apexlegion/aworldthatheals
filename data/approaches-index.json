@@ -1,0 +1,58 @@
+[
+  {
+    "id": "cbt",
+    "title": "Cognitive Behavioural Therapy (CBT)",
+    "evidenceStatus": "evidence-based",
+    "blurb": "Change unhelpful thought and behaviour patterns.",
+    "category": "Approach"
+  },
+  {
+    "id": "act",
+    "title": "Acceptance & Commitment Therapy (ACT)",
+    "evidenceStatus": "evidence-based",
+    "blurb": "Make room for hard feelings and act on your values.",
+    "category": "Approach"
+  },
+  {
+    "id": "dbt",
+    "title": "Dialectical Behaviour Therapy (DBT)",
+    "evidenceStatus": "evidence-based",
+    "blurb": "Skills for intense emotions and relationships.",
+    "category": "Approach"
+  },
+  {
+    "id": "ifs",
+    "title": "Internal Family Systems (IFS)",
+    "evidenceStatus": "emerging",
+    "blurb": "Befriend the different 'parts' of yourself.",
+    "category": "Approach"
+  },
+  {
+    "id": "behavioral-activation",
+    "title": "Behavioural Activation",
+    "evidenceStatus": "evidence-based",
+    "blurb": "Beat depression by gently rebuilding activity.",
+    "category": "Approach"
+  },
+  {
+    "id": "polyvagal",
+    "title": "Polyvagal Theory",
+    "evidenceStatus": "emerging",
+    "blurb": "Understanding safety, connection, and the nervous system.",
+    "category": "Approach"
+  },
+  {
+    "id": "positive-psychology",
+    "title": "Positive Psychology",
+    "evidenceStatus": "emerging",
+    "blurb": "The science of wellbeing and what helps humans flourish.",
+    "category": "Approach"
+  },
+  {
+    "id": "self-compassion",
+    "title": "Self-Compassion",
+    "evidenceStatus": "evidence-based",
+    "blurb": "Treating yourself as you would a good friend.",
+    "category": "Approach"
+  }
+]

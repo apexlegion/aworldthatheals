@@ -1,0 +1,32 @@
+{
+  "id": "self-esteem",
+  "title": "Self-Esteem & Self-Hatred",
+  "evidenceStatus": "evidence-based",
+  "lead": "The way you talk to yourself shapes your whole inner world. A harsh inner critic is learned — which means a kinder one can be learned too.",
+  "explanation": [
+    "Self-esteem is how you value and regard yourself. When it's low, you may feel not good enough, unlovable, or like a fraud — and treat yourself with a harshness you'd never aim at someone you love.",
+    "Self-hatred usually isn't the truth about you; it's an old, internalised voice — often absorbed from criticism, comparison, trauma, or hard experiences. It can feel like fact, but it's a pattern of thought, and patterns can change.",
+    "The goal isn't arrogance or forced positivity. It's self-compassion: treating yourself as a flawed, worthy human being, the way you would a good friend. Research shows self-compassion is a stronger foundation for wellbeing than self-esteem built on being 'better than' others."
+  ],
+  "symptoms": ["A harsh, constant inner critic", "Feeling not good enough or unlovable", "Comparing yourself unfavourably to others", "Struggling to accept compliments", "Perfectionism and fear of failure", "Feeling like a fraud", "Putting everyone else's needs first"],
+  "copingTools": {
+    "immediate": [
+      { "title": "The friend test", "steps": ["Notice the harsh thing you're telling yourself", "Ask: would I say this to a friend I love who was struggling?", "If not, offer yourself the words you'd give them instead"] },
+      { "title": "Self-compassion break", "steps": ["Acknowledge: 'This is a moment of suffering'", "Remember: 'Suffering is part of being human — I'm not alone'", "Place a hand on your heart and offer yourself kindness: 'May I be gentle with myself'"] },
+      { "title": "Separate thought from truth", "description": "When you notice 'I'm worthless', try adding: 'I'm having the thought that I'm worthless.' A thought is a mental event, not a verdict on your worth." }
+    ],
+    "longTerm": [
+      { "title": "Practise self-compassion", "description": "Self-compassion is a skill with strong research support. Regular practice measurably reduces self-criticism and builds resilience." },
+      { "title": "Challenge the inner critic (CBT)", "description": "CBT helps you catch, question, and rebalance the automatic critical thoughts that fuel low self-worth." },
+      { "title": "Build worth through values, not comparison", "description": "Acting in line with what matters to you — kindness, honesty, effort — builds a stable sense of worth that doesn't depend on being better than others." }
+    ]
+  },
+  "resources": [
+    { "type": "worksheet", "title": "Self-compassion exercises & practices", "source": "Dr. Kristin Neff", "url": "https://self-compassion.org/self-compassion-practices/", "whyHere": "Free guided practices from the leading researcher on self-compassion.", "evidenceStatus": "evidence-based" },
+    { "type": "article", "title": "Building self-esteem self-help guide", "source": "NHS self-help guides", "url": "https://web.ntw.nhs.uk/selfhelp/", "whyHere": "Free CBT-based booklet for improving self-esteem.", "evidenceStatus": "evidence-based" },
+    { "type": "video", "title": "The space between self-esteem and self-compassion", "source": "Kristin Neff / TEDx", "url": "https://www.youtube.com/watch?v=IvtZBUSplr4", "whyHere": "Clear talk on why self-compassion is a healthier foundation than self-esteem.", "evidenceStatus": "emerging" },
+    { "type": "app", "title": "Healthy Minds Program", "source": "Healthy Minds Innovations", "url": "https://hminnovations.org/meditation-app", "whyHere": "Free training that includes cultivating a kinder relationship with yourself.", "evidenceStatus": "evidence-based" }
+  ],
+  "relatedTopics": ["shame-guilt", "depression", "overthinking", "loneliness"],
+  "matchPhrases": ["i hate myself", "i feel worthless", "i'm not good enough", "i feel like a failure", "i can't stand who i am", "i'm so hard on myself", "i feel like a fraud", "why am i like this", "i feel unlovable", "i'm my own worst enemy", "low self esteem"]
+}

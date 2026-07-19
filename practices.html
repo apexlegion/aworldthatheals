@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Mindfulness & breathwork practices — A World That Heals</title>
+  <meta name="description" content="A free library of mindfulness traditions and evidence-based breathing techniques, each with plain-language how-to guidance." />
+  <meta name="theme-color" content="#121309" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="icons/icon-180.png" />
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="stylesheet" href="css/lib.css" />
+</head>
+<body>
+  <main id="main">
+    <div class="container page-intro">
+      <p class="page-intro__eyebrow">Practices</p>
+      <h1>Mindfulness &amp; breathwork you can start today</h1>
+      <p>Meditation traditions and evidence-based breathing techniques — each with what it is, how to practise, and free guided resources. Every practice is labelled so you can see what's research-backed versus traditional.</p>
+    </div>
+    <div class="container section" style="padding-top:0">
+      <div class="filter-bar" id="filter-bar" role="group" aria-label="Filter practices"></div>
+      <div class="card-grid" id="practice-grid"></div>
+    </div>
+  </main>
+
+  <script type="module">
+    import { initDirectory } from "./js/directory.js";
+    const items = await (await fetch("data/practices-index.json")).json();
+    items.sort((a,b) => a.category.localeCompare(b.category) || a.title.localeCompare(b.title));
+    initDirectory({
+      data: items.map(i => ({ ...i, blurb: i.blurb, category: i.category })),
+      mount: "practice-grid",
+      filterKey: "category",
+      detailPattern: (i) => `practice.html?id=${i.id}`
+    });
+  </script>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

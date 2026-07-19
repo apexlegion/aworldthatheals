@@ -1,0 +1,91 @@
+{
+  "id": "tonglen",
+  "title": "Tonglen (Giving & Receiving)",
+  "category": "Mindfulness",
+  "evidenceStatus": "traditional",
+  "blurb": "Breathe in suffering, breathe out relief — a compassion practice.",
+  "lead": "Tonglen is a Tibetan Buddhist compassion practice: breathing in the pain of yourself or others, and breathing out relief and care.",
+  "sections": [
+    {
+      "heading": "What it is",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Tonglen reverses our usual instinct. On the in-breath, you willingly take in suffering (your own or others'); on the out-breath, you send out relief, spaciousness, and kindness."
+        },
+        {
+          "kind": "p",
+          "text": "It's a powerful practice for cultivating compassion and working with difficult emotions. As a contemplative practice, it is rooted in tradition rather than clinical study."
+        }
+      ]
+    },
+    {
+      "heading": "How to practise",
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "steps",
+          "items": [
+            "Sit quietly and take a few settling breaths.",
+            "Bring to mind suffering — your own, or someone else's.",
+            "As you breathe in, imagine taking in that pain, willing to feel it.",
+            "As you breathe out, send relief, warmth, ease, and kindness.",
+            "Continue, widening to others who suffer in similar ways."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Good to know",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "meta",
+          "items": [
+            {
+              "label": "Duration",
+              "value": "5–20 minutes"
+            },
+            {
+              "label": "Best for",
+              "value": "Compassion, difficult emotions, caregiver fatigue"
+            },
+            {
+              "label": "Tradition",
+              "value": "Tibetan Buddhism"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Common mistakes",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Fearing you'll 'absorb' harm. Tonglen is imaginative compassion training — it builds courage and warmth, not real danger."
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "article",
+      "title": "How to practice Tonglen",
+      "source": "Pema Chödrön / Lion's Roar",
+      "url": "https://www.lionsroar.com/how-to-practice-tonglen/",
+      "whyHere": "Clear free guidance from a renowned teacher.",
+      "evidenceStatus": "traditional"
+    }
+  ],
+  "related": [
+    {
+      "id": "loving-kindness",
+      "title": "Loving-Kindness (Metta)"
+    },
+    {
+      "id": "breath-awareness",
+      "title": "Breath Awareness"
+    }
+  ]
+}

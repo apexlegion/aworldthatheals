@@ -1,0 +1,63 @@
+{
+  "id": "safe-in-my-own-body",
+  "title": "Safe in my own body again",
+  "category": "Trauma",
+  "blurb": "Healing from trauma at a pace that honoured, not overwhelmed.",
+  "lead": "A story about the long, gentle work of feeling safe again after something overwhelming.",
+  "sections": [
+    {
+      "heading": null,
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "After it happened, the body stayed on alert. Small sounds triggered huge reactions. Sleep brought nightmares. Sometimes the past felt more present than the present — a flashback dragging everything back."
+        },
+        {
+          "kind": "p",
+          "text": "For a long time, there was shame in it. Why couldn't the mind just move on? But trauma, a therapist explained, lives in the nervous system, not just memory. The reactions weren't weakness — they were a body that had learned to protect itself."
+        },
+        {
+          "kind": "p",
+          "text": "Healing was slow, and that turned out to be the point. Not forcing the memories, but building safety first: grounding when a flashback came, orienting to the present, learning the danger was over. Going at a pace the nervous system could handle."
+        },
+        {
+          "kind": "p",
+          "text": "Safety came back in pieces. A full night's sleep. A loud noise that stayed just a noise. A growing sense that the body was, finally, a place it was okay to be."
+        }
+      ]
+    },
+    {
+      "heading": null,
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "quote",
+          "text": "Healing wasn't about being brave enough to relive it. It was about being gentle enough to finally feel safe."
+        }
+      ]
+    },
+    {
+      "heading": "A note on this story",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "This is an illustrative composite — a realistic story drawn from common experiences, not a real named individual. It's here to remind you that change is possible."
+        }
+      ]
+    }
+  ],
+  "resources": [],
+  "related": [
+    {
+      "id": "trauma",
+      "title": "Trauma",
+      "detailBase": "topic"
+    },
+    {
+      "id": "anxiety",
+      "title": "Anxiety",
+      "detailBase": "topic"
+    }
+  ]
+}

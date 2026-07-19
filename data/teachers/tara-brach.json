@@ -1,0 +1,74 @@
+{
+  "id": "tara-brach",
+  "title": "Tara Brach",
+  "role": "Psychologist & meditation teacher",
+  "category": "Mindfulness",
+  "blurb": "Creator of RAIN; blends Western psychology with Buddhist practice.",
+  "lead": "A clinical psychologist and meditation teacher known for weaving psychology and mindfulness into deeply compassionate, practical teachings.",
+  "sections": [
+    {
+      "heading": "About",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Tara Brach is a psychologist and internationally known meditation teacher who blends Western psychology with Buddhist practice."
+        },
+        {
+          "kind": "p",
+          "text": "She's known for the RAIN practice (Recognise, Allow, Investigate, Nurture) and for teachings on radical acceptance and self-compassion."
+        }
+      ]
+    },
+    {
+      "heading": "Teaching focus",
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "chips",
+          "items": [
+            "Radical acceptance",
+            "RAIN practice",
+            "Self-compassion",
+            "Psychology + meditation"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Where to start",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Her free weekly talks and guided meditations are a wonderful entry point, and the RAIN practice is a practical tool for hard emotions."
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "podcast",
+      "title": "Free talks & meditations",
+      "source": "Tara Brach",
+      "url": "https://www.tarabrach.com/guided-meditations/",
+      "whyHere": "Extensive free library of guided meditations and talks."
+    },
+    {
+      "type": "worksheet",
+      "title": "The RAIN practice",
+      "source": "Tara Brach",
+      "url": "https://www.tarabrach.com/rain/",
+      "whyHere": "Free step-by-step compassion practice."
+    }
+  ],
+  "related": [
+    {
+      "id": "kristin-neff",
+      "title": "Kristin Neff"
+    },
+    {
+      "id": "jack-kornfield",
+      "title": "Jack Kornfield"
+    }
+  ]
+}

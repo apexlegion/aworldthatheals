@@ -1,0 +1,32 @@
+{
+  "id": "trauma",
+  "title": "Trauma",
+  "evidenceStatus": "evidence-based",
+  "lead": "Trauma is not weakness or overreaction. It's how a nervous system adapts to overwhelming experiences — and with the right support, those adaptations can heal.",
+  "explanation": [
+    "Trauma is the lasting impact of experiences that overwhelmed your capacity to cope — such as abuse, violence, accidents, disaster, loss, or ongoing fear. It can follow a single event or build up over time.",
+    "Trauma lives in the body and nervous system, not just memory. It can show up as flashbacks, hypervigilance, numbness, being easily startled, avoiding reminders, difficulty trusting, or feeling disconnected from yourself. These are normal responses to abnormal events — your system trying to keep you safe.",
+    "You are not stuck with it. Trauma-focused therapies have strong evidence for helping people process what happened and feel safe again. Healing is possible, and it works best with support — you're not meant to do this alone."
+  ],
+  "symptoms": ["Flashbacks or intrusive memories", "Nightmares", "Feeling constantly on guard (hypervigilance)", "Being easily startled", "Avoiding reminders of the event", "Emotional numbness or detachment", "Difficulty trusting or feeling safe", "Shame or self-blame"],
+  "copingTools": {
+    "immediate": [
+      { "title": "Orient to safety", "steps": ["Look slowly around the room", "Name where you are and today's date out loud", "Remind yourself: 'That was then. Right now, in this moment, I am safe.'", "Feel your feet on the ground"] },
+      { "title": "Ground a flashback", "description": "Flashbacks make the past feel present. Engage your senses hard: hold ice, smell something strong, press your feet down, name colours around you. This signals to your brain that the danger is over." },
+      { "title": "Soothe the nervous system", "description": "Long exhales, humming, cold water on the face, or a hand on your chest gently activate the body's calming response. You're not weak for needing this — you're regulating." }
+    ],
+    "longTerm": [
+      { "title": "Trauma-focused therapy", "description": "Approaches like trauma-focused CBT, EMDR, and others have strong evidence. A trained professional can help you process memories safely, at your pace." },
+      { "title": "Go at your own pace", "description": "Healing trauma is not about forcing yourself to relive everything. Safety, stability, and trust come first. Pushing too hard too fast can re-traumatise." },
+      { "title": "Rebuild safety and connection", "description": "Steady routines, safe relationships, and body-based practices help restore the sense of safety trauma takes away." }
+    ]
+  },
+  "resources": [
+    { "type": "article", "title": "Post-Traumatic Stress Disorder (PTSD)", "source": "National Institute of Mental Health (NIMH)", "url": "https://www.nimh.nih.gov/health/topics/post-traumatic-stress-disorder-ptsd", "whyHere": "Authoritative overview of trauma responses and effective treatments.", "evidenceStatus": "evidence-based" },
+    { "type": "article", "title": "Coping after trauma", "source": "PTSD UK", "url": "https://www.ptsduk.org/what-is-ptsd/", "whyHere": "Clear, compassionate, free explanation of PTSD and support options.", "evidenceStatus": "evidence-based" },
+    { "type": "app", "title": "PTSD Coach", "source": "US Dept. of Veterans Affairs", "url": "https://mobile.va.gov/app/ptsd-coach", "whyHere": "Free, evidence-informed app with coping tools for trauma symptoms.", "evidenceStatus": "evidence-based" },
+    { "type": "book", "title": "The Body Keeps the Score (overview)", "source": "Bessel van der Kolk", "url": "https://www.besselvanderkolk.com", "whyHere": "Influential book on how trauma affects the body. Check your library for free access.", "evidenceStatus": "emerging" }
+  ],
+  "relatedTopics": ["anxiety", "suicidal-thoughts", "shame-guilt", "mindfulness"],
+  "matchPhrases": ["i have ptsd", "i keep having flashbacks", "i can't stop reliving it", "i was abused", "something terrible happened to me", "i feel triggered", "i don't feel safe", "i feel numb and disconnected", "i keep having nightmares", "i'm always on edge", "trauma"]
+}

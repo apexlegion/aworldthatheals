@@ -1,0 +1,33 @@
+{
+  "id": "depression",
+  "title": "Depression",
+  "evidenceStatus": "evidence-based",
+  "lead": "Depression isn't sadness you can talk yourself out of. It's a real, common condition that flattens mood, energy, and hope — and it can lift, especially with support.",
+  "explanation": [
+    "Depression is more than feeling down. It's a persistent low mood or loss of interest that lasts weeks or longer and affects how you sleep, eat, think, and function. It can feel like heaviness, emptiness, or numbness rather than obvious sadness.",
+    "It often lies to you. Depression tells you that you're worthless, that nothing will change, that you're a burden. These are symptoms of the illness, not facts about you or your future.",
+    "Depression is not a character flaw or a failure of willpower. It involves changes in the brain and body, and it is one of the most treatable mental health conditions — through therapy, support, changes in daily life, and sometimes medication."
+  ],
+  "symptoms": ["Persistent low, empty, or numb mood", "Loss of interest or pleasure", "Fatigue and low energy", "Changes in sleep or appetite", "Difficulty concentrating", "Feelings of worthlessness or guilt", "Moving or speaking more slowly", "Thoughts that life isn't worth living"],
+  "copingTools": {
+    "immediate": [
+      { "title": "Do the next tiny thing", "description": "Depression makes big tasks impossible. Shrink it: not 'clean the house' but 'pick up one cup'. Not 'exercise' but 'stand outside for two minutes'. Momentum beats motivation." },
+      { "title": "Behavioural activation micro-step", "steps": ["Pick one small activity that used to bring even mild pleasure or meaning", "Do it for five minutes, even if you don't feel like it", "Notice — without judging — how you feel afterwards"] },
+      { "title": "Reach one person", "description": "Send a single message to someone safe — even just 'having a hard day'. Connection is medicine, and you don't have to explain everything." }
+    ],
+    "longTerm": [
+      { "title": "Talk therapy", "description": "CBT and behavioural activation have strong evidence for depression. They help you gently rebuild activity and challenge the hopeless stories depression tells." },
+      { "title": "Rhythm and light", "description": "Regular sleep and wake times, daylight in the morning, and gentle daily movement all help regulate the systems depression disrupts." },
+      { "title": "Professional assessment", "description": "A doctor or mental health professional can help you understand what's happening and discuss options, including whether medication might help. Asking for this is strength, not weakness." }
+    ]
+  },
+  "resources": [
+    { "type": "article", "title": "Depression — overview", "source": "National Institute of Mental Health (NIMH)", "url": "https://www.nimh.nih.gov/health/topics/depression", "whyHere": "Trustworthy plain-language explanation of symptoms and treatments.", "evidenceStatus": "evidence-based" },
+    { "type": "article", "title": "Depression", "source": "World Health Organization", "url": "https://www.who.int/news-room/fact-sheets/detail/depression", "whyHere": "Global perspective and facts to counter the isolation depression creates.", "evidenceStatus": "evidence-based" },
+    { "type": "worksheet", "title": "Behavioural activation self-help", "source": "NHS self-help guides", "url": "https://web.ntw.nhs.uk/selfhelp/", "whyHere": "Free, structured booklet for gently rebuilding activity and mood.", "evidenceStatus": "evidence-based" },
+    { "type": "app", "title": "Healthy Minds Program", "source": "Healthy Minds Innovations", "url": "https://hminnovations.org/meditation-app", "whyHere": "Free training in awareness, connection and purpose — pillars that support recovery.", "evidenceStatus": "evidence-based" },
+    { "type": "community", "title": "7 Cups", "source": "7 Cups", "url": "https://www.7cups.com", "whyHere": "Free, anonymous emotional support from trained volunteer listeners, 24/7.", "evidenceStatus": "emerging" }
+  ],
+  "relatedTopics": ["hope-motivation", "self-esteem", "loneliness", "suicidal-thoughts"],
+  "matchPhrases": ["i feel depressed", "i'm depressed", "i feel empty", "i feel numb", "nothing matters anymore", "i don't enjoy anything", "i feel hopeless", "i can't get out of bed", "everything feels pointless", "i feel like a burden", "i have no energy for anything", "i feel sad all the time"]
+}

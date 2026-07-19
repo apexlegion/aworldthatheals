@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Communities — A World That Heals</title>
+  <meta name="description" content="Active, trustworthy free communities — peer support, recovery, meditation sanghas, grief groups and listening services." />
+  <meta name="theme-color" content="#121309" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="icons/icon-180.png" />
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="stylesheet" href="css/lib.css" />
+</head>
+<body>
+  <main id="main">
+    <div class="container page-intro">
+      <p class="page-intro__eyebrow">Communities</p>
+      <h1>You don't have to do this alone</h1>
+      <p>Active, trustworthy places to connect with people who understand — free peer support, recovery communities, meditation sanghas, and grief groups.</p>
+    </div>
+    <div class="container section" style="padding-top:0">
+      <div class="filter-bar" id="filter-bar" role="group" aria-label="Filter by type"></div>
+      <div class="card-grid" id="communities-grid"></div>
+      <div class="note-strip">
+        <p><strong>Staying safe online:</strong> peer communities offer real comfort, but they're not a substitute for professional help in a crisis. Protect your privacy, and if you're in danger, use the <a href="emergency.html">emergency page</a>.</p>
+      </div>
+    </div>
+  </main>
+  <script type="module">
+    import { initDirectory } from "./js/directory.js";
+    initDirectory({ data: "data/communities.json", mount: "communities-grid", filterKey: "category", external: true });
+  </script>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

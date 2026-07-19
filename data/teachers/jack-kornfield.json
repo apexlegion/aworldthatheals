@@ -1,0 +1,74 @@
+{
+  "id": "jack-kornfield",
+  "title": "Jack Kornfield",
+  "role": "Insight meditation teacher & author",
+  "category": "Mindfulness",
+  "blurb": "Co-founder of Spirit Rock; a leading Western insight teacher.",
+  "lead": "A trained clinical psychologist and Buddhist teacher who helped bring insight (Vipassana) meditation to the West.",
+  "sections": [
+    {
+      "heading": "About",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Jack Kornfield trained as a Buddhist monk in Thailand and is a co-founder of the Insight Meditation Society and Spirit Rock."
+        },
+        {
+          "kind": "p",
+          "text": "He teaches insight meditation and loving-kindness with warmth, humour, and psychological depth."
+        }
+      ]
+    },
+    {
+      "heading": "Teaching focus",
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "chips",
+          "items": [
+            "Insight meditation",
+            "Loving-kindness",
+            "Forgiveness",
+            "Buddhist psychology"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Where to start",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "His free guided meditations and talks — especially on loving-kindness and forgiveness — are a gentle, grounded place to begin."
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "podcast",
+      "title": "Free talks & meditations",
+      "source": "Jack Kornfield",
+      "url": "https://jackkornfield.com/meditations/",
+      "whyHere": "Free guided meditations and Dharma talks."
+    },
+    {
+      "type": "article",
+      "title": "Dharma Seed archive",
+      "source": "Dharma Seed",
+      "url": "https://dharmaseed.org",
+      "whyHere": "Free archive of his and others' talks."
+    }
+  ],
+  "related": [
+    {
+      "id": "sharon-salzberg",
+      "title": "Sharon Salzberg"
+    },
+    {
+      "id": "thich-nhat-hanh",
+      "title": "Thich Nhat Hanh"
+    }
+  ]
+}

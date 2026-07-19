@@ -1,0 +1,67 @@
+{
+  "id": "marsha-linehan",
+  "title": "Marsha Linehan",
+  "role": "Psychologist & founder of DBT",
+  "category": "Approaches",
+  "blurb": "The developer of Dialectical Behaviour Therapy.",
+  "lead": "The psychologist who created DBT, transforming care for intense emotions and self-harm.",
+  "sections": [
+    {
+      "heading": "About",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Marsha Linehan developed Dialectical Behaviour Therapy (DBT), pioneering a compassionate, skills-based approach for people who experience emotions very intensely."
+        },
+        {
+          "kind": "p",
+          "text": "She has been open about her own lived experience, which shaped her deeply humane approach."
+        }
+      ]
+    },
+    {
+      "heading": "Teaching focus",
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "chips",
+          "items": [
+            "DBT",
+            "Emotion regulation",
+            "Distress tolerance",
+            "Acceptance + change"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Where to start",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Free DBT skills overviews (e.g. from Mind) introduce the practical tools her therapy teaches."
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "article",
+      "title": "DBT explained",
+      "source": "Mind (UK)",
+      "url": "https://www.mind.org.uk/information-support/drugs-and-treatments/talking-therapy-and-counselling/dialectical-behaviour-therapy-dbt/",
+      "whyHere": "Free plain-language overview of DBT."
+    }
+  ],
+  "related": [
+    {
+      "id": "steven-hayes",
+      "title": "Steven C. Hayes"
+    },
+    {
+      "id": "richard-schwartz",
+      "title": "Richard Schwartz"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "polyvagal",
+  "title": "Polyvagal Theory",
+  "evidenceStatus": "emerging",
+  "category": "Approach",
+  "blurb": "Understanding safety, connection, and the nervous system.",
+  "lead": "Polyvagal theory offers a way to understand how our nervous system shifts between states of safety, fight-or-flight, and shutdown — and why connection calms us.",
+  "sections": [
+    {
+      "heading": "What it is",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Polyvagal theory, proposed by Stephen Porges, describes how the autonomic nervous system moves between states: social engagement (safe and connected), mobilisation (fight-or-flight), and shutdown."
+        },
+        {
+          "kind": "p",
+          "text": "It has become influential in trauma work, offering a compassionate lens on automatic survival responses. It's a theoretical framework; clinical applications are still being researched."
+        }
+      ]
+    },
+    {
+      "heading": "Core ideas",
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "chips",
+          "items": [
+            "States of the nervous system",
+            "Neuroception of safety",
+            "Fight / flight / freeze",
+            "Co-regulation & connection",
+            "The body's survival wisdom"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Good to know",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "meta",
+          "items": [
+            {
+              "label": "Best for",
+              "value": "Understanding trauma & stress responses"
+            },
+            {
+              "label": "Format",
+              "value": "Framework informing therapy"
+            },
+            {
+              "label": "Evidence",
+              "value": "Emerging / debated"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "video",
+      "title": "Polyvagal theory explained",
+      "source": "Reputable educational channels",
+      "url": "https://www.youtube.com/results?search_query=polyvagal+theory+explained+porges",
+      "whyHere": "Accessible free explanations of the model.",
+      "evidenceStatus": "emerging"
+    }
+  ],
+  "related": [
+    {
+      "id": "ifs",
+      "title": "IFS"
+    },
+    {
+      "id": "self-compassion",
+      "title": "Self-Compassion"
+    }
+  ]
+}

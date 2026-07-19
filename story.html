@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Story — A World That Heals</title>
+  <meta name="theme-color" content="#121309" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="icons/icon-180.png" />
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="stylesheet" href="css/lib.css" />
+</head>
+<body>
+  <main id="main"><div id="detail-root" class="rise"></div></main>
+  <script type="module">
+    import { renderDetail } from "./js/detail.js";
+    renderDetail({ collection: "stories", backHref: "stories.html", backLabel: "Stories" });
+  </script>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

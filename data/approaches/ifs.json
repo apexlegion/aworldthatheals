@@ -1,0 +1,82 @@
+{
+  "id": "ifs",
+  "title": "Internal Family Systems (IFS)",
+  "evidenceStatus": "emerging",
+  "category": "Approach",
+  "blurb": "Befriend the different 'parts' of yourself.",
+  "lead": "IFS sees the mind as made up of 'parts' — protectors, wounded parts, and a core Self. Healing comes from relating to these parts with curiosity and compassion.",
+  "sections": [
+    {
+      "heading": "What it is",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "IFS, developed by Richard Schwartz, views the psyche as a system of 'parts', each with good intentions, centred around a calm, compassionate core Self."
+        },
+        {
+          "kind": "p",
+          "text": "Rather than fighting parts of yourself (like an inner critic), IFS helps you understand and heal them. Evidence is growing and promising, especially for trauma."
+        }
+      ]
+    },
+    {
+      "heading": "Core ideas",
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "chips",
+          "items": [
+            "Parts of self",
+            "The core Self",
+            "No bad parts",
+            "Curiosity & compassion",
+            "Unburdening wounds"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Good to know",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "meta",
+          "items": [
+            {
+              "label": "Best for",
+              "value": "Trauma, self-criticism, inner conflict"
+            },
+            {
+              "label": "Format",
+              "value": "Experiential therapy"
+            },
+            {
+              "label": "Evidence",
+              "value": "Emerging / promising"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "article",
+      "title": "Introduction to IFS",
+      "source": "IFS Institute",
+      "url": "https://ifs-institute.com/resources/articles",
+      "whyHere": "Free articles introducing the IFS model.",
+      "evidenceStatus": "emerging"
+    }
+  ],
+  "related": [
+    {
+      "id": "self-compassion",
+      "title": "Self-Compassion"
+    },
+    {
+      "id": "polyvagal",
+      "title": "Polyvagal Theory"
+    }
+  ]
+}

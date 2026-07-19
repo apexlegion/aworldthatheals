@@ -1,0 +1,100 @@
+[
+  {
+    "id": "breath-awareness",
+    "title": "Breath Awareness",
+    "category": "Mindfulness",
+    "evidenceStatus": "evidence-based",
+    "blurb": "The simplest anchor: resting your attention on the breath."
+  },
+  {
+    "id": "body-scan",
+    "title": "Body Scan",
+    "category": "Mindfulness",
+    "evidenceStatus": "evidence-based",
+    "blurb": "Move attention slowly through the body to release tension and reconnect."
+  },
+  {
+    "id": "loving-kindness",
+    "title": "Loving-Kindness (Metta)",
+    "category": "Mindfulness",
+    "evidenceStatus": "evidence-based",
+    "blurb": "Cultivate warmth toward yourself and others with simple phrases."
+  },
+  {
+    "id": "walking-meditation",
+    "title": "Walking Meditation",
+    "category": "Mindfulness",
+    "evidenceStatus": "evidence-based",
+    "blurb": "Mindfulness in motion — for when sitting still is hard."
+  },
+  {
+    "id": "nsdr-yoga-nidra",
+    "title": "NSDR / Yoga Nidra",
+    "category": "Mindfulness",
+    "evidenceStatus": "emerging",
+    "blurb": "Deep guided rest that restores without sleep."
+  },
+  {
+    "id": "vipassana",
+    "title": "Vipassana (Insight)",
+    "category": "Mindfulness",
+    "evidenceStatus": "traditional",
+    "blurb": "Observing experience clearly to see how mind and reality work."
+  },
+  {
+    "id": "zazen",
+    "title": "Zazen (Zen)",
+    "category": "Mindfulness",
+    "evidenceStatus": "traditional",
+    "blurb": "Just sitting — the heart of Zen practice."
+  },
+  {
+    "id": "tonglen",
+    "title": "Tonglen (Giving & Receiving)",
+    "category": "Mindfulness",
+    "evidenceStatus": "traditional",
+    "blurb": "Breathe in suffering, breathe out relief — a compassion practice."
+  },
+  {
+    "id": "physiological-sigh",
+    "title": "Physiological Sigh",
+    "category": "Breathwork",
+    "evidenceStatus": "evidence-based",
+    "blurb": "The fastest way to calm down in real time."
+  },
+  {
+    "id": "box-breathing",
+    "title": "Box Breathing",
+    "category": "Breathwork",
+    "evidenceStatus": "emerging",
+    "blurb": "Equal counts to steady the mind under pressure."
+  },
+  {
+    "id": "4-7-8-breathing",
+    "title": "4-7-8 Breathing",
+    "category": "Breathwork",
+    "evidenceStatus": "emerging",
+    "blurb": "A longer exhale to wind down before sleep."
+  },
+  {
+    "id": "coherent-breathing",
+    "title": "Coherent (Resonance) Breathing",
+    "category": "Breathwork",
+    "evidenceStatus": "evidence-based",
+    "blurb": "Slow, even breaths at about six per minute."
+  },
+  {
+    "id": "alternate-nostril-breathing",
+    "title": "Alternate Nostril Breathing",
+    "category": "Breathwork",
+    "evidenceStatus": "emerging",
+    "blurb": "A balancing yogic breath (Nadi Shodhana)."
+  },
+  {
+    "id": "diaphragmatic-breathing",
+    "title": "Diaphragmatic (Belly) Breathing",
+    "category": "Breathwork",
+    "evidenceStatus": "evidence-based",
+    "blurb": "Full, low breathing that switches on calm."
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "id": "panic-attacks",
+  "title": "Panic Attacks",
+  "evidenceStatus": "evidence-based",
+  "lead": "A panic attack feels like an emergency in your body — but it isn't dangerous, and it will peak and pass. Learning what's happening takes away much of its power.",
+  "explanation": [
+    "A panic attack is a sudden surge of intense fear that triggers strong physical reactions: pounding heart, shortness of breath, dizziness, chest tightness, tingling, or a feeling of unreality. It can feel like a heart attack or like you're losing control — but a panic attack itself is not physically harmful.",
+    "What's happening is a false alarm. Your body floods with adrenaline as if facing danger, even though you're safe. The frightening sensations are that adrenaline at work. Because the feelings are so intense, we naturally fear them — and that fear fuels the next attack.",
+    "Panic attacks typically peak within about 10 minutes and then subside as the adrenaline burns off. You cannot stop breathing, faint from over-breathing, or 'go crazy' from a panic attack. Understanding this is often the first step to them losing their grip."
+  ],
+  "symptoms": ["Racing or pounding heart", "Shortness of breath or choking feeling", "Chest tightness or pain", "Dizziness or lightheadedness", "Trembling or shaking", "Tingling or numbness", "Sweating or chills", "Feeling detached or unreal", "Fear of dying or losing control"],
+  "copingTools": {
+    "immediate": [
+      { "title": "Slow the exhale", "steps": ["Breathe in gently through your nose for a count of 4", "Breathe out slowly through your mouth for a count of 6 or more", "Make the out-breath longer than the in-breath", "Continue until the wave passes"] },
+      { "title": "Ride the wave", "description": "Instead of fighting it, tell yourself: 'This is a panic attack. It always peaks and passes. I don't need to do anything but let it move through.' Resisting panic feeds it; allowing it lets it fade faster." },
+      { "title": "Ground into the present", "steps": ["Press your feet firmly into the floor", "Hold something cold or textured", "Name out loud where you are and what today is", "Remind yourself: 'I am safe right now'"] }
+    ],
+    "longTerm": [
+      { "title": "CBT for panic", "description": "Highly effective. It helps you reinterpret the sensations as harmless and gradually stop avoiding places where panic has struck." },
+      { "title": "Reduce the fear of fear", "description": "Learning that the sensations can't hurt you — and even practising bringing them on safely in therapy (interoceptive exposure) — breaks the panic cycle." },
+      { "title": "Steady breathing practice", "description": "Practising slow breathing daily, when calm, makes it a reliable tool when panic hits." }
+    ]
+  },
+  "resources": [
+    { "type": "article", "title": "Panic disorder — when fear overwhelms", "source": "National Institute of Mental Health (NIMH)", "url": "https://www.nimh.nih.gov/health/publications/panic-disorder-when-fear-overwhelms", "whyHere": "Concise, reassuring, evidence-based overview.", "evidenceStatus": "evidence-based" },
+    { "type": "worksheet", "title": "Understanding panic self-help guide", "source": "NHS self-help guides", "url": "https://web.ntw.nhs.uk/selfhelp/", "whyHere": "Free booklet explaining the panic cycle and how to break it.", "evidenceStatus": "evidence-based" },
+    { "type": "app", "title": "MindShift CBT", "source": "Anxiety Canada", "url": "https://www.anxietycanada.com/resources/mindshift-cbt/", "whyHere": "Free app with a dedicated panic-attack toolkit.", "evidenceStatus": "evidence-based" },
+    { "type": "video", "title": "How to cope with a panic attack", "source": "Anxiety Canada", "url": "https://www.anxietycanada.com", "whyHere": "Practical, calm guidance from a leading anxiety non-profit.", "evidenceStatus": "evidence-based" }
+  ],
+  "relatedTopics": ["anxiety", "mindfulness", "overthinking"],
+  "matchPhrases": ["i'm having a panic attack", "i can't breathe", "my heart is racing", "i feel like i'm dying", "i think i'm having a heart attack", "i feel like i'm losing control", "sudden intense fear", "i keep having panic attacks", "i feel like i can't catch my breath", "everything feels unreal"]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "pema-chodron",
+  "title": "Pema Chödrön",
+  "role": "Buddhist nun & author",
+  "category": "Mindfulness",
+  "blurb": "Beloved teacher on working with difficulty and fear.",
+  "lead": "An American Tibetan Buddhist nun known for compassionate teachings on staying present with pain and uncertainty.",
+  "sections": [
+    {
+      "heading": "About",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Pema Chödrön is an ordained Buddhist nun in the Tibetan tradition and a widely loved author and teacher."
+        },
+        {
+          "kind": "p",
+          "text": "She teaches how to work skilfully with fear, groundlessness, and difficult emotions — including the practice of tonglen."
+        }
+      ]
+    },
+    {
+      "heading": "Teaching focus",
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "chips",
+          "items": [
+            "Working with fear",
+            "Tonglen",
+            "Staying present with pain",
+            "Groundlessness & change"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Where to start",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Her free articles and talks on tonglen and 'staying with' difficulty offer comfort and practical wisdom in hard times."
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "article",
+      "title": "How to practice Tonglen",
+      "source": "Lion's Roar",
+      "url": "https://www.lionsroar.com/how-to-practice-tonglen/",
+      "whyHere": "Free guidance on her signature compassion practice."
+    },
+    {
+      "type": "article",
+      "title": "Pema Chödrön Foundation",
+      "source": "Pema Chödrön Foundation",
+      "url": "https://pemachodronfoundation.org",
+      "whyHere": "Free teachings and resources."
+    }
+  ],
+  "related": [
+    {
+      "id": "thich-nhat-hanh",
+      "title": "Thich Nhat Hanh"
+    },
+    {
+      "id": "tara-brach",
+      "title": "Tara Brach"
+    }
+  ]
+}

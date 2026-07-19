@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Live meetings — A World That Heals</title>
+  <meta name="description" content="Free online recovery and meditation meetings, with times shown in your local timezone. Filter by fellowship or tradition." />
+  <meta name="theme-color" content="#121309" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="icons/icon-180.png" />
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="stylesheet" href="css/lib.css" />
+</head>
+<body>
+  <main id="main">
+    <div class="container page-intro">
+      <p class="page-intro__eyebrow">Live meetings</p>
+      <h1>Free meetings, in your local time</h1>
+      <p class="meeting-tz">Showing times for <strong id="tz-label">your local timezone</strong>, soonest first.</p>
+    </div>
+    <div class="container section" style="padding-top:0">
+      <div class="filter-bar" id="filter-bar" role="group" aria-label="Filter meetings"></div>
+      <div class="meeting-list" id="meeting-list"></div>
+      <div class="note-strip">
+        <p><strong>Please note:</strong> <span id="meeting-note"></span></p>
+      </div>
+    </div>
+  </main>
+  <script type="module" src="js/meetings.js"></script>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

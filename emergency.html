@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Emergency support — A World That Heals</title>
+  <meta name="description" content="Official, free crisis and emergency mental health lines by country. If you're in immediate danger, contact your local emergency services." />
+  <meta name="theme-color" content="#121309" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="icons/icon-180.png" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <main id="main">
+    <div class="container emergency-hero">
+      <nav class="breadcrumb" aria-label="Breadcrumb"><a href="index.html">Home</a> &nbsp;/&nbsp; Emergency support</nav>
+      <h1>You deserve help right now</h1>
+      <p class="topic-lead">If you or someone else is in immediate danger, contact your local emergency services. The crisis lines below are free, confidential, and staffed by trained people. You do not have to be in a life-threatening crisis to call — reaching out early is always okay.</p>
+    </div>
+
+    <div class="container section" style="padding-top:0">
+      <div class="country-select">
+        <label for="country-select">Choose your country to see local support</label>
+        <select id="country-select" aria-label="Select your country"></select>
+      </div>
+
+      <h2 id="country-heading" style="font-size:var(--fs-22);margin-bottom:var(--s-4);letter-spacing:-.01em">Crisis &amp; emergency support</h2>
+      <div class="crisis-resource-list" id="crisis-list"><!-- populated by emergency.js --></div>
+
+      <div class="emergency-note">
+        <p><strong>A note on privacy:</strong> we don't detect your location or track you. You choose your country manually, and nothing you select leaves your device. If your country isn't listed, choose “International” for worldwide helpline directories.</p>
+      </div>
+    </div>
+  </main>
+
+  <script type="module" src="js/app.js"></script>
+  <script type="module" src="js/emergency.js"></script>
+</body>
+</html>

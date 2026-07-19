@@ -1,0 +1,33 @@
+{
+  "id": "anxiety",
+  "title": "Anxiety",
+  "evidenceStatus": "evidence-based",
+  "lead": "Anxiety is your body's alarm system doing its job too often, too loudly. It's exhausting — and it's also one of the most treatable experiences there is.",
+  "explanation": [
+    "Anxiety is the feeling of worry, dread, or fear about what might happen. In small doses it's useful — it sharpens focus and keeps us safe. It becomes a problem when the alarm keeps ringing even when there's no real danger, or won't switch off afterwards.",
+    "Physically, anxiety is your nervous system shifting into 'fight or flight': faster heartbeat, shallow breathing, tense muscles, a churning stomach. These sensations are uncomfortable but not dangerous — they're your body preparing to protect you.",
+    "You are not broken, weak, or 'too sensitive'. Anxiety disorders are among the most common health conditions in the world, and they respond very well to skills you can learn and support you can reach for."
+  ],
+  "symptoms": ["Constant worry that's hard to control", "Racing or pounding heart", "Restlessness or feeling on edge", "Trouble concentrating", "Muscle tension", "Trouble sleeping", "Avoiding situations that feel risky", "A sense of dread"],
+  "copingTools": {
+    "immediate": [
+      { "title": "Physiological sigh", "steps": ["Take a normal breath in through your nose", "Add a second, shorter sip of air on top to fully inflate your lungs", "Let it all out slowly through your mouth with a long exhale", "Repeat 1–3 times"] },
+      { "title": "5-4-3-2-1 grounding", "steps": ["Name 5 things you can see", "4 things you can feel", "3 things you can hear", "2 things you can smell", "1 thing you can taste"] },
+      { "title": "Name it to tame it", "description": "Silently label what's happening: 'This is anxiety. It's uncomfortable, not dangerous. It will pass.' Naming the feeling helps your thinking brain come back online." }
+    ],
+    "longTerm": [
+      { "title": "Cognitive Behavioural Therapy (CBT)", "description": "The most researched approach for anxiety. It teaches you to notice anxious thoughts, test them, and gradually face what you've been avoiding. Many free CBT tools and courses exist." },
+      { "title": "Regular movement", "description": "Even a daily walk measurably lowers baseline anxiety by discharging stress hormones and regulating the nervous system." },
+      { "title": "Reducing avoidance", "description": "Anxiety shrinks the more you approach — in small, planned steps — the things you fear, rather than avoiding them. This is the core of exposure practice." }
+    ]
+  },
+  "resources": [
+    { "type": "article", "title": "Anxiety Disorders — overview", "source": "National Institute of Mental Health (NIMH)", "url": "https://www.nimh.nih.gov/health/topics/anxiety-disorders", "whyHere": "Clear, science-based primer from a leading public research institute.", "evidenceStatus": "evidence-based" },
+    { "type": "article", "title": "Self-help CBT guides", "source": "NHS / Cumbria, Northumberland CBT resources", "url": "https://web.ntw.nhs.uk/selfhelp/", "whyHere": "Free downloadable CBT booklets on anxiety, panic and worry.", "evidenceStatus": "evidence-based" },
+    { "type": "app", "title": "MindShift CBT", "source": "Anxiety Canada", "url": "https://www.anxietycanada.com/resources/mindshift-cbt/", "whyHere": "Free CBT-based app built specifically for anxiety, by a respected non-profit.", "evidenceStatus": "evidence-based" },
+    { "type": "app", "title": "Healthy Minds Program", "source": "Healthy Minds Innovations", "url": "https://hminnovations.org/meditation-app", "whyHere": "Completely free, research-backed meditation and awareness training.", "evidenceStatus": "evidence-based" },
+    { "type": "video", "title": "How to make stress your friend", "source": "Kelly McGonigal / TED", "url": "https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend", "whyHere": "Reframes the physical feelings of anxiety in an empowering, evidence-informed way.", "evidenceStatus": "emerging" }
+  ],
+  "relatedTopics": ["panic-attacks", "overthinking", "stress", "mindfulness"],
+  "matchPhrases": ["i feel anxious", "i have anxiety", "i'm so anxious", "i can't stop worrying", "i feel nervous all the time", "i'm on edge", "my mind won't calm down", "i feel scared for no reason", "everything makes me anxious", "i'm worried all the time", "anxiety is ruining my life"]
+}

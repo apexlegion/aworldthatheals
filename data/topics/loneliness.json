@@ -1,0 +1,32 @@
+{
+  "id": "loneliness",
+  "title": "Loneliness",
+  "evidenceStatus": "evidence-based",
+  "lead": "Loneliness is the gap between the connection you have and the connection you long for. It's painful, it's common, and it can ease — often in smaller steps than you'd think.",
+  "explanation": [
+    "Loneliness is the distress of feeling disconnected. It isn't the same as being alone — you can feel lonely in a crowd or in a relationship, and you can feel content in solitude. It's about whether you feel seen, understood, and belonging.",
+    "It's more common than almost anyone admits. Public health leaders now treat loneliness as a serious issue affecting millions, with real effects on mood and physical health. If you feel this way, you are genuinely not alone in it.",
+    "Loneliness can become self-reinforcing: it makes us expect rejection, so we withdraw, which deepens the isolation. Gently interrupting that loop — with small, low-stakes moments of connection — is how the pattern starts to shift."
+  ],
+  "symptoms": ["Feeling disconnected even around others", "Believing no one really understands you", "Withdrawing or isolating", "Feeling like a burden", "Craving connection but fearing rejection", "Low mood or emptiness", "Spending a lot of time on screens to fill the gap"],
+  "copingTools": {
+    "immediate": [
+      { "title": "One small point of contact", "description": "Connection doesn't have to be deep to help. Say hello to a neighbour, message an old friend, or chat with someone at a shop. Small moments of being seen add up." },
+      { "title": "Reach toward, not away", "steps": ["Notice the urge to withdraw", "Choose one tiny approach instead — a text, a call, a comment", "Aim for connection, not perfection"] },
+      { "title": "Be kind to the lonely feeling", "description": "Instead of judging yourself for feeling lonely, treat it as information: it means connection matters to you. That's human, not shameful." }
+    ],
+    "longTerm": [
+      { "title": "Build around shared activity", "description": "Deep friendships often grow sideways — through repeated shared activity (a class, a volunteering role, a group) rather than trying to force closeness directly." },
+      { "title": "Deepen what you already have", "description": "Sometimes the answer isn't more people but more depth: being a little more open and vulnerable with someone already in your life." },
+      { "title": "Talk to someone", "description": "Free listening services and peer communities exist precisely for this. Speaking to a trained listener can bridge the gap while you rebuild connection." }
+    ]
+  },
+  "resources": [
+    { "type": "article", "title": "Our Epidemic of Loneliness and Isolation", "source": "U.S. Surgeon General", "url": "https://www.hhs.gov/surgeongeneral/priorities/connection/index.html", "whyHere": "Landmark public-health report showing how common and serious loneliness is.", "evidenceStatus": "evidence-based" },
+    { "type": "article", "title": "Loneliness — how to cope", "source": "Mind (UK)", "url": "https://www.mind.org.uk/information-support/tips-for-everyday-living/loneliness/", "whyHere": "Warm, practical, free guidance from a leading mental health charity.", "evidenceStatus": "evidence-based" },
+    { "type": "community", "title": "7 Cups", "source": "7 Cups", "url": "https://www.7cups.com", "whyHere": "Free, anonymous listeners and community for exactly this feeling, 24/7.", "evidenceStatus": "emerging" },
+    { "type": "community", "title": "Meetup", "source": "Meetup", "url": "https://www.meetup.com", "whyHere": "Find free local groups built around shared interests — a gentle path to connection.", "evidenceStatus": "emerging" }
+  ],
+  "relatedTopics": ["depression", "self-esteem", "anxiety", "breakups"],
+  "matchPhrases": ["i feel lonely", "i'm so alone", "i have no one", "nobody understands me", "i feel disconnected", "i have no friends", "i feel invisible", "i feel left out", "i feel isolated", "no one would notice if i disappeared", "i feel alone even around people"]
+}

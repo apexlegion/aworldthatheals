@@ -1,0 +1,74 @@
+{
+  "id": "jon-kabat-zinn",
+  "title": "Jon Kabat-Zinn",
+  "role": "Scientist & founder of MBSR",
+  "category": "Mindfulness",
+  "blurb": "Founder of Mindfulness-Based Stress Reduction (MBSR).",
+  "lead": "The scientist who brought mindfulness into mainstream medicine by creating the MBSR programme.",
+  "sections": [
+    {
+      "heading": "About",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Jon Kabat-Zinn founded Mindfulness-Based Stress Reduction (MBSR) at the University of Massachusetts, bringing secular mindfulness into hospitals and mainstream science."
+        },
+        {
+          "kind": "p",
+          "text": "His work sparked much of the modern research base for mindfulness in health and wellbeing."
+        }
+      ]
+    },
+    {
+      "heading": "Teaching focus",
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "chips",
+          "items": [
+            "MBSR",
+            "Secular mindfulness",
+            "Body scan",
+            "Mindfulness in medicine"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Where to start",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "A free online MBSR course (Palouse Mindfulness) follows his programme closely and is an excellent, structured way to begin."
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "video",
+      "title": "Free MBSR online course",
+      "source": "Palouse Mindfulness",
+      "url": "https://palousemindfulness.com",
+      "whyHere": "Complete free course modelled on his MBSR programme."
+    },
+    {
+      "type": "app",
+      "title": "UCLA Mindful",
+      "source": "UCLA Health",
+      "url": "https://www.uclahealth.org/programs/marc/free-guided-meditations",
+      "whyHere": "Free guided practices in the MBSR spirit."
+    }
+  ],
+  "related": [
+    {
+      "id": "tara-brach",
+      "title": "Tara Brach"
+    },
+    {
+      "id": "sharon-salzberg",
+      "title": "Sharon Salzberg"
+    }
+  ]
+}

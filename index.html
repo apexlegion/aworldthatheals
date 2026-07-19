@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>A World That Heals — Free mental health & recovery resources for everyone</title>
+  <meta name="description" content="A free, privacy-first library of trustworthy mental health, wellbeing and recovery resources. Type how you feel and find help — no ads, no accounts, no cost." />
+  <meta name="theme-color" content="#121309" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="icons/icon-180.png" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <main id="main">
+    <section class="hero">
+      <div class="container">
+        <p class="hero__eyebrow">Connecting hearts · healing minds</p>
+        <h1>However you feel right now, you don't have to figure it out alone.</h1>
+        <p class="lede">A free, private library of trustworthy mental health, wellbeing and recovery resources. Tell us what you're going through — we'll point you toward help that costs nothing.</p>
+
+        <form class="search" id="search-form" role="search" autocomplete="off">
+          <label class="search__label" for="search-input">How are you feeling?</label>
+          <div class="search__field">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+            <input id="search-input" name="q" type="text" placeholder="e.g. “I feel anxious” or “I can't sleep”" enterkeyhint="search" />
+            <button class="search__submit" type="submit">Find help</button>
+          </div>
+          <p class="search__hint">Try:
+            <button type="button" data-example="I feel anxious">I feel anxious</button>
+            <button type="button" data-example="I can't stop overthinking">I can't stop overthinking</button>
+            <button type="button" data-example="I lost someone">I lost someone</button>
+            <button type="button" data-example="I relapsed">I relapsed</button>
+            <button type="button" data-example="I want to meditate">I want to meditate</button>
+          </p>
+        </form>
+
+        <div class="results" id="results" hidden aria-live="polite"></div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="grid-head">
+          <h2>Browse by what you're facing</h2>
+          <p>Every topic is free · evidence-labelled · no sign-up</p>
+        </div>
+        <div class="topic-grid" id="topic-grid"><!-- populated by search.js --></div>
+      </div>
+    </section>
+  </main>
+
+  <script type="module" src="js/app.js"></script>
+  <script type="module" src="js/search.js"></script>
+</body>
+</html>

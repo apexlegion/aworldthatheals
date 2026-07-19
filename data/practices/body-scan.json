@@ -1,0 +1,99 @@
+{
+  "id": "body-scan",
+  "title": "Body Scan",
+  "category": "Mindfulness",
+  "evidenceStatus": "evidence-based",
+  "blurb": "Move attention slowly through the body to release tension and reconnect.",
+  "lead": "The body scan builds present-moment awareness by moving attention gently through the body, part by part — a cornerstone of MBSR.",
+  "sections": [
+    {
+      "heading": "What it is",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "A body scan involves moving your attention slowly through your body, noticing sensations without trying to change them."
+        },
+        {
+          "kind": "p",
+          "text": "It builds interoception (awareness of internal sensations), releases held tension, and anchors you in the present. It's a core practice in Mindfulness-Based Stress Reduction (MBSR)."
+        }
+      ]
+    },
+    {
+      "heading": "How to practise",
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "steps",
+          "items": [
+            "Lie down or sit comfortably. Close your eyes.",
+            "Bring attention to your feet — notice any sensations: warmth, pressure, tingling, or nothing at all.",
+            "Slowly move upward — legs, hips, belly, chest, arms, hands, neck, face.",
+            "If your mind wanders or you feel nothing in an area, that's fine — just move on gently.",
+            "Finish by sensing the whole body breathing."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Good to know",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "meta",
+          "items": [
+            {
+              "label": "Duration",
+              "value": "10–40 minutes"
+            },
+            {
+              "label": "Best for",
+              "value": "Stress, tension, sleep, reconnecting with the body"
+            },
+            {
+              "label": "Tradition",
+              "value": "MBSR / Vipassana roots"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Common mistakes",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Trying to force relaxation. The goal is awareness, not a particular state — relaxation often follows on its own."
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "video",
+      "title": "Free MBSR online course",
+      "source": "Palouse Mindfulness",
+      "url": "https://palousemindfulness.com",
+      "whyHere": "Complete free MBSR course with guided body scans.",
+      "evidenceStatus": "evidence-based"
+    },
+    {
+      "type": "app",
+      "title": "UCLA Mindful",
+      "source": "UCLA Health",
+      "url": "https://www.uclahealth.org/programs/marc/free-guided-meditations",
+      "whyHere": "Free guided body scan meditations.",
+      "evidenceStatus": "evidence-based"
+    }
+  ],
+  "related": [
+    {
+      "id": "breath-awareness",
+      "title": "Breath Awareness"
+    },
+    {
+      "id": "nsdr-yoga-nidra",
+      "title": "NSDR / Yoga Nidra"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Addiction recovery — A World That Heals</title>
+  <meta name="description" content="Free recovery fellowships and support for alcohol, drugs, gambling, gaming, food, sex, codependency and families. Filter by what you're facing." />
+  <meta name="theme-color" content="#121309" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="icons/icon-180.png" />
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="stylesheet" href="css/lib.css" />
+</head>
+<body>
+  <main id="main">
+    <div class="container page-intro">
+      <p class="page-intro__eyebrow">Addiction recovery</p>
+      <h1>Free recovery support for every kind of struggle</h1>
+      <p>Recovery is possible, and you don't have to pay to find help. These are established, free fellowships and services — filter by what you're facing. Every one offers free meetings or support.</p>
+    </div>
+    <div class="container section" style="padding-top:0">
+      <div class="filter-bar" id="filter-bar" role="group" aria-label="Filter by type"></div>
+      <div class="card-grid" id="recovery-grid"></div>
+      <div class="note-strip">
+        <p><strong>Struggling right now?</strong> If you've had a setback, that's part of recovery — not the end of it. See <a href="topic.html?id=relapse">Relapse &amp; Recovery</a>, or reach a person now on the <a href="emergency.html">emergency page</a>.</p>
+      </div>
+    </div>
+  </main>
+  <script type="module">
+    import { initDirectory } from "./js/directory.js";
+    initDirectory({ data: "data/recovery.json", mount: "recovery-grid", filterKey: "category", external: true });
+  </script>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

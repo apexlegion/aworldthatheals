@@ -1,0 +1,82 @@
+{
+  "id": "positive-psychology",
+  "title": "Positive Psychology",
+  "evidenceStatus": "emerging",
+  "category": "Approach",
+  "blurb": "The science of wellbeing and what helps humans flourish.",
+  "lead": "Positive psychology studies what makes life worth living — strengths, gratitude, meaning, and connection — and how to build more of it.",
+  "sections": [
+    {
+      "heading": "What it is",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Positive psychology is the scientific study of wellbeing and flourishing, complementing the focus on illness with a focus on what helps people thrive."
+        },
+        {
+          "kind": "p",
+          "text": "It offers practical, testable practices — like gratitude, using your strengths, savouring, and building connection. Evidence for specific practices varies; many are promising."
+        }
+      ]
+    },
+    {
+      "heading": "Core ideas",
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "chips",
+          "items": [
+            "Strengths",
+            "Gratitude",
+            "Meaning & purpose",
+            "Positive relationships",
+            "Savouring & flow"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Good to know",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "meta",
+          "items": [
+            {
+              "label": "Best for",
+              "value": "Building wellbeing, resilience, life satisfaction"
+            },
+            {
+              "label": "Format",
+              "value": "Practices & interventions"
+            },
+            {
+              "label": "Evidence",
+              "value": "Emerging; varies by practice"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "article",
+      "title": "Greater Good in Action",
+      "source": "UC Berkeley Greater Good Science Center",
+      "url": "https://ggia.berkeley.edu",
+      "whyHere": "Free, science-based wellbeing practices.",
+      "evidenceStatus": "emerging"
+    }
+  ],
+  "related": [
+    {
+      "id": "self-compassion",
+      "title": "Self-Compassion"
+    },
+    {
+      "id": "act",
+      "title": "ACT"
+    }
+  ]
+}

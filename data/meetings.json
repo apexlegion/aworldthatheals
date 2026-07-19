@@ -1,0 +1,17 @@
+{
+  "note": "Times are converted to your device's local timezone. These are representative recurring free online sessions — always confirm the exact live schedule and join via the official link, as times can change.",
+  "meetings": [
+    { "name": "SMART Recovery — daily online meeting", "org": "SMART Recovery", "type": "SMART Recovery", "format": "Online video", "dayUTC": 1, "timeUTC": "18:00", "durationMin": 90, "url": "https://meetings.smartrecovery.org", "langs": "English" },
+    { "name": "SMART Recovery — daily online meeting", "org": "SMART Recovery", "type": "SMART Recovery", "format": "Online video", "dayUTC": 4, "timeUTC": "01:00", "durationMin": 90, "url": "https://meetings.smartrecovery.org", "langs": "English" },
+    { "name": "AA — online meeting (Online Intergroup)", "org": "Alcoholics Anonymous", "type": "AA", "format": "Online video", "dayUTC": 0, "timeUTC": "17:00", "durationMin": 60, "url": "https://aa-intergroup.org/meetings/", "langs": "English" },
+    { "name": "AA — 24/7 online meetings", "org": "Alcoholics Anonymous", "type": "AA", "format": "Online video", "dayUTC": 3, "timeUTC": "12:00", "durationMin": 60, "url": "https://aa-intergroup.org/meetings/", "langs": "Many" },
+    { "name": "NA — online meeting (virtual-na.org)", "org": "Narcotics Anonymous", "type": "NA", "format": "Online video", "dayUTC": 2, "timeUTC": "19:00", "durationMin": 60, "url": "https://virtual-na.org", "langs": "English" },
+    { "name": "NA — online meeting (virtual-na.org)", "org": "Narcotics Anonymous", "type": "NA", "format": "Online video", "dayUTC": 5, "timeUTC": "23:00", "durationMin": 60, "url": "https://virtual-na.org", "langs": "Many" },
+    { "name": "Recovery Dharma — online sangha", "org": "Recovery Dharma", "type": "Recovery Dharma", "format": "Online video", "dayUTC": 6, "timeUTC": "16:00", "durationMin": 75, "url": "https://recoverydharma.org/find-a-meeting/", "langs": "English" },
+    { "name": "Recovery Dharma — online sangha", "org": "Recovery Dharma", "type": "Recovery Dharma", "format": "Online video", "dayUTC": 2, "timeUTC": "02:00", "durationMin": 75, "url": "https://recoverydharma.org/find-a-meeting/", "langs": "English" },
+    { "name": "Plum Village — online meditation", "org": "Plum Village", "type": "Meditation", "format": "Online video", "dayUTC": 0, "timeUTC": "07:00", "durationMin": 60, "url": "https://plumvillage.org/retreats/online", "langs": "English + others" },
+    { "name": "Insight meditation — online sit", "org": "Insight community", "type": "Meditation", "format": "Online video", "dayUTC": 3, "timeUTC": "00:00", "durationMin": 45, "url": "https://insighttimer.com", "langs": "English" },
+    { "name": "7 Cups — free listener support", "org": "7 Cups", "type": "Listening support", "format": "Chat, 24/7", "dayUTC": 1, "timeUTC": "12:00", "durationMin": 0, "url": "https://www.7cups.com", "langs": "Many" },
+    { "name": "Al-Anon — online meeting", "org": "Al-Anon", "type": "Al-Anon (families)", "format": "Online video", "dayUTC": 4, "timeUTC": "18:30", "durationMin": 60, "url": "https://al-anon.org/al-anon-meetings/electronic-meetings/", "langs": "English" }
+  ]
+}

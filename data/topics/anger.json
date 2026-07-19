@@ -1,0 +1,32 @@
+{
+  "id": "anger",
+  "title": "Anger",
+  "evidenceStatus": "evidence-based",
+  "lead": "Anger isn't the enemy — it's a signal that something matters, feels unfair, or has been crossed. The goal isn't to erase it, but to understand and channel it.",
+  "explanation": [
+    "Anger is a normal, healthy emotion. It often points to a boundary being crossed, a need going unmet, or an injustice. Underneath anger there's frequently something softer — hurt, fear, shame, or grief that feels safer expressed as anger.",
+    "The problem is rarely the feeling itself but what we do with it. When anger is suppressed, it can leak out as resentment, tension, or turn inward as depression. When it explodes, it can damage relationships and leave us ashamed.",
+    "You can learn to feel anger fully without being controlled by it — noticing it early, understanding its message, and expressing it in ways that respect both you and others. This is a skill, and it can be built."
+  ],
+  "symptoms": ["Quick temper or frequent irritability", "Physical tension, clenched jaw, racing heart", "Saying or doing things you later regret", "Resentment that builds up", "Feeling out of control when angry", "Anger masking hurt or fear", "Guilt after outbursts"],
+  "copingTools": {
+    "immediate": [
+      { "title": "Create a pause", "steps": ["Notice the early signs — heat, tension, racing thoughts", "Step away from the situation if you can", "Take slow breaths with long exhales until the surge lowers", "Respond once your thinking brain is back online"] },
+      { "title": "Discharge the energy safely", "description": "Anger is physical. A brisk walk, pushing against a wall, or vigorous movement helps burn off the adrenaline so you can think clearly." },
+      { "title": "Look underneath", "description": "Ask: what is this anger protecting? Often there's hurt, fear, or an unmet need beneath it. Naming that softens the anger and reveals what you actually need." }
+    ],
+    "longTerm": [
+      { "title": "Learn your triggers and patterns", "description": "Tracking what sets you off — and what you were feeling beforehand — helps you intervene earlier, before anger takes over." },
+      { "title": "Express needs assertively", "description": "Assertiveness — stating your needs and boundaries clearly and respectfully — lets anger's message be heard without aggression or suppression." },
+      { "title": "CBT and anger management", "description": "Structured approaches help you reframe the thoughts that fuel anger and build healthier responses. Free guides are widely available." }
+    ]
+  },
+  "resources": [
+    { "type": "article", "title": "Controlling anger", "source": "American Psychological Association (APA)", "url": "https://www.apa.org/topics/anger/control", "whyHere": "Evidence-based strategies for managing anger from the APA.", "evidenceStatus": "evidence-based" },
+    { "type": "worksheet", "title": "Understanding anger self-help guide", "source": "NHS self-help guides", "url": "https://web.ntw.nhs.uk/selfhelp/", "whyHere": "Free CBT-based booklet on recognising and managing anger.", "evidenceStatus": "evidence-based" },
+    { "type": "article", "title": "Managing anger", "source": "Mind (UK)", "url": "https://www.mind.org.uk/information-support/types-of-mental-health-problems/anger/", "whyHere": "Free, practical guidance on understanding and channelling anger.", "evidenceStatus": "evidence-based" },
+    { "type": "app", "title": "MindShift CBT", "source": "Anxiety Canada", "url": "https://www.anxietycanada.com/resources/mindshift-cbt/", "whyHere": "Free CBT tools useful for the thoughts and tension behind anger.", "evidenceStatus": "evidence-based" }
+  ],
+  "relatedTopics": ["stress", "shame-guilt", "trauma", "mindfulness"],
+  "matchPhrases": ["i'm so angry", "i can't control my anger", "i keep losing my temper", "i get so irritable", "i'm full of rage", "i snap at people", "i feel so frustrated", "my anger scares me", "i regret things i say when angry", "why am i always angry"]
+}

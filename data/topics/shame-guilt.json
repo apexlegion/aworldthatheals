@@ -1,0 +1,32 @@
+{
+  "id": "shame-guilt",
+  "title": "Shame & Guilt",
+  "evidenceStatus": "evidence-based",
+  "lead": "Guilt says 'I did something bad'. Shame says 'I am bad'. Knowing the difference is the beginning of setting yourself free from carrying both.",
+  "explanation": [
+    "Guilt and shame feel similar but work very differently. Guilt is about behaviour — 'I did something that goes against my values'. Used well, it can guide us to repair and do better. Shame is about identity — 'I am flawed, unworthy, unlovable'. Shame rarely motivates change; it makes us hide, shrink, and give up.",
+    "Chronic shame often traces back to messages we absorbed — from harsh criticism, trauma, or comparison — that told us we were the problem. It can feel like the truth, but it's a wound, not a fact about your worth.",
+    "You can honour genuine guilt (by making amends and adjusting course) while gently releasing toxic shame (by challenging the belief that you are fundamentally bad). Self-compassion, not self-punishment, is what actually helps people change and heal."
+  ],
+  "symptoms": ["Feeling fundamentally bad or unworthy", "Wanting to hide or disappear", "Harsh self-criticism", "Difficulty forgiving yourself", "Replaying mistakes", "Feeling you don't deserve good things", "People-pleasing to earn worth"],
+  "copingTools": {
+    "immediate": [
+      { "title": "Separate the behaviour from the self", "steps": ["Notice: am I telling myself 'I did bad' or 'I am bad'?", "Reframe shame into guilt: 'I made a mistake' rather than 'I am a mistake'", "A mistake is something you did, not something you are"] },
+      { "title": "Speak to yourself as a friend", "description": "Ask what you'd say to someone you love who did the same thing. Offer yourself that same understanding — not to excuse harm, but to stay human enough to grow." },
+      { "title": "Bring shame into the light", "description": "Shame thrives in secrecy. Telling a safe, non-judgemental person the thing you feel ashamed of often dissolves much of its power." }
+    ],
+    "longTerm": [
+      { "title": "Practise self-forgiveness", "description": "Self-forgiveness isn't letting yourself off the hook — it's taking responsibility, making amends where you can, and then choosing to stop punishing yourself endlessly." },
+      { "title": "Self-compassion", "description": "Strong evidence shows self-compassion reduces shame and supports real behaviour change more effectively than self-criticism." },
+      { "title": "Explore the roots", "description": "If shame runs deep, therapy — including approaches like IFS or compassion-focused therapy — can help you understand and heal where it came from." }
+    ]
+  },
+  "resources": [
+    { "type": "video", "title": "Listening to shame", "source": "Brené Brown / TED", "url": "https://www.ted.com/talks/brene_brown_listening_to_shame", "whyHere": "A landmark, accessible talk on shame and how vulnerability heals it.", "evidenceStatus": "emerging" },
+    { "type": "worksheet", "title": "Self-compassion & self-forgiveness practices", "source": "Dr. Kristin Neff", "url": "https://self-compassion.org/self-compassion-practices/", "whyHere": "Free guided exercises to soften shame and self-criticism.", "evidenceStatus": "evidence-based" },
+    { "type": "article", "title": "Compassion-focused therapy overview", "source": "Compassionate Mind Foundation", "url": "https://www.compassionatemind.co.uk/resources", "whyHere": "Free resources on working with shame and self-criticism.", "evidenceStatus": "evidence-based" },
+    { "type": "book", "title": "The Happiness Trap (free worksheets)", "source": "Russ Harris", "url": "https://thehappinesstrap.com/free-resources/", "whyHere": "Free ACT tools for unhooking from painful self-judgements.", "evidenceStatus": "evidence-based" }
+  ],
+  "relatedTopics": ["self-esteem", "depression", "trauma", "relapse"],
+  "matchPhrases": ["i feel guilty", "i feel so ashamed", "i can't forgive myself", "i feel like a bad person", "i keep punishing myself", "i did something terrible", "i can't stop feeling guilty", "i'm ashamed of myself", "i feel unworthy", "i hate what i did"]
+}

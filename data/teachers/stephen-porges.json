@@ -1,0 +1,67 @@
+{
+  "id": "stephen-porges",
+  "title": "Stephen Porges",
+  "role": "Neuroscientist",
+  "category": "Approaches",
+  "blurb": "Originator of Polyvagal Theory.",
+  "lead": "The scientist whose polyvagal theory reshaped how many understand safety, trauma, and the nervous system.",
+  "sections": [
+    {
+      "heading": "About",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Stephen Porges is a neuroscientist who proposed polyvagal theory, describing how the autonomic nervous system regulates states of safety, danger, and connection."
+        },
+        {
+          "kind": "p",
+          "text": "His ideas have been influential in trauma-informed care, though aspects remain debated in the research community."
+        }
+      ]
+    },
+    {
+      "heading": "Teaching focus",
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "chips",
+          "items": [
+            "Polyvagal theory",
+            "Neuroception",
+            "Safety & connection",
+            "Trauma-informed care"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Where to start",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Accessible free explainer videos are the easiest entry point to his (fairly technical) ideas."
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "video",
+      "title": "Polyvagal theory explained",
+      "source": "Educational channels",
+      "url": "https://www.youtube.com/results?search_query=stephen+porges+polyvagal+explained",
+      "whyHere": "Free accessible explanations."
+    }
+  ],
+  "related": [
+    {
+      "id": "richard-schwartz",
+      "title": "Richard Schwartz"
+    },
+    {
+      "id": "marsha-linehan",
+      "title": "Marsha Linehan"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "relapse",
+  "title": "Relapse & Recovery",
+  "evidenceStatus": "evidence-based",
+  "lead": "A relapse is a setback, not a verdict. Recovery is rarely a straight line — what matters most is what you do next, and you don't have to do it alone.",
+  "explanation": [
+    "If you've returned to a substance or behaviour you were trying to leave behind, you may feel crushing shame or like you've thrown everything away. You haven't. Relapse is common in recovery from addiction, and it does not erase the progress you made.",
+    "Addiction involves real changes in the brain's reward and stress systems — it is not a moral failing or a lack of willpower. Understanding relapse as part of a process, rather than proof of failure, is what helps people get back up faster.",
+    "The most important thing is to reach out again as soon as you can, rather than letting shame pull you deeper. Every person in long-term recovery has had hard moments. Support — from people, groups, and professionals — is what makes the difference."
+  ],
+  "symptoms": ["Overwhelming shame or self-blame after a slip", "Feeling like you've ruined everything", "Urges or cravings returning", "Isolating from support", "'What's the point' thinking", "Hiding it from others", "Fear of judgement"],
+  "copingTools": {
+    "immediate": [
+      { "title": "Interrupt the shame spiral", "description": "Shame says 'you're a failure, so why bother'. That voice fuels more use. Try instead: 'This is a setback. Setbacks are part of recovery. I can start again right now.'" },
+      { "title": "Reach out immediately", "steps": ["Contact your sponsor, a support group, or a trusted person today", "Be honest about what happened — you won't be judged in recovery spaces", "Ask for help getting back on track"] },
+      { "title": "Learn from the trigger", "description": "Without self-punishment, ask: what led here? A feeling, place, person, or stress? Understanding the trigger turns a relapse into information that strengthens your recovery." }
+    ],
+    "longTerm": [
+      { "title": "Free peer support groups", "description": "AA, NA, SMART Recovery, Recovery Dharma and others offer free meetings, community, and structure. Many are online and available worldwide, any time of day." },
+      { "title": "Build a relapse-prevention plan", "description": "With support, identify your triggers, warning signs, and coping steps in advance. Preparation makes future high-risk moments far more survivable." },
+      { "title": "Treat what's underneath", "description": "Addiction often coexists with anxiety, depression, or trauma. Addressing those directly supports lasting recovery." }
+    ]
+  },
+  "resources": [
+    { "type": "community", "title": "SMART Recovery", "source": "SMART Recovery", "url": "https://www.smartrecovery.org", "whyHere": "Free, science-based, self-empowering recovery meetings — online and in person.", "evidenceStatus": "evidence-based" },
+    { "type": "community", "title": "Alcoholics Anonymous", "source": "AA", "url": "https://www.aa.org", "whyHere": "Free worldwide fellowship and meetings for alcohol recovery.", "evidenceStatus": "emerging" },
+    { "type": "community", "title": "Narcotics Anonymous", "source": "NA", "url": "https://www.na.org", "whyHere": "Free worldwide fellowship and meetings for drug recovery.", "evidenceStatus": "emerging" },
+    { "type": "community", "title": "Recovery Dharma", "source": "Recovery Dharma", "url": "https://recoverydharma.org", "whyHere": "Free, Buddhist-inspired peer recovery community and meetings.", "evidenceStatus": "emerging" },
+    { "type": "article", "title": "Treatment and recovery", "source": "SAMHSA", "url": "https://www.samhsa.gov/find-help", "whyHere": "Free helpline and treatment locator for substance use.", "evidenceStatus": "evidence-based" }
+  ],
+  "relatedTopics": ["shame-guilt", "hope-motivation", "self-esteem", "depression"],
+  "matchPhrases": ["i relapsed", "i used again", "i slipped", "i started drinking again", "i can't stay sober", "i feel like i failed my recovery", "i'm ashamed i relapsed", "i broke my streak", "i keep relapsing", "i went back to my addiction"]
+}

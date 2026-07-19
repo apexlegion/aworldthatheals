@@ -1,0 +1,32 @@
+{
+  "id": "sleep",
+  "title": "Sleep",
+  "evidenceStatus": "evidence-based",
+  "lead": "Sleep isn't a luxury — it's when your mind and body repair. When it breaks down, everything gets harder. The good news: sleep responds well to small, consistent changes.",
+  "explanation": [
+    "Sleep problems can mean trouble falling asleep, staying asleep, waking too early, or sleep that never feels restful. Almost everyone struggles at some point, especially during stress, anxiety, grief, or big life changes.",
+    "A frustrating loop often forms: you can't sleep, so you worry about not sleeping, and that worry keeps you awake. Trying harder to sleep tends to backfire, because sleep is something you allow, not something you force.",
+    "The most effective long-term help for ongoing insomnia isn't medication but a structured approach called CBT-I (cognitive behavioural therapy for insomnia), which retrains your sleep patterns and calms the anxious relationship with sleep."
+  ],
+  "symptoms": ["Trouble falling asleep", "Waking during the night or too early", "Lying awake with a racing mind", "Feeling unrefreshed after sleep", "Daytime fatigue and irritability", "Dreading bedtime", "Relying on screens or substances to sleep"],
+  "copingTools": {
+    "immediate": [
+      { "title": "Get out of bed if you can't sleep", "description": "If you're awake and frustrated after ~20 minutes, get up, keep lights low, and do something calm until sleepy. This stops your brain from associating bed with wakefulness." },
+      { "title": "Slow breathing to wind down", "steps": ["Lie comfortably and breathe out fully", "Breathe in through your nose for 4", "Out slowly for 6–8", "Let each exhale soften your body a little more"] },
+      { "title": "Offload the mind", "description": "Keep a notepad by the bed. If thoughts or to-dos keep surfacing, write them down so your brain can let go of holding them." }
+    ],
+    "longTerm": [
+      { "title": "Protect a consistent rhythm", "description": "Wake at the same time daily (even after a bad night), get morning daylight, and keep the bedroom cool, dark, and screen-free. Consistency resets your body clock." },
+      { "title": "CBT-I", "description": "The gold-standard treatment for chronic insomnia. Free CBT-I guides and apps can retrain your sleep without medication." },
+      { "title": "Address what's underneath", "description": "Persistent sleep problems are often driven by stress, anxiety, or low mood. Tending to those directly often improves sleep too." }
+    ]
+  },
+  "resources": [
+    { "type": "article", "title": "Insomnia — self-help and treatment", "source": "NHS", "url": "https://www.nhs.uk/conditions/insomnia/", "whyHere": "Clear, trustworthy guidance on causes and what actually helps.", "evidenceStatus": "evidence-based" },
+    { "type": "article", "title": "Healthy sleep tips", "source": "Sleep Foundation", "url": "https://www.sleepfoundation.org/sleep-hygiene", "whyHere": "Evidence-based sleep hygiene guidance, free to read.", "evidenceStatus": "evidence-based" },
+    { "type": "app", "title": "CBT-i Coach", "source": "US Dept. of Veterans Affairs", "url": "https://mobile.va.gov/app/cbt-i-coach", "whyHere": "Free, evidence-based app built around CBT for insomnia.", "evidenceStatus": "evidence-based" },
+    { "type": "video", "title": "NSDR / Yoga Nidra for rest", "source": "Various (see Mindfulness topic)", "url": "https://www.uclahealth.org/programs/marc/free-guided-meditations", "whyHere": "Non-sleep deep rest practices that calm the nervous system before bed.", "evidenceStatus": "emerging" }
+  ],
+  "relatedTopics": ["anxiety", "stress", "overthinking", "mindfulness"],
+  "matchPhrases": ["i can't sleep", "i have insomnia", "i keep waking up at night", "i lie awake for hours", "my mind races at night", "i'm exhausted but can't sleep", "i dread going to bed", "i never feel rested", "i wake up too early", "sleep problems"]
+}

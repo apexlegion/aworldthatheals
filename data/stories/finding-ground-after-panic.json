@@ -1,0 +1,63 @@
+{
+  "id": "finding-ground-after-panic",
+  "title": "Finding ground after panic",
+  "category": "Anxiety",
+  "blurb": "How someone went from fearing every heartbeat to trusting their body again.",
+  "lead": "A story about living with panic attacks — and slowly learning they couldn't cause the harm they threatened.",
+  "sections": [
+    {
+      "heading": null,
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "For a long time, every fast heartbeat felt like proof something was terribly wrong. The first panic attack came out of nowhere on an ordinary afternoon — racing heart, tingling hands, a certainty of dying. The emergency room found nothing wrong, which somehow made it more frightening."
+        },
+        {
+          "kind": "p",
+          "text": "The fear of the next attack became its own prison. Places where panic had struck became places to avoid. The world got smaller."
+        },
+        {
+          "kind": "p",
+          "text": "The turning point wasn't dramatic. It was learning, slowly, that the sensations — however awful — were adrenaline, not danger. Practising slow exhales when calm. Reading that panic always peaks and passes. Letting an attack happen without fighting it, just once, and watching it fade on its own."
+        },
+        {
+          "kind": "p",
+          "text": "The attacks didn't vanish overnight. But they lost their power. The world got bigger again."
+        }
+      ]
+    },
+    {
+      "heading": null,
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "quote",
+          "text": "I stopped waiting for the fear to disappear and started letting it pass through me. That's when it finally began to loosen its grip."
+        }
+      ]
+    },
+    {
+      "heading": "A note on this story",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "This is an illustrative composite — a realistic story drawn from common experiences, not a real named individual. It's here to remind you that change is possible."
+        }
+      ]
+    }
+  ],
+  "resources": [],
+  "related": [
+    {
+      "id": "panic-attacks",
+      "title": "Panic Attacks",
+      "detailBase": "topic"
+    },
+    {
+      "id": "anxiety",
+      "title": "Anxiety",
+      "detailBase": "topic"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "loving-kindness",
+  "title": "Loving-Kindness (Metta)",
+  "category": "Mindfulness",
+  "evidenceStatus": "evidence-based",
+  "blurb": "Cultivate warmth toward yourself and others with simple phrases.",
+  "lead": "Loving-kindness, or metta, is the practice of deliberately cultivating goodwill — toward yourself, loved ones, and eventually all beings.",
+  "sections": [
+    {
+      "heading": "What it is",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Metta meditation uses gentle repeated phrases to cultivate warmth and goodwill — beginning with yourself and widening outward."
+        },
+        {
+          "kind": "p",
+          "text": "Research links loving-kindness practice to increased positive emotion, self-compassion, and connection, and reduced self-criticism."
+        }
+      ]
+    },
+    {
+      "heading": "How to practise",
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "steps",
+          "items": [
+            "Sit comfortably and take a few settling breaths.",
+            "Bring yourself to mind and silently repeat: 'May I be safe. May I be well. May I be at ease.'",
+            "Let the words be an intention, not a demand — it's okay if the feeling is faint.",
+            "Bring to mind someone you love and offer them the same phrases.",
+            "Gradually widen to a neutral person, a difficult person, and finally all beings."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Good to know",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "meta",
+          "items": [
+            {
+              "label": "Duration",
+              "value": "5–20 minutes"
+            },
+            {
+              "label": "Best for",
+              "value": "Self-criticism, isolation, resentment, compassion"
+            },
+            {
+              "label": "Tradition",
+              "value": "Buddhist (Theravada)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Common mistakes",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Expecting to instantly feel love. The practice plants a seed; the feeling grows with repetition, not force."
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "worksheet",
+      "title": "Self-compassion & loving-kindness practices",
+      "source": "Dr. Kristin Neff",
+      "url": "https://self-compassion.org/self-compassion-practices/",
+      "whyHere": "Free guided loving-kindness and self-compassion audio.",
+      "evidenceStatus": "evidence-based"
+    },
+    {
+      "type": "app",
+      "title": "Insight Timer",
+      "source": "Insight Timer",
+      "url": "https://insighttimer.com",
+      "whyHere": "Large free library of metta meditations.",
+      "evidenceStatus": "emerging"
+    }
+  ],
+  "related": [
+    {
+      "id": "tonglen",
+      "title": "Tonglen"
+    },
+    {
+      "id": "breath-awareness",
+      "title": "Breath Awareness"
+    }
+  ]
+}

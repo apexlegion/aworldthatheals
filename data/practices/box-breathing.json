@@ -1,0 +1,91 @@
+{
+  "id": "box-breathing",
+  "title": "Box Breathing",
+  "category": "Breathwork",
+  "evidenceStatus": "emerging",
+  "blurb": "Equal counts to steady the mind under pressure.",
+  "lead": "Box breathing uses equal counts of inhale, hold, exhale, and hold — a simple way to steady the nervous system, used even by high-pressure professionals.",
+  "sections": [
+    {
+      "heading": "What it is",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Box breathing (or square breathing) means breathing in four equal phases: inhale, hold, exhale, hold — each for the same count."
+        },
+        {
+          "kind": "p",
+          "text": "The rhythm and gentle breath-holds promote a sense of control and calm. It's widely used for stress and focus; evidence is promising and developing."
+        }
+      ]
+    },
+    {
+      "heading": "How to practise",
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "steps",
+          "items": [
+            "Exhale fully to begin.",
+            "Inhale through your nose for a count of 4.",
+            "Hold your breath for 4.",
+            "Exhale through your mouth for 4.",
+            "Hold empty for 4. Repeat for several rounds."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Good to know",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "meta",
+          "items": [
+            {
+              "label": "Duration",
+              "value": "2–5 minutes"
+            },
+            {
+              "label": "Best for",
+              "value": "Stress, focus, staying calm under pressure"
+            },
+            {
+              "label": "Evidence",
+              "value": "Emerging"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Common mistakes",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Straining during holds. Keep counts comfortable — shorten to 3 if 4 feels tense."
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "app",
+      "title": "MindShift CBT",
+      "source": "Anxiety Canada",
+      "url": "https://www.anxietycanada.com/resources/mindshift-cbt/",
+      "whyHere": "Free app with guided calm-breathing tools.",
+      "evidenceStatus": "evidence-based"
+    }
+  ],
+  "related": [
+    {
+      "id": "physiological-sigh",
+      "title": "Physiological Sigh"
+    },
+    {
+      "id": "4-7-8-breathing",
+      "title": "4-7-8 Breathing"
+    }
+  ]
+}

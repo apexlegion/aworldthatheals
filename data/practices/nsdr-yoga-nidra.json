@@ -1,0 +1,99 @@
+{
+  "id": "nsdr-yoga-nidra",
+  "title": "NSDR / Yoga Nidra",
+  "category": "Mindfulness",
+  "evidenceStatus": "emerging",
+  "blurb": "Deep guided rest that restores without sleep.",
+  "lead": "NSDR (non-sleep deep rest) and its root practice Yoga Nidra guide you into deep relaxation while staying awake — restorative and calming.",
+  "sections": [
+    {
+      "heading": "What it is",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Yoga Nidra is a guided practice of progressive relaxation done lying down. 'NSDR' is a modern, secular term for the same kind of deep-rest protocol."
+        },
+        {
+          "kind": "p",
+          "text": "It calms the nervous system, can reduce stress and improve sleep, and offers restoration when you're depleted but can't nap. Evidence is promising and still developing."
+        }
+      ]
+    },
+    {
+      "heading": "How to practise",
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "steps",
+          "items": [
+            "Lie down comfortably on your back, warm and supported.",
+            "Follow a guided recording (below) — you don't need to do anything but listen.",
+            "The guide leads attention through the body, breath, and sensations.",
+            "Let yourself drift into deep rest while staying just awake.",
+            "There's no goal to achieve — receiving the rest is enough."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Good to know",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "meta",
+          "items": [
+            {
+              "label": "Duration",
+              "value": "10–40 minutes"
+            },
+            {
+              "label": "Best for",
+              "value": "Exhaustion, stress, sleep, restoration"
+            },
+            {
+              "label": "Tradition",
+              "value": "Yogic; modern NSDR framing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Common mistakes",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Worrying about falling asleep. Drifting off occasionally is fine — the practice still restores you."
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "video",
+      "title": "Free Yoga Nidra / NSDR sessions",
+      "source": "UCLA Mindful & others",
+      "url": "https://www.uclahealth.org/programs/marc/free-guided-meditations",
+      "whyHere": "Free guided deep-rest recordings.",
+      "evidenceStatus": "emerging"
+    },
+    {
+      "type": "app",
+      "title": "Insight Timer",
+      "source": "Insight Timer",
+      "url": "https://insighttimer.com",
+      "whyHere": "Free library of Yoga Nidra and NSDR practices.",
+      "evidenceStatus": "emerging"
+    }
+  ],
+  "related": [
+    {
+      "id": "body-scan",
+      "title": "Body Scan"
+    },
+    {
+      "id": "coherent-breathing",
+      "title": "Coherent Breathing"
+    }
+  ]
+}

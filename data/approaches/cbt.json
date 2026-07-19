@@ -1,0 +1,90 @@
+{
+  "id": "cbt",
+  "title": "Cognitive Behavioural Therapy (CBT)",
+  "evidenceStatus": "evidence-based",
+  "category": "Approach",
+  "blurb": "Change unhelpful thought and behaviour patterns.",
+  "lead": "CBT is one of the most researched talking therapies. It helps you notice how thoughts, feelings, and behaviours interact — and change the patterns that keep you stuck.",
+  "sections": [
+    {
+      "heading": "What it is",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "CBT is a structured, practical therapy based on the idea that our thoughts, feelings, and behaviours are linked. By identifying and testing unhelpful thoughts and gradually changing behaviour, people can break cycles that fuel anxiety, depression, and more."
+        },
+        {
+          "kind": "p",
+          "text": "It's usually short-term, skills-focused, and heavily evidence-based across many conditions. Much of it can be learned through free self-help guides."
+        }
+      ]
+    },
+    {
+      "heading": "Core ideas",
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "chips",
+          "items": [
+            "Thoughts, feelings & behaviour are linked",
+            "Catch & test unhelpful thoughts",
+            "Behavioural experiments",
+            "Facing avoidance gradually",
+            "Skills you keep for life"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Good to know",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "meta",
+          "items": [
+            {
+              "label": "Best for",
+              "value": "Anxiety, depression, panic, OCD, insomnia"
+            },
+            {
+              "label": "Format",
+              "value": "Short-term, structured, skills-based"
+            },
+            {
+              "label": "Evidence",
+              "value": "Very strong"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "worksheet",
+      "title": "Free CBT self-help guides",
+      "source": "NHS (Cumbria/Northumberland)",
+      "url": "https://web.ntw.nhs.uk/selfhelp/",
+      "whyHere": "Free downloadable CBT booklets for many issues.",
+      "evidenceStatus": "evidence-based"
+    },
+    {
+      "type": "app",
+      "title": "MindShift CBT",
+      "source": "Anxiety Canada",
+      "url": "https://www.anxietycanada.com/resources/mindshift-cbt/",
+      "whyHere": "Free CBT-based app.",
+      "evidenceStatus": "evidence-based"
+    }
+  ],
+  "related": [
+    {
+      "id": "act",
+      "title": "ACT"
+    },
+    {
+      "id": "behavioral-activation",
+      "title": "Behavioural Activation"
+    }
+  ]
+}

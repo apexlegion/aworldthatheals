@@ -1,0 +1,32 @@
+{
+  "id": "stress",
+  "title": "Stress",
+  "evidenceStatus": "evidence-based",
+  "lead": "Stress is what happens when demands outweigh your sense of capacity. Some is normal and even useful — but when it never lets up, it takes a real toll.",
+  "explanation": [
+    "Stress is your body and mind's response to pressure. Facing a challenge, your system releases hormones like cortisol and adrenaline to help you rise to it. Once the pressure passes, you're meant to return to calm.",
+    "The problem is chronic stress — pressure that never switches off. When the stress response stays on for weeks or months, it wears down sleep, mood, concentration, digestion, and the immune system, and can tip into anxiety, burnout, or depression.",
+    "You can't always remove the sources of stress, but you can change your relationship with it: recovering more fully between demands, protecting the basics, and asking for the support and changes you need."
+  ],
+  "symptoms": ["Feeling overwhelmed or unable to cope", "Irritability or short temper", "Racing thoughts", "Trouble sleeping", "Headaches or muscle tension", "Changes in appetite", "Difficulty concentrating", "Feeling constantly rushed"],
+  "copingTools": {
+    "immediate": [
+      { "title": "Complete the stress cycle", "description": "Stress is physical, so it needs a physical release. A brisk walk, shaking out your body, or slow deep breaths signal to your nervous system that the threat has passed." },
+      { "title": "Brain-dump", "steps": ["Grab paper or your phone", "Write down everything on your mind, unfiltered", "Circle only what you can act on today", "Let the rest wait — it's captured, not lost"] },
+      { "title": "One-minute reset", "steps": ["Stop and put both feet on the floor", "Take three slow breaths with long exhales", "Unclench your jaw and drop your shoulders", "Ask: what's the one next thing that matters?"] }
+    ],
+    "longTerm": [
+      { "title": "Protect recovery", "description": "Chronic stress is a recovery problem as much as a demand problem. Regular breaks, real rest, movement, and connection let your system reset instead of staying on high alert." },
+      { "title": "Set boundaries", "description": "Saying no, delegating, and lowering perfectionist standards aren't luxuries — they're how you keep stress within your capacity." },
+      { "title": "Mindfulness-based stress reduction (MBSR)", "description": "A well-researched programme that lowers stress by training present-moment awareness. Free versions are widely available." }
+    ]
+  },
+  "resources": [
+    { "type": "article", "title": "I'm so stressed out — fact sheet", "source": "National Institute of Mental Health (NIMH)", "url": "https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet", "whyHere": "Straightforward guide to stress vs. anxiety and what helps.", "evidenceStatus": "evidence-based" },
+    { "type": "article", "title": "Stress management", "source": "NHS Every Mind Matters", "url": "https://www.nhs.uk/every-mind-matters/mental-health-issues/stress/", "whyHere": "Practical, free NHS strategies for reducing everyday stress.", "evidenceStatus": "evidence-based" },
+    { "type": "app", "title": "UCLA Mindful", "source": "UCLA Health", "url": "https://www.uclahealth.org/programs/marc/free-guided-meditations", "whyHere": "Free guided practices for stress, from a respected university programme.", "evidenceStatus": "evidence-based" },
+    { "type": "video", "title": "Free MBSR online course", "source": "Palouse Mindfulness", "url": "https://palousemindfulness.com", "whyHere": "A complete, free version of the evidence-based MBSR programme.", "evidenceStatus": "evidence-based" }
+  ],
+  "relatedTopics": ["burnout", "anxiety", "sleep", "mindfulness"],
+  "matchPhrases": ["i'm so stressed", "i feel overwhelmed", "everything is too much", "i can't cope", "i'm under so much pressure", "work is stressing me out", "i feel like i'm drowning", "there's too much to do", "i feel constantly rushed"]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "suicidal-thoughts",
+  "title": "Suicidal Thoughts",
+  "evidenceStatus": "evidence-based",
+  "isCrisisTopic": true,
+  "lead": "If living feels unbearable right now, please reach out to a crisis line before reading further. You matter, this pain can change, and you deserve support from a real person.",
+  "explanation": [
+    "Thinking about suicide often means you're in unbearable pain and searching for a way to make it stop — not that you truly want to be gone. That's an important difference. The pain is real, but pain and hopelessness distort what feels possible, and they can and do lift.",
+    "You are not weak, selfish, or a burden for feeling this way. Suicidal thoughts are more common than people admit, and having them does not mean you will act on them. Reaching out is the bravest, strongest thing you can do — and people are trained and ready to help, right now, for free.",
+    "If you have a plan or feel you might act, please treat this as the emergency it is: contact a crisis line or emergency services immediately, or ask someone you trust to stay with you. You do not have to get through this moment alone, and you do not have to have it all figured out — you only have to reach out."
+  ],
+  "copingTools": {
+    "immediate": [
+      { "title": "Get through the next hour", "steps": ["You don't have to solve everything — just get through right now", "Contact a crisis line (see above) — call or text, it's free and confidential", "Remove or distance yourself from anything you could use to harm yourself", "Stay with someone, or ask someone to come to you"] },
+      { "title": "Delay and distract", "description": "Make a promise to yourself to wait — even just 24 hours, or one more hour — before doing anything. Feelings this intense do shift. Use the time to reach a crisis line or a person who cares." },
+      { "title": "Tell one person the truth", "description": "Say the words out loud to someone: a crisis counsellor, a friend, a family member, a doctor. Naming it breaks its grip and lets support in. You will not be 'too much'." }
+    ],
+    "longTerm": [
+      { "title": "Make a safety plan", "description": "With a professional or crisis service, you can build a simple plan: your warning signs, coping steps, people to contact, and how to make your environment safer. Safety plans genuinely save lives." },
+      { "title": "Treat the underlying pain", "description": "Suicidal thoughts usually sit on top of something treatable — depression, trauma, overwhelming circumstances. Therapy and support address the pain driving the thoughts." },
+      { "title": "Stay connected to support", "description": "Ongoing contact with people who care, and with services, is protective. You deserve to keep reaching out, not just in crisis but as you heal." }
+    ]
+  },
+  "resources": [
+    { "type": "article", "title": "If you're having thoughts of suicide", "source": "988 Suicide & Crisis Lifeline", "url": "https://988lifeline.org", "whyHere": "Immediate, free, confidential support — call or text 988 in the US, or find your country on the Emergency page.", "evidenceStatus": "evidence-based" },
+    { "type": "article", "title": "Coping with suicidal thoughts", "source": "HealthTalk / NHS-aligned resources", "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/help-for-suicidal-thoughts/", "whyHere": "Practical NHS guidance for getting through suicidal feelings safely.", "evidenceStatus": "evidence-based" },
+    { "type": "worksheet", "title": "Make a safety plan", "source": "Stay Alive / safety planning tools", "url": "https://www.stayalive.app", "whyHere": "Free suicide-prevention app with a personal safety plan and coping resources.", "evidenceStatus": "evidence-based" },
+    { "type": "community", "title": "Find a helpline in your country", "source": "Find A Helpline", "url": "https://findahelpline.com", "whyHere": "Free, confidential crisis lines in over 130 countries.", "evidenceStatus": "evidence-based" }
+  ],
+  "relatedTopics": ["depression", "trauma", "hope-motivation", "shame-guilt"],
+  "matchPhrases": ["i want to die", "i want to kill myself", "i don't want to live", "i want to end it all", "i can't go on", "i feel suicidal", "i'd be better off dead", "no reason to live", "i want the pain to stop", "life isn't worth living", "i don't want to be here anymore"]
+}

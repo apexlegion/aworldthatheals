@@ -1,0 +1,74 @@
+{
+  "id": "steven-hayes",
+  "title": "Steven C. Hayes",
+  "role": "Psychologist & founder of ACT",
+  "category": "Approaches",
+  "blurb": "The originator of Acceptance & Commitment Therapy.",
+  "lead": "The psychologist who developed ACT and the concept of psychological flexibility.",
+  "sections": [
+    {
+      "heading": "About",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Steven C. Hayes is a psychologist who developed Acceptance and Commitment Therapy (ACT) and its underlying model of psychological flexibility."
+        },
+        {
+          "kind": "p",
+          "text": "His work has generated a large evidence base for accepting difficult experiences while committing to valued action."
+        }
+      ]
+    },
+    {
+      "heading": "Teaching focus",
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "chips",
+          "items": [
+            "ACT",
+            "Psychological flexibility",
+            "Values",
+            "Acceptance & defusion"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Where to start",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Free ACT resources like Russ Harris's 'The Happiness Trap' materials are an accessible way into the approach Hayes founded."
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "book",
+      "title": "The Happiness Trap — free resources",
+      "source": "Russ Harris",
+      "url": "https://thehappinesstrap.com/free-resources/",
+      "whyHere": "Free, accessible ACT worksheets and videos."
+    },
+    {
+      "type": "article",
+      "title": "About ACT",
+      "source": "Association for Contextual Behavioral Science",
+      "url": "https://contextualscience.org/act",
+      "whyHere": "Free overview of ACT."
+    }
+  ],
+  "related": [
+    {
+      "id": "marsha-linehan",
+      "title": "Marsha Linehan"
+    },
+    {
+      "id": "richard-schwartz",
+      "title": "Richard Schwartz"
+    }
+  ]
+}

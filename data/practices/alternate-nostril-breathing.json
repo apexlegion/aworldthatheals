@@ -1,0 +1,91 @@
+{
+  "id": "alternate-nostril-breathing",
+  "title": "Alternate Nostril Breathing",
+  "category": "Breathwork",
+  "evidenceStatus": "emerging",
+  "blurb": "A balancing yogic breath (Nadi Shodhana).",
+  "lead": "Alternate nostril breathing, or Nadi Shodhana, is a yogic technique of breathing through one nostril at a time to promote balance and calm.",
+  "sections": [
+    {
+      "heading": "What it is",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Alternate nostril breathing (Nadi Shodhana) involves gently closing one nostril at a time, alternating the breath between them."
+        },
+        {
+          "kind": "p",
+          "text": "It's a traditional yogic practice used to calm and 'balance'. Some studies suggest benefits for stress and attention; evidence is emerging."
+        }
+      ]
+    },
+    {
+      "heading": "How to practise",
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "steps",
+          "items": [
+            "Sit comfortably. Rest your left hand in your lap.",
+            "With your right thumb, gently close your right nostril; inhale through the left.",
+            "Close the left nostril with your ring finger; release the right and exhale through it.",
+            "Inhale through the right; then close it and exhale through the left.",
+            "That's one round. Continue smoothly for several rounds."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Good to know",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "meta",
+          "items": [
+            {
+              "label": "Duration",
+              "value": "3–10 minutes"
+            },
+            {
+              "label": "Best for",
+              "value": "Calm, focus, a gentle centering ritual"
+            },
+            {
+              "label": "Tradition",
+              "value": "Yoga / Pranayama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Common mistakes",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Forcing the breath. Keep it slow, quiet, and effortless; stop if you feel dizzy."
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "app",
+      "title": "Insight Timer",
+      "source": "Insight Timer",
+      "url": "https://insighttimer.com",
+      "whyHere": "Free guided pranayama and breathing practices.",
+      "evidenceStatus": "emerging"
+    }
+  ],
+  "related": [
+    {
+      "id": "coherent-breathing",
+      "title": "Coherent Breathing"
+    },
+    {
+      "id": "diaphragmatic-breathing",
+      "title": "Diaphragmatic Breathing"
+    }
+  ]
+}

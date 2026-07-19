@@ -1,0 +1,33 @@
+{
+  "id": "mindfulness",
+  "title": "Beginner Mindfulness",
+  "evidenceStatus": "evidence-based",
+  "lead": "Mindfulness isn't about emptying your mind or feeling calm on command. It's the simple, trainable skill of noticing the present moment without fighting it.",
+  "explanation": [
+    "Mindfulness means paying attention to the present moment — your breath, body, sounds, thoughts, feelings — with openness and without harsh judgement. It's not about stopping thoughts (impossible) but about changing your relationship to them.",
+    "A common myth is that you're 'bad at it' if your mind wanders. Mind-wandering isn't failure — noticing that it wandered and gently returning is the practice. Every return is a small rep that strengthens attention and calm, like a muscle.",
+    "Decades of research link mindfulness to reduced stress, anxiety, and rumination, and improved focus and emotional regulation. It's most powerful as a small daily habit — even a few minutes counts, and you can start right now."
+  ],
+  "symptoms": [],
+  "copingTools": {
+    "immediate": [
+      { "title": "One mindful minute", "steps": ["Sit comfortably and close your eyes or soften your gaze", "Notice the sensation of your breath — where you feel it most", "When your mind wanders (it will), gently bring it back", "Do this for just one minute to begin"] },
+      { "title": "Mindful anchor in daily life", "description": "Pick one routine action — washing hands, drinking tea, walking to the door — and do it with full attention to the senses. Everyday moments become tiny mindfulness practices." },
+      { "title": "Note and return", "description": "When a thought pulls you away, silently note 'thinking', and return to your breath or senses. No frustration needed — the returning is the whole point." }
+    ],
+    "longTerm": [
+      { "title": "Build a small daily habit", "description": "Consistency beats duration. A few minutes every day builds the skill far more than occasional long sessions. Free guided apps make it easy to start." },
+      { "title": "Try different practices", "description": "Breath awareness, body scan, loving-kindness (metta), walking meditation, and NSDR/Yoga Nidra all offer different benefits. Explore what fits you." },
+      { "title": "Consider a structured course", "description": "Programmes like MBSR offer a proven, guided path deeper into mindfulness. Excellent free versions exist online." }
+    ]
+  },
+  "resources": [
+    { "type": "app", "title": "Healthy Minds Program", "source": "Healthy Minds Innovations", "url": "https://hminnovations.org/meditation-app", "whyHere": "Completely free, research-backed, and ideal for beginners.", "evidenceStatus": "evidence-based" },
+    { "type": "app", "title": "UCLA Mindful", "source": "UCLA Health", "url": "https://www.uclahealth.org/programs/marc/free-guided-meditations", "whyHere": "Free guided meditations in many languages from a university programme.", "evidenceStatus": "evidence-based" },
+    { "type": "app", "title": "Insight Timer", "source": "Insight Timer", "url": "https://insighttimer.com", "whyHere": "Huge free library of guided meditations for every situation.", "evidenceStatus": "emerging" },
+    { "type": "video", "title": "Free MBSR online course", "source": "Palouse Mindfulness", "url": "https://palousemindfulness.com", "whyHere": "A complete, free version of the evidence-based 8-week MBSR course.", "evidenceStatus": "evidence-based" },
+    { "type": "app", "title": "Medito", "source": "Medito Foundation", "url": "https://meditofoundation.org", "whyHere": "A genuinely free, non-profit meditation app with beginner courses.", "evidenceStatus": "emerging" }
+  ],
+  "relatedTopics": ["anxiety", "stress", "overthinking", "sleep"],
+  "matchPhrases": ["i want to meditate", "how do i start meditating", "i want to be calmer", "teach me mindfulness", "i want to be more present", "how to quiet my mind", "i want to try meditation", "help me relax", "mindfulness for beginners", "i need to calm down"]
+}

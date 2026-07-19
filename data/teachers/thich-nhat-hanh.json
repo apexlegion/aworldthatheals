@@ -1,0 +1,74 @@
+{
+  "id": "thich-nhat-hanh",
+  "title": "Thich Nhat Hanh",
+  "role": "Zen master & peace activist (1926–2022)",
+  "category": "Mindfulness",
+  "blurb": "Founder of the Plum Village tradition; brought mindfulness to millions.",
+  "lead": "A Vietnamese Zen master who taught mindfulness as a way of living peacefully and compassionately in everyday life.",
+  "sections": [
+    {
+      "heading": "About",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Thich Nhat Hanh was a globally beloved Zen teacher, author, and peace activist who founded the Plum Village tradition of engaged Buddhism."
+        },
+        {
+          "kind": "p",
+          "text": "He made mindfulness gentle and accessible — teaching that peace is available in ordinary moments like breathing, walking, and washing dishes."
+        }
+      ]
+    },
+    {
+      "heading": "Teaching focus",
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "chips",
+          "items": [
+            "Everyday mindfulness",
+            "Engaged Buddhism",
+            "Peace & compassion",
+            "Mindful breathing & walking"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Where to start",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Explore the free talks and guided practices from the Plum Village community, and his short, gentle writings on mindful living."
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "app",
+      "title": "Plum Village app",
+      "source": "Plum Village",
+      "url": "https://plumvillage.app",
+      "whyHere": "Free app with guided meditations and talks in his tradition."
+    },
+    {
+      "type": "article",
+      "title": "Plum Village resources",
+      "source": "Plum Village",
+      "url": "https://plumvillage.org",
+      "whyHere": "Free teachings, practices, and community."
+    }
+  ],
+  "related": [
+    {
+      "id": "jack-kornfield",
+      "title": "Jack Kornfield"
+    },
+    {
+      "id": "pema-chodron",
+      "title": "Pema Chödrön"
+    }
+  ]
+}

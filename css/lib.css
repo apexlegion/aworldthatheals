@@ -1,0 +1,118 @@
+/* lib.css — components for Phase 2–8 library/directory pages.
+   Loaded alongside styles.css. */
+
+/* ---- Explore nav -------------------------------------------------------- */
+.nav-links { display: flex; align-items: center; gap: var(--s-1); }
+.nav-links a {
+  color: var(--text-muted); text-decoration: none; font-size: var(--fs-14); font-weight: 600;
+  padding: 8px 12px; border-radius: var(--r-pill); min-height: 40px; display: inline-flex; align-items: center;
+  transition: color var(--dur) var(--ease), background var(--dur) var(--ease);
+}
+.nav-links a:hover { color: var(--text); background: var(--surface); }
+.nav-links a[aria-current="page"] { color: var(--text); background: var(--surface-2); }
+.nav-toggle { display: none; }
+@media (max-width: 900px) {
+  .nav-links {
+    position: absolute; top: 64px; left: 0; right: 0; flex-direction: column; align-items: stretch;
+    background: var(--bg-elevated); border-bottom: 1px solid var(--border); padding: var(--s-3);
+    gap: 2px; box-shadow: var(--shadow); z-index: 45;
+  }
+  .nav-links[hidden] { display: none; }
+  .nav-links a { padding: 12px var(--s-4); font-size: var(--fs-16); }
+  .nav-toggle {
+    display: inline-grid; place-items: center; width: 44px; height: 44px; border-radius: var(--r-pill);
+    background: var(--surface); color: var(--text); border: 1px solid var(--border);
+  }
+  .nav-toggle svg { width: 20px; height: 20px; }
+}
+
+/* ---- Page intro --------------------------------------------------------- */
+.page-intro { padding-block: var(--s-7) var(--s-5); }
+.page-intro__eyebrow { font-size: var(--fs-12); letter-spacing: .16em; text-transform: uppercase; color: var(--text-faint); font-weight: 600; margin-bottom: var(--s-3); }
+.page-intro h1 { font-size: clamp(1.9rem, 5vw, var(--fs-36)); letter-spacing: -.03em; line-height: var(--lh-tight); margin-bottom: var(--s-3); }
+.page-intro p { font-size: var(--fs-18); color: var(--text-muted); max-width: 62ch; }
+
+/* ---- Hub grid ----------------------------------------------------------- */
+.hub-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: var(--s-4); }
+.hub-card {
+  display: flex; flex-direction: column; gap: var(--s-2);
+  background: var(--surface); border: 1px solid var(--border); border-radius: var(--r-lg);
+  padding: var(--s-6); text-decoration: none; color: var(--text); min-height: 170px;
+  transition: border-color var(--dur) var(--ease), transform var(--dur) var(--ease), background var(--dur) var(--ease);
+}
+.hub-card:hover { border-color: var(--border-strong); background: var(--surface-2); transform: translateY(-2px); }
+.hub-card__icon { width: 40px; height: 40px; color: var(--accent); margin-bottom: var(--s-2); }
+.hub-card__icon svg { width: 100%; height: 100%; }
+.hub-card__title { font-weight: 700; font-size: var(--fs-22); letter-spacing: -.01em; }
+.hub-card__blurb { color: var(--text-muted); font-size: var(--fs-14); flex: 1; }
+.hub-card__go { color: var(--text-faint); font-size: var(--fs-14); font-weight: 600; display: flex; align-items: center; gap: 6px; }
+
+/* ---- Filter bar --------------------------------------------------------- */
+.filter-bar { display: flex; flex-wrap: wrap; gap: var(--s-2); margin-bottom: var(--s-5); }
+.filter-chip {
+  background: var(--surface); border: 1px solid var(--border); color: var(--text-muted);
+  padding: 8px 16px; border-radius: var(--r-pill); font-size: var(--fs-14); font-weight: 600; min-height: 40px;
+  transition: border-color var(--dur) var(--ease), color var(--dur) var(--ease), background var(--dur) var(--ease);
+}
+.filter-chip:hover { color: var(--text); border-color: var(--border-strong); }
+.filter-chip[aria-pressed="true"] { background: var(--accent); color: var(--accent-fg); border-color: var(--accent); }
+
+/* ---- Directory cards ---------------------------------------------------- */
+.card-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: var(--s-4); }
+.dir-card {
+  display: flex; flex-direction: column; gap: var(--s-2);
+  background: var(--surface); border: 1px solid var(--border); border-radius: var(--r-md);
+  padding: var(--s-5); text-decoration: none; color: var(--text); min-height: 150px;
+  transition: border-color var(--dur) var(--ease), transform var(--dur) var(--ease), background var(--dur) var(--ease);
+}
+.dir-card:hover { border-color: var(--border-strong); background: var(--surface-2); transform: translateY(-2px); }
+.dir-card__meta { font-size: var(--fs-12); letter-spacing: .1em; text-transform: uppercase; color: var(--text-faint); font-weight: 700; }
+.dir-card__title { font-weight: 700; font-size: var(--fs-18); letter-spacing: -.01em; display: flex; align-items: baseline; gap: 6px; }
+.dir-card__title svg { width: 13px; height: 13px; opacity: .5; flex: none; }
+.dir-card__blurb { color: var(--text-muted); font-size: var(--fs-14); flex: 1; }
+.dir-card__tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: auto; }
+.tag { font-size: var(--fs-12); background: var(--surface-2); color: var(--text-muted); border-radius: var(--r-pill); padding: 3px 10px; }
+.tag--free { color: var(--ev-based); border: 1px solid currentColor; background: none; }
+
+/* ---- Generic detail sections (detail.js) -------------------------------- */
+.detail-steps { margin: var(--s-2) 0 0; padding-left: 1.3em; }
+.detail-steps li { margin-bottom: 6px; }
+.detail-quote {
+  border-left: 4px solid var(--accent); padding: var(--s-2) 0 var(--s-2) var(--s-4);
+  font-size: var(--fs-18); font-style: italic; color: color-mix(in srgb, var(--panel-ink) 80%, transparent);
+}
+.panel--dark .detail-quote { color: var(--text-muted); }
+.meta-list { display: grid; gap: var(--s-2); margin-top: var(--s-2); }
+.meta-list div { display: flex; gap: var(--s-3); font-size: var(--fs-16); }
+.meta-list dt { font-weight: 700; min-width: 120px; color: var(--panel-ink); margin: 0; }
+.panel--dark .meta-list dt { color: var(--text); }
+.meta-list dd { color: color-mix(in srgb, var(--panel-ink) 80%, transparent); margin: 0; }
+.panel--dark .meta-list dd { color: var(--text-muted); }
+
+/* ---- Profile header (teachers) ------------------------------------------ */
+.profile-head { display: flex; align-items: center; gap: var(--s-5); flex-wrap: wrap; }
+.profile-avatar {
+  width: 84px; height: 84px; border-radius: 50%; flex: none;
+  background: var(--surface-2); display: grid; place-items: center;
+  font-size: var(--fs-28); font-weight: 700; color: var(--accent); border: 2px solid var(--border-strong);
+}
+.profile-head__role { color: var(--accent); font-weight: 600; font-size: var(--fs-14); }
+
+/* ---- Meeting finder ----------------------------------------------------- */
+.meeting-controls { display: grid; gap: var(--s-4); margin-bottom: var(--s-5); }
+.meeting-tz { font-size: var(--fs-14); color: var(--text-muted); }
+.meeting-tz strong { color: var(--text); }
+.meeting-list { display: grid; gap: var(--s-3); }
+.meeting-card {
+  display: flex; align-items: center; gap: var(--s-4); flex-wrap: wrap;
+  background: var(--surface); border: 1px solid var(--border); border-radius: var(--r-md); padding: var(--s-4) var(--s-5);
+}
+.meeting-time { font-size: var(--fs-22); font-weight: 700; font-variant-numeric: tabular-nums; min-width: 100px; color: var(--text); }
+.meeting-info { flex: 1; min-width: 180px; }
+.meeting-info h3 { font-size: var(--fs-18); }
+.meeting-info p { color: var(--text-muted); font-size: var(--fs-14); }
+.meeting-card .btn { flex: none; min-height: 40px; padding: 0 var(--s-4); font-size: var(--fs-14); }
+
+/* ---- Note strip --------------------------------------------------------- */
+.note-strip { background: var(--surface); border: 1px solid var(--border); border-radius: var(--r-md); padding: var(--s-5); color: var(--text-muted); font-size: var(--fs-14); margin-top: var(--s-6); }
+.note-strip strong { color: var(--text); }

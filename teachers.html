@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Teachers & authors — A World That Heals</title>
+  <meta name="description" content="Trusted teachers, researchers and clinicians in mindfulness, self-compassion and therapy — and their free talks, meditations and resources." />
+  <meta name="theme-color" content="#121309" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="icons/icon-180.png" />
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="stylesheet" href="css/lib.css" />
+</head>
+<body>
+  <main id="main">
+    <div class="container page-intro">
+      <p class="page-intro__eyebrow">Teachers &amp; authors</p>
+      <h1>People worth learning from</h1>
+      <p>Respected teachers, researchers, and clinicians whose work has helped many people — with pointers to their best free talks, meditations, and writing.</p>
+    </div>
+    <div class="container section" style="padding-top:0">
+      <div class="filter-bar" id="filter-bar" role="group" aria-label="Filter by area"></div>
+      <div class="card-grid" id="teacher-grid"></div>
+    </div>
+  </main>
+  <script type="module">
+    import { initDirectory } from "./js/directory.js";
+    const items = await (await fetch("data/teachers-index.json")).json();
+    items.sort((a,b) => a.title.localeCompare(b.title));
+    initDirectory({ data: items, mount: "teacher-grid", filterKey: "category", detailPattern: (i) => `teacher.html?id=${i.id}` });
+  </script>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Free apps — A World That Heals</title>
+  <meta name="description" content="Meditation, CBT, sleep, trauma and support apps with genuinely free access. Filter by what you need." />
+  <meta name="theme-color" content="#121309" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="icons/icon-180.png" />
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="stylesheet" href="css/lib.css" />
+</head>
+<body>
+  <main id="main">
+    <div class="container page-intro">
+      <p class="page-intro__eyebrow">Free apps</p>
+      <h1>Apps that are actually free</h1>
+      <p>We only list apps with genuinely free, meaningful access — clearly noting when something is 100% free versus a generous free tier. No affiliate links, ever.</p>
+    </div>
+    <div class="container section" style="padding-top:0">
+      <div class="filter-bar" id="filter-bar" role="group" aria-label="Filter by need"></div>
+      <div class="card-grid" id="apps-grid"></div>
+      <div class="note-strip">
+        <p><strong>How we label:</strong> “100% free” means no paywall for core use. “Free tier” means a real, usable free version exists alongside paid features. Availability and pricing can change — always check before relying on an app.</p>
+      </div>
+    </div>
+  </main>
+  <script type="module">
+    import { initDirectory } from "./js/directory.js";
+    initDirectory({ data: "data/apps.json", mount: "apps-grid", filterKey: "category", external: true });
+  </script>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

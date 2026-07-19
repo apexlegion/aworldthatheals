@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Explore the library — A World That Heals</title>
+  <meta name="description" content="Explore every free resource: encyclopedia topics, mindfulness & breathwork practices, psychological approaches, teachers, recovery, apps, stories, communities and live meetings." />
+  <meta name="theme-color" content="#121309" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="icons/icon-180.png" />
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="stylesheet" href="css/lib.css" />
+</head>
+<body>
+  <main id="main">
+    <div class="container page-intro">
+      <p class="page-intro__eyebrow">The whole library</p>
+      <h1>Everything here is free — explore by what you need</h1>
+      <p>A growing, public collection of trustworthy resources for understanding, coping, recovering, and growing. No ads, no accounts, no cost.</p>
+    </div>
+    <div class="container section" style="padding-top:0">
+      <div class="hub-grid" id="hub-grid"><!-- populated below --></div>
+    </div>
+  </main>
+
+  <script type="module">
+    import { ICON } from "./js/app.js";
+    const HUBS = [
+      { href: "index.html", icon: "search", title: "Feelings & topics", blurb: "Type how you feel and find plain-language help — anxiety, depression, grief, and more." },
+      { href: "practices.html", icon: "lotus", title: "Mindfulness & breathwork", blurb: "Meditation traditions and evidence-based breathing techniques, with how-to guides." },
+      { href: "approaches.html", icon: "brain", title: "Psychological approaches", blurb: "CBT, ACT, DBT, IFS and more — explained simply, with free ways to learn them." },
+      { href: "teachers.html", icon: "people", title: "Teachers & authors", blurb: "Trusted teachers, researchers and clinicians, and their free talks and resources." },
+      { href: "recovery.html", icon: "heart", title: "Addiction recovery", blurb: "Free fellowships and support for alcohol, drugs, gambling, and more." },
+      { href: "apps.html", icon: "phone", title: "Free apps", blurb: "Meditation, CBT and recovery apps with genuinely free access." },
+      { href: "stories.html", icon: "book", title: "Stories of healing", blurb: "Illustrative journeys through hard times — proof that things can change." },
+      { href: "communities.html", icon: "people", title: "Communities", blurb: "Active, trustworthy places to connect with others who understand." },
+      { href: "meetings.html", icon: "calendar", title: "Live meetings", blurb: "Free online recovery and meditation meetings, in your local time." },
+      { href: "emergency.html", icon: "lifebuoy", title: "Emergency support", blurb: "Official crisis lines by country. Free, confidential, available now." },
+    ];
+    document.getElementById("hub-grid").innerHTML = HUBS.map((h) => `
+      <a class="hub-card" href="${h.href}">
+        <span class="hub-card__icon">${ICON[h.icon] || ICON.grid}</span>
+        <span class="hub-card__title">${h.title}</span>
+        <span class="hub-card__blurb">${h.blurb}</span>
+        <span class="hub-card__go">Open ${ICON.arrow}</span>
+      </a>`).join("");
+  </script>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,67 @@
+{
+  "id": "richard-schwartz",
+  "title": "Richard Schwartz",
+  "role": "Family therapist & founder of IFS",
+  "category": "Approaches",
+  "blurb": "The creator of Internal Family Systems.",
+  "lead": "The therapist who developed the Internal Family Systems (IFS) model of the mind's 'parts'.",
+  "sections": [
+    {
+      "heading": "About",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Richard Schwartz developed Internal Family Systems (IFS), which understands the mind as a system of 'parts' centred on a compassionate core Self."
+        },
+        {
+          "kind": "p",
+          "text": "IFS has become widely used, especially in trauma work, for its non-pathologising, compassionate stance."
+        }
+      ]
+    },
+    {
+      "heading": "Teaching focus",
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "chips",
+          "items": [
+            "IFS",
+            "Parts work",
+            "The Self",
+            "No bad parts"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Where to start",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Free introductory articles from the IFS Institute explain the model and how 'parts work' can help."
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "article",
+      "title": "Intro to IFS",
+      "source": "IFS Institute",
+      "url": "https://ifs-institute.com/resources/articles",
+      "whyHere": "Free introductory articles."
+    }
+  ],
+  "related": [
+    {
+      "id": "steven-hayes",
+      "title": "Steven C. Hayes"
+    },
+    {
+      "id": "stephen-porges",
+      "title": "Stephen Porges"
+    }
+  ]
+}

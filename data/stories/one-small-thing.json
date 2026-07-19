@@ -1,0 +1,63 @@
+{
+  "id": "one-small-thing",
+  "title": "One small thing at a time",
+  "category": "Depression",
+  "blurb": "Climbing out of depression not with a leap, but with tiny steps.",
+  "lead": "A story about depression's heaviness — and how the smallest actions slowly rebuilt a life.",
+  "sections": [
+    {
+      "heading": null,
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Depression didn't feel like sadness. It felt like fog, and weight, and a voice insisting that nothing mattered and nothing would change. Getting out of bed was a mountain. Showering was a mountain. Everything was a mountain."
+        },
+        {
+          "kind": "p",
+          "text": "Advice to 'just exercise' or 'think positive' felt cruel — impossible from inside the fog."
+        },
+        {
+          "kind": "p",
+          "text": "What eventually helped was almost embarrassingly small. Not 'get your life together', but 'sit up'. Then 'put your feet on the floor'. Then 'stand outside for two minutes'. A therapist called it behavioural activation. It felt like cheating, doing things this small."
+        },
+        {
+          "kind": "p",
+          "text": "But the tiny things stacked up. Two minutes outside became a short walk. A short walk became a reason to get dressed. The fog didn't lift all at once, but light started getting through."
+        }
+      ]
+    },
+    {
+      "heading": null,
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "quote",
+          "text": "I couldn't think my way out. I had to act my way out — one ridiculously small step at a time."
+        }
+      ]
+    },
+    {
+      "heading": "A note on this story",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "This is an illustrative composite — a realistic story drawn from common experiences, not a real named individual. It's here to remind you that change is possible."
+        }
+      ]
+    }
+  ],
+  "resources": [],
+  "related": [
+    {
+      "id": "depression",
+      "title": "Depression",
+      "detailBase": "topic"
+    },
+    {
+      "id": "hope-motivation",
+      "title": "Hope & Motivation",
+      "detailBase": "topic"
+    }
+  ]
+}

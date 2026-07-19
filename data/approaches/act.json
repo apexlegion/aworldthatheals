@@ -1,0 +1,82 @@
+{
+  "id": "act",
+  "title": "Acceptance & Commitment Therapy (ACT)",
+  "evidenceStatus": "evidence-based",
+  "category": "Approach",
+  "blurb": "Make room for hard feelings and act on your values.",
+  "lead": "ACT helps you stop fighting difficult thoughts and feelings, and instead make room for them while taking action toward what matters most to you.",
+  "sections": [
+    {
+      "heading": "What it is",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "ACT (said as one word, 'act') teaches psychological flexibility: accepting inner experiences rather than struggling against them, 'unhooking' from unhelpful thoughts, and committing to actions guided by your values."
+        },
+        {
+          "kind": "p",
+          "text": "Rather than trying to eliminate difficult feelings, ACT helps you live a meaningful life alongside them. It has strong evidence across anxiety, depression, chronic pain, and more."
+        }
+      ]
+    },
+    {
+      "heading": "Core ideas",
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "chips",
+          "items": [
+            "Acceptance over avoidance",
+            "Cognitive defusion (unhooking)",
+            "Present-moment awareness",
+            "Values",
+            "Committed action"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Good to know",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "meta",
+          "items": [
+            {
+              "label": "Best for",
+              "value": "Anxiety, depression, chronic pain, stuckness"
+            },
+            {
+              "label": "Format",
+              "value": "Experiential, values-driven"
+            },
+            {
+              "label": "Evidence",
+              "value": "Strong"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "book",
+      "title": "The Happiness Trap — free resources",
+      "source": "Russ Harris",
+      "url": "https://thehappinesstrap.com/free-resources/",
+      "whyHere": "Free ACT worksheets and animations.",
+      "evidenceStatus": "evidence-based"
+    }
+  ],
+  "related": [
+    {
+      "id": "cbt",
+      "title": "CBT"
+    },
+    {
+      "id": "self-compassion",
+      "title": "Self-Compassion"
+    }
+  ]
+}

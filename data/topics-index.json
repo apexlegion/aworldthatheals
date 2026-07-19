@@ -1,0 +1,20 @@
+[
+  { "id": "anxiety", "title": "Anxiety", "blurb": "When worry and fear won't switch off.", "evidenceStatus": "evidence-based", "keywords": ["anxious","worry","nervous","on edge","panic"] },
+  { "id": "depression", "title": "Depression", "blurb": "Low mood, emptiness, and losing interest in things.", "evidenceStatus": "evidence-based", "keywords": ["sad","empty","numb","hopeless","low"] },
+  { "id": "panic-attacks", "title": "Panic Attacks", "blurb": "Sudden waves of intense fear and physical alarm.", "evidenceStatus": "evidence-based", "keywords": ["panic","heart racing","can't breathe","hyperventilating"] },
+  { "id": "stress", "title": "Stress", "blurb": "When life's demands feel bigger than your capacity.", "evidenceStatus": "evidence-based", "keywords": ["stressed","pressure","tense","overwhelmed"] },
+  { "id": "burnout", "title": "Burnout", "blurb": "Running on empty from chronic overload.", "evidenceStatus": "evidence-based", "keywords": ["burnt out","exhausted","drained","done"] },
+  { "id": "grief", "title": "Grief & Loss", "blurb": "Living with the absence of someone or something you love.", "evidenceStatus": "evidence-based", "keywords": ["loss","died","death","bereaved","mourning"] },
+  { "id": "loneliness", "title": "Loneliness", "blurb": "Feeling unseen, disconnected, or alone.", "evidenceStatus": "evidence-based", "keywords": ["lonely","alone","isolated","disconnected"] },
+  { "id": "self-esteem", "title": "Self-Esteem & Self-Hatred", "blurb": "When the voice in your head is your harshest critic.", "evidenceStatus": "evidence-based", "keywords": ["worthless","hate myself","not good enough","self worth"] },
+  { "id": "overthinking", "title": "Overthinking", "blurb": "Thoughts that loop and won't let you rest.", "evidenceStatus": "evidence-based", "keywords": ["rumination","spiraling","racing thoughts","can't stop thinking"] },
+  { "id": "sleep", "title": "Sleep", "blurb": "When rest won't come, or won't restore you.", "evidenceStatus": "evidence-based", "keywords": ["insomnia","can't sleep","awake","tired"] },
+  { "id": "trauma", "title": "Trauma", "blurb": "How the mind and body carry overwhelming experiences.", "evidenceStatus": "evidence-based", "keywords": ["ptsd","flashback","abuse","triggered"] },
+  { "id": "suicidal-thoughts", "title": "Suicidal Thoughts", "blurb": "If living feels unbearable — you deserve support now.", "evidenceStatus": "evidence-based", "keywords": ["suicidal","want to die","end my life","hopeless"] },
+  { "id": "relapse", "title": "Relapse & Recovery", "blurb": "A setback is not the end of recovery.", "evidenceStatus": "evidence-based", "keywords": ["relapsed","addiction","using again","sober","slipped"] },
+  { "id": "breakups", "title": "Breakups & Relationships", "blurb": "Heartbreak, endings, and finding your footing.", "evidenceStatus": "emerging", "keywords": ["breakup","broke up","divorce","heartbreak","dumped"] },
+  { "id": "shame-guilt", "title": "Shame & Guilt", "blurb": "The difference between 'I did bad' and 'I am bad'.", "evidenceStatus": "evidence-based", "keywords": ["ashamed","guilty","regret","forgive myself"] },
+  { "id": "anger", "title": "Anger", "blurb": "Understanding the signal underneath the heat.", "evidenceStatus": "evidence-based", "keywords": ["angry","rage","frustrated","irritable"] },
+  { "id": "hope-motivation", "title": "Hope & Motivation", "blurb": "Taking one small step when everything feels stuck.", "evidenceStatus": "emerging", "keywords": ["unmotivated","stuck","no energy","give up"] },
+  { "id": "mindfulness", "title": "Beginner Mindfulness", "blurb": "Learning to be present without fighting your mind.", "evidenceStatus": "evidence-based", "keywords": ["meditate","meditation","calm","present","breathing"] }
+]

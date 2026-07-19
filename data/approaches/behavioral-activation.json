@@ -1,0 +1,82 @@
+{
+  "id": "behavioral-activation",
+  "title": "Behavioural Activation",
+  "evidenceStatus": "evidence-based",
+  "category": "Approach",
+  "blurb": "Beat depression by gently rebuilding activity.",
+  "lead": "Behavioural activation is a simple, powerful approach for depression: gradually reintroducing meaningful and pleasurable activity to lift mood and momentum.",
+  "sections": [
+    {
+      "heading": "What it is",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Behavioural activation is based on the finding that when we're depressed, we withdraw from activity, which deepens low mood in a downward spiral."
+        },
+        {
+          "kind": "p",
+          "text": "By gently and deliberately scheduling small, valued activities — even before you feel like it — you can reverse the spiral. It's a core, well-evidenced part of treating depression."
+        }
+      ]
+    },
+    {
+      "heading": "Core ideas",
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "chips",
+          "items": [
+            "Action before motivation",
+            "Break the avoidance cycle",
+            "Value-based activities",
+            "Small, scheduled steps",
+            "Momentum builds mood"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Good to know",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "meta",
+          "items": [
+            {
+              "label": "Best for",
+              "value": "Depression, low motivation, withdrawal"
+            },
+            {
+              "label": "Format",
+              "value": "Structured, practical"
+            },
+            {
+              "label": "Evidence",
+              "value": "Strong"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "worksheet",
+      "title": "Behavioural activation self-help",
+      "source": "NHS self-help guides",
+      "url": "https://web.ntw.nhs.uk/selfhelp/",
+      "whyHere": "Free structured booklet.",
+      "evidenceStatus": "evidence-based"
+    }
+  ],
+  "related": [
+    {
+      "id": "cbt",
+      "title": "CBT"
+    },
+    {
+      "id": "act",
+      "title": "ACT"
+    }
+  ]
+}

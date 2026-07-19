@@ -1,0 +1,38 @@
+[
+  {
+    "id": "finding-ground-after-panic",
+    "title": "Finding ground after panic",
+    "category": "Anxiety",
+    "blurb": "How someone went from fearing every heartbeat to trusting their body again."
+  },
+  {
+    "id": "one-small-thing",
+    "title": "One small thing at a time",
+    "category": "Depression",
+    "blurb": "Climbing out of depression not with a leap, but with tiny steps."
+  },
+  {
+    "id": "day-one-again",
+    "title": "Day one, again",
+    "category": "Addiction recovery",
+    "blurb": "A relapse wasn't the end of recovery — it was part of it."
+  },
+  {
+    "id": "carrying-them-with-me",
+    "title": "Carrying them with me",
+    "category": "Grief",
+    "blurb": "Grief didn't end — it changed shape, and so did life around it."
+  },
+  {
+    "id": "safe-in-my-own-body",
+    "title": "Safe in my own body again",
+    "category": "Trauma",
+    "blurb": "Healing from trauma at a pace that honoured, not overwhelmed."
+  },
+  {
+    "id": "the-friend-i-became",
+    "title": "The friend I became to myself",
+    "category": "Self-worth",
+    "blurb": "Trading a brutal inner critic for something kinder."
+  }
+]

@@ -1,0 +1,82 @@
+{
+  "id": "self-compassion",
+  "title": "Self-Compassion",
+  "evidenceStatus": "evidence-based",
+  "category": "Approach",
+  "blurb": "Treating yourself as you would a good friend.",
+  "lead": "Self-compassion means meeting your own suffering with the kindness, understanding, and common humanity you'd offer someone you love.",
+  "sections": [
+    {
+      "heading": "What it is",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Self-compassion, researched extensively by Kristin Neff, has three parts: self-kindness, a sense of common humanity, and mindful awareness of your pain."
+        },
+        {
+          "kind": "p",
+          "text": "Contrary to fears that it's self-indulgent, research shows self-compassion builds resilience, reduces anxiety and depression, and supports real change more effectively than self-criticism."
+        }
+      ]
+    },
+    {
+      "heading": "Core ideas",
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "chips",
+          "items": [
+            "Self-kindness",
+            "Common humanity",
+            "Mindfulness",
+            "Not self-pity or weakness",
+            "A foundation for change"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Good to know",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "meta",
+          "items": [
+            {
+              "label": "Best for",
+              "value": "Self-criticism, shame, resilience"
+            },
+            {
+              "label": "Format",
+              "value": "Practices & attitudes"
+            },
+            {
+              "label": "Evidence",
+              "value": "Strong"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "worksheet",
+      "title": "Self-compassion exercises",
+      "source": "Dr. Kristin Neff",
+      "url": "https://self-compassion.org/self-compassion-practices/",
+      "whyHere": "Free guided practices from the leading researcher.",
+      "evidenceStatus": "evidence-based"
+    }
+  ],
+  "related": [
+    {
+      "id": "act",
+      "title": "ACT"
+    },
+    {
+      "id": "ifs",
+      "title": "IFS"
+    }
+  ]
+}

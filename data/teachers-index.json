@@ -1,0 +1,68 @@
+[
+  {
+    "id": "thich-nhat-hanh",
+    "title": "Thich Nhat Hanh",
+    "category": "Mindfulness",
+    "blurb": "Founder of the Plum Village tradition; brought mindfulness to millions."
+  },
+  {
+    "id": "tara-brach",
+    "title": "Tara Brach",
+    "category": "Mindfulness",
+    "blurb": "Creator of RAIN; blends Western psychology with Buddhist practice."
+  },
+  {
+    "id": "kristin-neff",
+    "title": "Kristin Neff",
+    "category": "Self-compassion",
+    "blurb": "The pioneering researcher on self-compassion."
+  },
+  {
+    "id": "jon-kabat-zinn",
+    "title": "Jon Kabat-Zinn",
+    "category": "Mindfulness",
+    "blurb": "Founder of Mindfulness-Based Stress Reduction (MBSR)."
+  },
+  {
+    "id": "jack-kornfield",
+    "title": "Jack Kornfield",
+    "category": "Mindfulness",
+    "blurb": "Co-founder of Spirit Rock; a leading Western insight teacher."
+  },
+  {
+    "id": "sharon-salzberg",
+    "title": "Sharon Salzberg",
+    "category": "Mindfulness",
+    "blurb": "A foremost teacher of loving-kindness (metta)."
+  },
+  {
+    "id": "pema-chodron",
+    "title": "Pema Chödrön",
+    "category": "Mindfulness",
+    "blurb": "Beloved teacher on working with difficulty and fear."
+  },
+  {
+    "id": "steven-hayes",
+    "title": "Steven C. Hayes",
+    "category": "Approaches",
+    "blurb": "The originator of Acceptance & Commitment Therapy."
+  },
+  {
+    "id": "marsha-linehan",
+    "title": "Marsha Linehan",
+    "category": "Approaches",
+    "blurb": "The developer of Dialectical Behaviour Therapy."
+  },
+  {
+    "id": "richard-schwartz",
+    "title": "Richard Schwartz",
+    "category": "Approaches",
+    "blurb": "The creator of Internal Family Systems."
+  },
+  {
+    "id": "stephen-porges",
+    "title": "Stephen Porges",
+    "category": "Approaches",
+    "blurb": "Originator of Polyvagal Theory."
+  }
+]

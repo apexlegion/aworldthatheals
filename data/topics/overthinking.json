@@ -1,0 +1,32 @@
+{
+  "id": "overthinking",
+  "title": "Overthinking",
+  "evidenceStatus": "evidence-based",
+  "lead": "Overthinking feels productive but rarely is. Learning to notice the loop — and step out of it — gives you back your peace and your attention.",
+  "explanation": [
+    "Overthinking is getting stuck in repetitive loops of thought: replaying the past (rumination) or spinning through everything that could go wrong (worry). The mind treats thinking as problem-solving, but past a point it just deepens distress.",
+    "It tends to feel necessary — as if enough analysis will finally deliver certainty or safety. In reality, rumination and worry are strongly linked to anxiety and depression, and they steal energy from actually living.",
+    "You can't stop thoughts from arising, but you can change your relationship with them: noticing when you're caught in a loop, and gently redirecting your attention to the present or to a concrete action."
+  ],
+  "symptoms": ["Replaying conversations or mistakes", "Imagining worst-case scenarios", "Struggling to make decisions", "Trouble sleeping from racing thoughts", "Analysing everything to exhaustion", "Seeking constant reassurance", "Feeling mentally 'busy' but stuck"],
+  "copingTools": {
+    "immediate": [
+      { "title": "Name the loop", "description": "Silently label it: 'I'm ruminating' or 'this is worry'. Naming the process, rather than diving deeper into the content, helps you step back from it." },
+      { "title": "Drop into the senses", "steps": ["Overthinking lives in your head — move into your body", "Feel your feet, your breath, the temperature of the air", "Notice five real things around you right now", "The present moment is a place thoughts can't loop"] },
+      { "title": "Schedule the worry", "description": "Tell yourself you'll think about it at a set 'worry time' later (say, 6pm for 15 minutes). This trains your brain that it doesn't have to solve everything right now." }
+    ],
+    "longTerm": [
+      { "title": "Mindfulness practice", "description": "Regular mindfulness trains the skill of noticing thoughts without being swept away by them — directly weakening the overthinking habit." },
+      { "title": "Act on the actionable", "description": "For solvable problems, take one concrete step. For unsolvable ones, practise letting them be. Distinguishing the two frees enormous energy." },
+      { "title": "CBT for rumination", "description": "CBT and related approaches specifically target rumination and worry, helping you break the cycle rather than feed it." }
+    ]
+  },
+  "resources": [
+    { "type": "article", "title": "How to stop overthinking", "source": "HelpGuide", "url": "https://www.helpguide.org/mental-health/anxiety/how-to-stop-worrying", "whyHere": "Free, practical guide to breaking worry and rumination cycles.", "evidenceStatus": "emerging" },
+    { "type": "app", "title": "UCLA Mindful", "source": "UCLA Health", "url": "https://www.uclahealth.org/programs/marc/free-guided-meditations", "whyHere": "Free guided meditations that build the skill of unhooking from thoughts.", "evidenceStatus": "evidence-based" },
+    { "type": "book", "title": "The Happiness Trap (intro to ACT)", "source": "Russ Harris", "url": "https://thehappinesstrap.com/free-resources/", "whyHere": "Free ACT worksheets on 'defusing' from unhelpful thoughts.", "evidenceStatus": "evidence-based" },
+    { "type": "video", "title": "Why you ruminate and how to stop", "source": "Therapy in a Nutshell (YouTube)", "url": "https://www.youtube.com/@TherapyinaNutshell", "whyHere": "Free, therapist-led explanations of overthinking and skills to shift it.", "evidenceStatus": "emerging" }
+  ],
+  "relatedTopics": ["anxiety", "self-esteem", "sleep", "mindfulness"],
+  "matchPhrases": ["i can't stop thinking", "i overthink everything", "my mind won't stop", "i keep replaying things", "i can't turn my brain off", "racing thoughts", "i keep imagining the worst", "i analyse everything too much", "i'm stuck in my head", "i can't make decisions"]
+}

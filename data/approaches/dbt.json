@@ -1,0 +1,82 @@
+{
+  "id": "dbt",
+  "title": "Dialectical Behaviour Therapy (DBT)",
+  "evidenceStatus": "evidence-based",
+  "category": "Approach",
+  "blurb": "Skills for intense emotions and relationships.",
+  "lead": "DBT teaches concrete skills for managing overwhelming emotions, tolerating distress, staying present, and improving relationships.",
+  "sections": [
+    {
+      "heading": "What it is",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "DBT was developed by Marsha Linehan, originally for people who feel emotions very intensely. It blends acceptance and change, teaching four skill sets."
+        },
+        {
+          "kind": "p",
+          "text": "It's highly structured and skills-based, with strong evidence for emotion regulation, self-harm, and borderline personality disorder — and its skills help many people."
+        }
+      ]
+    },
+    {
+      "heading": "Core ideas",
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "chips",
+          "items": [
+            "Mindfulness",
+            "Distress tolerance",
+            "Emotion regulation",
+            "Interpersonal effectiveness",
+            "Acceptance + change"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Good to know",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "meta",
+          "items": [
+            {
+              "label": "Best for",
+              "value": "Intense emotions, self-harm, relationships, impulsivity"
+            },
+            {
+              "label": "Format",
+              "value": "Skills groups + individual therapy"
+            },
+            {
+              "label": "Evidence",
+              "value": "Strong"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "article",
+      "title": "DBT skills overview",
+      "source": "Mind (UK)",
+      "url": "https://www.mind.org.uk/information-support/drugs-and-treatments/talking-therapy-and-counselling/dialectical-behaviour-therapy-dbt/",
+      "whyHere": "Free plain-language explanation of DBT.",
+      "evidenceStatus": "evidence-based"
+    }
+  ],
+  "related": [
+    {
+      "id": "cbt",
+      "title": "CBT"
+    },
+    {
+      "id": "self-compassion",
+      "title": "Self-Compassion"
+    }
+  ]
+}

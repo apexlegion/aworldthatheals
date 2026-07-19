@@ -1,0 +1,99 @@
+{
+  "id": "walking-meditation",
+  "title": "Walking Meditation",
+  "category": "Mindfulness",
+  "evidenceStatus": "evidence-based",
+  "blurb": "Mindfulness in motion — for when sitting still is hard.",
+  "lead": "Walking meditation brings mindful attention to the simple act of walking. It's ideal when sitting still feels difficult or restless.",
+  "sections": [
+    {
+      "heading": "What it is",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Walking meditation means walking slowly and deliberately, with full attention on the movement and sensations of each step."
+        },
+        {
+          "kind": "p",
+          "text": "It's a wonderful option for restless minds, and it weaves mindfulness into everyday movement."
+        }
+      ]
+    },
+    {
+      "heading": "How to practise",
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "steps",
+          "items": [
+            "Choose a quiet stretch where you can walk slowly back and forth, or a calm path.",
+            "Stand still and feel your feet on the ground.",
+            "Begin walking slowly, noticing the lifting, moving, and placing of each foot.",
+            "When the mind wanders, return attention to the sensations of walking.",
+            "Keep your gaze soft and pace unhurried."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Good to know",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "meta",
+          "items": [
+            {
+              "label": "Duration",
+              "value": "5–30 minutes"
+            },
+            {
+              "label": "Best for",
+              "value": "Restlessness, anxiety, integrating mindfulness into daily life"
+            },
+            {
+              "label": "Tradition",
+              "value": "Buddhist / widely adapted"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Common mistakes",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Walking too fast out of habit. Slower than normal helps attention stay with the movement."
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "app",
+      "title": "UCLA Mindful",
+      "source": "UCLA Health",
+      "url": "https://www.uclahealth.org/programs/marc/free-guided-meditations",
+      "whyHere": "Includes free guided walking meditation.",
+      "evidenceStatus": "evidence-based"
+    },
+    {
+      "type": "app",
+      "title": "Medito",
+      "source": "Medito Foundation",
+      "url": "https://meditofoundation.org",
+      "whyHere": "Free non-profit app with movement-based practices.",
+      "evidenceStatus": "emerging"
+    }
+  ],
+  "related": [
+    {
+      "id": "breath-awareness",
+      "title": "Breath Awareness"
+    },
+    {
+      "id": "body-scan",
+      "title": "Body Scan"
+    }
+  ]
+}

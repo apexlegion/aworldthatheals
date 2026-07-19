@@ -1,0 +1,99 @@
+{
+  "id": "vipassana",
+  "title": "Vipassana (Insight)",
+  "category": "Mindfulness",
+  "evidenceStatus": "traditional",
+  "blurb": "Observing experience clearly to see how mind and reality work.",
+  "lead": "Vipassana means 'insight' or 'clear seeing'. It's a foundational Buddhist practice of observing sensations, thoughts, and feelings as they arise and pass.",
+  "sections": [
+    {
+      "heading": "What it is",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Vipassana is the practice of observing your moment-to-moment experience — sensations, thoughts, emotions — with steady, non-reactive attention, to see clearly how they arise and pass."
+        },
+        {
+          "kind": "p",
+          "text": "It is often taught in silent retreats and has strongly influenced modern mindfulness. As a spiritual and contemplative tradition, its deeper claims rest on lived practice rather than clinical trials."
+        }
+      ]
+    },
+    {
+      "heading": "How to practise",
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "steps",
+          "items": [
+            "Establish a stable posture and a few minutes of breath awareness to settle.",
+            "Broaden attention to whatever is most prominent — a sensation, sound, thought, or emotion.",
+            "Observe it without grasping or pushing away, noticing its changing nature.",
+            "Return to the breath as a home base whenever you feel scattered.",
+            "Consider learning from an experienced teacher or a structured course."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Good to know",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "meta",
+          "items": [
+            {
+              "label": "Duration",
+              "value": "20–60 minutes; often taught in retreats"
+            },
+            {
+              "label": "Best for",
+              "value": "Deeper insight, equanimity, experienced practitioners"
+            },
+            {
+              "label": "Tradition",
+              "value": "Theravada Buddhism"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Common mistakes",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Diving into intensive practice without guidance. A teacher or course helps navigate difficult material that can surface."
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "article",
+      "title": "Free intro courses & talks",
+      "source": "Dharma Seed",
+      "url": "https://dharmaseed.org",
+      "whyHere": "Huge free archive of insight-meditation talks from respected teachers.",
+      "evidenceStatus": "traditional"
+    },
+    {
+      "type": "app",
+      "title": "Insight Timer",
+      "source": "Insight Timer",
+      "url": "https://insighttimer.com",
+      "whyHere": "Free guided insight meditations for all levels.",
+      "evidenceStatus": "emerging"
+    }
+  ],
+  "related": [
+    {
+      "id": "breath-awareness",
+      "title": "Breath Awareness"
+    },
+    {
+      "id": "zazen",
+      "title": "Zazen (Zen)"
+    }
+  ]
+}

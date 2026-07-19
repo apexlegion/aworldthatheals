@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Psychological approaches — A World That Heals</title>
+  <meta name="description" content="CBT, ACT, DBT, IFS and more — evidence-informed therapies explained in plain language, with free ways to learn them." />
+  <meta name="theme-color" content="#121309" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="icons/icon-180.png" />
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="stylesheet" href="css/lib.css" />
+</head>
+<body>
+  <main id="main">
+    <div class="container page-intro">
+      <p class="page-intro__eyebrow">Approaches</p>
+      <h1>Ways of working with the mind, explained simply</h1>
+      <p>Plain-language guides to the main evidence-informed therapies and frameworks — what they are, their core ideas, and free ways to start learning them.</p>
+    </div>
+    <div class="container section" style="padding-top:0">
+      <div class="card-grid" id="approach-grid"></div>
+    </div>
+  </main>
+  <script type="module">
+    import { initDirectory } from "./js/directory.js";
+    const items = await (await fetch("data/approaches-index.json")).json();
+    initDirectory({ data: items, mount: "approach-grid", detailPattern: (i) => `approach.html?id=${i.id}` });
+  </script>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

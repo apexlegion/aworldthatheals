@@ -1,0 +1,74 @@
+{
+  "id": "sharon-salzberg",
+  "title": "Sharon Salzberg",
+  "role": "Meditation teacher & author",
+  "category": "Mindfulness",
+  "blurb": "A foremost teacher of loving-kindness (metta).",
+  "lead": "One of the world's most respected teachers of loving-kindness and mindfulness meditation.",
+  "sections": [
+    {
+      "heading": "About",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Sharon Salzberg is a co-founder of the Insight Meditation Society and a leading teacher of loving-kindness (metta) meditation."
+        },
+        {
+          "kind": "p",
+          "text": "She's known for making metta and mindfulness practical and accessible to beginners."
+        }
+      ]
+    },
+    {
+      "heading": "Teaching focus",
+      "style": "cream",
+      "blocks": [
+        {
+          "kind": "chips",
+          "items": [
+            "Loving-kindness (metta)",
+            "Mindfulness",
+            "Real happiness",
+            "Beginner-friendly practice"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Where to start",
+      "style": "dark",
+      "blocks": [
+        {
+          "kind": "p",
+          "text": "Her free guided loving-kindness meditations and her '28-day' real happiness challenges are approachable starting points."
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "type": "podcast",
+      "title": "Free meditations & podcast",
+      "source": "Sharon Salzberg",
+      "url": "https://www.sharonsalzberg.com",
+      "whyHere": "Free guided practices and talks."
+    },
+    {
+      "type": "app",
+      "title": "Insight Timer",
+      "source": "Insight Timer",
+      "url": "https://insighttimer.com",
+      "whyHere": "Free metta meditations from many teachers."
+    }
+  ],
+  "related": [
+    {
+      "id": "jack-kornfield",
+      "title": "Jack Kornfield"
+    },
+    {
+      "id": "kristin-neff",
+      "title": "Kristin Neff"
+    }
+  ]
+}
