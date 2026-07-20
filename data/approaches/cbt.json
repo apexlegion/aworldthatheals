@@ -69,11 +69,11 @@
       "evidenceStatus": "evidence-based"
     },
     {
-      "type": "app",
-      "title": "MindShift CBT",
-      "source": "Anxiety Canada",
-      "url": "https://www.anxietycanada.com/resources/mindshift-cbt/",
-      "whyHere": "Free CBT-based app.",
+      "type": "worksheet",
+      "title": "Free CBT worksheets, MP3s & guides",
+      "source": "Getselfhelp.co.uk",
+      "url": "https://getselfhelp.co.uk",
+      "whyHere": "A large, genuinely free library of CBT self-help tools you can start today.",
       "evidenceStatus": "evidence-based"
     }
   ],

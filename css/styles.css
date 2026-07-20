@@ -162,6 +162,32 @@ main { flex: 1 0 auto; }
 [data-theme="light"] .theme-toggle .icon-sun { display: block; }
 [data-theme="light"] .theme-toggle .icon-moon { display: none; }
 
+/* ---- Primary nav (injected by app.js on every page) --------------------- */
+.nav-links { display: flex; align-items: center; gap: var(--s-1); }
+.nav-links a {
+  color: var(--text-muted); text-decoration: none; font-size: var(--fs-14); font-weight: 600;
+  padding: 8px 12px; border-radius: var(--r-pill); min-height: 40px; display: inline-flex; align-items: center;
+  white-space: nowrap;
+  transition: color var(--dur) var(--ease), background var(--dur) var(--ease);
+}
+.nav-links a:hover { color: var(--text); background: var(--surface); }
+.nav-links a[aria-current="page"] { color: var(--text); background: var(--surface-2); }
+.nav-toggle { display: none; }
+@media (max-width: 1040px) {
+  .nav-links {
+    position: absolute; top: 64px; left: 0; right: 0; flex-direction: column; align-items: stretch;
+    background: var(--bg-elevated); border-bottom: 1px solid var(--border); padding: var(--s-3);
+    gap: 2px; box-shadow: var(--shadow); z-index: 45;
+  }
+  .nav-links[hidden] { display: none; }
+  .nav-links a { padding: 12px var(--s-4); font-size: var(--fs-16); }
+  .nav-toggle {
+    display: inline-grid; place-items: center; width: 44px; height: 44px; border-radius: var(--r-pill);
+    background: var(--surface); color: var(--text); border: 1px solid var(--border);
+  }
+  .nav-toggle svg { width: 20px; height: 20px; }
+}
+
 /* ---- Buttons ------------------------------------------------------------ */
 .btn {
   display: inline-flex; align-items: center; justify-content: center; gap: var(--s-2);

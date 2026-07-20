@@ -24,7 +24,7 @@
   "resources": [
     { "type": "article", "title": "If you're having thoughts of suicide", "source": "988 Suicide & Crisis Lifeline", "url": "https://988lifeline.org", "whyHere": "Immediate, free, confidential support — call or text 988 in the US, or find your country on the Emergency page.", "evidenceStatus": "evidence-based" },
     { "type": "article", "title": "Coping with suicidal thoughts", "source": "HealthTalk / NHS-aligned resources", "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/help-for-suicidal-thoughts/", "whyHere": "Practical NHS guidance for getting through suicidal feelings safely.", "evidenceStatus": "evidence-based" },
-    { "type": "worksheet", "title": "Make a safety plan", "source": "Stay Alive / safety planning tools", "url": "https://www.stayalive.app", "whyHere": "Free suicide-prevention app with a personal safety plan and coping resources.", "evidenceStatus": "evidence-based" },
+    { "type": "worksheet", "title": "Stay Alive — safety plan app", "source": "Grassroots Suicide Prevention", "url": "https://prevent-suicide.org.uk/find-help-now/stay-alive-app/", "whyHere": "Free suicide-prevention app with a personal safety plan and coping resources.", "evidenceStatus": "evidence-based" },
     { "type": "community", "title": "Find a helpline in your country", "source": "Find A Helpline", "url": "https://findahelpline.com", "whyHere": "Free, confidential crisis lines in over 130 countries.", "evidenceStatus": "evidence-based" }
   ],
   "relatedTopics": ["depression", "trauma", "hope-motivation", "shame-guilt"],

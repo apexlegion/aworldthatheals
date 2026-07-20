@@ -25,7 +25,7 @@
     { "type": "article", "title": "Controlling anger", "source": "American Psychological Association (APA)", "url": "https://www.apa.org/topics/anger/control", "whyHere": "Evidence-based strategies for managing anger from the APA.", "evidenceStatus": "evidence-based" },
     { "type": "worksheet", "title": "Understanding anger self-help guide", "source": "NHS self-help guides", "url": "https://web.ntw.nhs.uk/selfhelp/", "whyHere": "Free CBT-based booklet on recognising and managing anger.", "evidenceStatus": "evidence-based" },
     { "type": "article", "title": "Managing anger", "source": "Mind (UK)", "url": "https://www.mind.org.uk/information-support/types-of-mental-health-problems/anger/", "whyHere": "Free, practical guidance on understanding and channelling anger.", "evidenceStatus": "evidence-based" },
-    { "type": "app", "title": "MindShift CBT", "source": "Anxiety Canada", "url": "https://www.anxietycanada.com/resources/mindshift-cbt/", "whyHere": "Free CBT tools useful for the thoughts and tension behind anger.", "evidenceStatus": "evidence-based" }
+    { "type": "worksheet", "title": "Free CBT self-help tools", "source": "Getselfhelp.co.uk", "url": "https://getselfhelp.co.uk", "whyHere": "Free worksheets and audio for the thoughts and tension behind anger.", "evidenceStatus": "evidence-based" }
   ],
   "relatedTopics": ["stress", "shame-guilt", "trauma", "mindfulness"],
   "matchPhrases": ["i'm so angry", "i can't control my anger", "i keep losing my temper", "i get so irritable", "i'm full of rage", "i snap at people", "i feel so frustrated", "my anger scares me", "i regret things i say when angry", "why am i always angry"]

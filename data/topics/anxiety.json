@@ -24,7 +24,7 @@
   "resources": [
     { "type": "article", "title": "Anxiety Disorders — overview", "source": "National Institute of Mental Health (NIMH)", "url": "https://www.nimh.nih.gov/health/topics/anxiety-disorders", "whyHere": "Clear, science-based primer from a leading public research institute.", "evidenceStatus": "evidence-based" },
     { "type": "article", "title": "Self-help CBT guides", "source": "NHS / Cumbria, Northumberland CBT resources", "url": "https://web.ntw.nhs.uk/selfhelp/", "whyHere": "Free downloadable CBT booklets on anxiety, panic and worry.", "evidenceStatus": "evidence-based" },
-    { "type": "app", "title": "MindShift CBT", "source": "Anxiety Canada", "url": "https://www.anxietycanada.com/resources/mindshift-cbt/", "whyHere": "Free CBT-based app built specifically for anxiety, by a respected non-profit.", "evidenceStatus": "evidence-based" },
+    { "type": "worksheet", "title": "Free anxiety self-help (worksheets & audio)", "source": "Getselfhelp.co.uk", "url": "https://getselfhelp.co.uk/anxiety/", "whyHere": "Practical, free CBT worksheets and calming audio you can use right now.", "evidenceStatus": "evidence-based" },
     { "type": "app", "title": "Healthy Minds Program", "source": "Healthy Minds Innovations", "url": "https://hminnovations.org/meditation-app", "whyHere": "Completely free, research-backed meditation and awareness training.", "evidenceStatus": "evidence-based" },
     { "type": "video", "title": "How to make stress your friend", "source": "Kelly McGonigal / TED", "url": "https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend", "whyHere": "Reframes the physical feelings of anxiety in an empowering, evidence-informed way.", "evidenceStatus": "emerging" }
   ],

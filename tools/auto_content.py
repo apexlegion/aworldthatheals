@@ -36,7 +36,7 @@ PROTECTED_IDS = {"suicidal-thoughts"}
 ALLOWED_DOMAINS = {
     "nimh.nih.gov", "who.int", "nhs.uk", "apa.org", "samhsa.gov", "va.gov",
     "mobile.va.gov", "mind.org.uk", "helpguide.org", "self-compassion.org",
-    "hminnovations.org", "anxietycanada.com", "sleepfoundation.org",
+    "hminnovations.org", "sleepfoundation.org",
     "insighttimer.com", "smartrecovery.org", "aa.org", "na.org",
     "recoverydharma.org", "al-anon.org", "adultchildren.org", "coda.org",
     "gamblersanonymous.org", "nicotine-anonymous.org", "oa.org", "7cups.com",
@@ -45,7 +45,8 @@ ALLOWED_DOMAINS = {
     "ifs-institute.com", "thehappinesstrap.com", "compassionatemind.co.uk",
     "dharmaseed.org", "gottman.com", "meditofoundation.org",
     "smilingmind.com.au", "getselfhelp.co.uk", "palousemindfulness.com",
-    "uclahealth.org", "stayalive.app", "findahelpline.com",
+    "uclahealth.org", "findahelpline.com", "findtreatment.gov",
+    "prevent-suicide.org.uk", "clearfear.stem4.org.uk", "stem4.org.uk",
     "befrienders.org", "iasp.info", "solvingprocrastination.com",
     "cci.health.wa.gov.au", "wysa.com", "woebothealth.com",
     "marijuana-anonymous.org", "saa-recovery.org",

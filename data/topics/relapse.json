@@ -26,7 +26,7 @@
     { "type": "community", "title": "Alcoholics Anonymous", "source": "AA", "url": "https://www.aa.org", "whyHere": "Free worldwide fellowship and meetings for alcohol recovery.", "evidenceStatus": "emerging" },
     { "type": "community", "title": "Narcotics Anonymous", "source": "NA", "url": "https://www.na.org", "whyHere": "Free worldwide fellowship and meetings for drug recovery.", "evidenceStatus": "emerging" },
     { "type": "community", "title": "Recovery Dharma", "source": "Recovery Dharma", "url": "https://recoverydharma.org", "whyHere": "Free, Buddhist-inspired peer recovery community and meetings.", "evidenceStatus": "emerging" },
-    { "type": "article", "title": "Treatment and recovery", "source": "SAMHSA", "url": "https://www.samhsa.gov/find-help", "whyHere": "Free helpline and treatment locator for substance use.", "evidenceStatus": "evidence-based" }
+    { "type": "article", "title": "Find treatment", "source": "SAMHSA / FindTreatment.gov", "url": "https://findtreatment.gov", "whyHere": "Free, confidential locator for substance-use treatment near you.", "evidenceStatus": "evidence-based" }
   ],
   "relatedTopics": ["shame-guilt", "hope-motivation", "self-esteem", "depression"],
   "matchPhrases": ["i relapsed", "i used again", "i slipped", "i started drinking again", "i can't stay sober", "i feel like i failed my recovery", "i'm ashamed i relapsed", "i broke my streak", "i keep relapsing", "i went back to my addiction"]

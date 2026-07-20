@@ -76,21 +76,36 @@ def collect_urls():
             urls.add(m)
     return sorted(urls)
 
+# Pages that return HTTP 200 but are actually dead (org shut down, parked, etc.)
+CLOSURE_SIGNALS = [
+    "website closure", "ceased operations", "no longer available",
+    "has officially ceased", "site is no longer", "page not found",
+    "404 not found", "account suspended", "domain is for sale",
+    "has shut down", "we have closed", "this domain is for sale",
+]
+BROWSER_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+              "(KHTML, like Gecko) Chrome/120.0 Safari/537.36")
+
 def check_links():
     urls = collect_urls()
-    print(f"\nChecking {len(urls)} external URLs...\n")
+    print(f"\nChecking {len(urls)} external URLs (full GET, content-scanned)...\n")
     dead = []
     for u in urls:
         try:
-            req = Request(u, method="HEAD", headers={"User-Agent": "Mozilla/5.0 (AWTH link checker)"})
-            with urlopen(req, timeout=15) as r:
+            # Full GET with a real browser UA: HEAD lies, and many hosts 403 bots.
+            req = Request(u, headers={"User-Agent": BROWSER_UA})
+            with urlopen(req, timeout=20) as r:
                 code = r.status
-            if code >= 400:
-                raise HTTPError(u, code, "", {}, None)
-            print(f"  ok   {code}  {u}")
+                body = r.read(6000).decode("utf-8", "ignore").lower()
+            hit = next((s for s in CLOSURE_SIGNALS if s in body), None)
+            if hit:
+                dead.append((u, f"200 but page says '{hit}'"))
+                print(f"  DEAD-CONTENT  {u}  (says '{hit}')")
+            else:
+                print(f"  ok   {code}  {u}")
         except HTTPError as e:
-            if e.code in (403, 405):  # some servers block HEAD; treat as reachable
-                print(f"  ~    {e.code}  {u}  (HEAD blocked; likely reachable)")
+            if e.code in (403, 405, 406):  # bot-blocking; real browsers get through
+                print(f"  ~    {e.code}  {u}  (blocks bots; verify in a browser if unsure)")
             else:
                 dead.append((u, e.code)); print(f"  DEAD {e.code}  {u}")
         except (URLError, Exception) as e:

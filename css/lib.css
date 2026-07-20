@@ -1,30 +1,6 @@
 /* lib.css — components for Phase 2–8 library/directory pages.
-   Loaded alongside styles.css. */
-
-/* ---- Explore nav -------------------------------------------------------- */
-.nav-links { display: flex; align-items: center; gap: var(--s-1); }
-.nav-links a {
-  color: var(--text-muted); text-decoration: none; font-size: var(--fs-14); font-weight: 600;
-  padding: 8px 12px; border-radius: var(--r-pill); min-height: 40px; display: inline-flex; align-items: center;
-  transition: color var(--dur) var(--ease), background var(--dur) var(--ease);
-}
-.nav-links a:hover { color: var(--text); background: var(--surface); }
-.nav-links a[aria-current="page"] { color: var(--text); background: var(--surface-2); }
-.nav-toggle { display: none; }
-@media (max-width: 900px) {
-  .nav-links {
-    position: absolute; top: 64px; left: 0; right: 0; flex-direction: column; align-items: stretch;
-    background: var(--bg-elevated); border-bottom: 1px solid var(--border); padding: var(--s-3);
-    gap: 2px; box-shadow: var(--shadow); z-index: 45;
-  }
-  .nav-links[hidden] { display: none; }
-  .nav-links a { padding: 12px var(--s-4); font-size: var(--fs-16); }
-  .nav-toggle {
-    display: inline-grid; place-items: center; width: 44px; height: 44px; border-radius: var(--r-pill);
-    background: var(--surface); color: var(--text); border: 1px solid var(--border);
-  }
-  .nav-toggle svg { width: 20px; height: 20px; }
-}
+   Loaded alongside styles.css. (Nav styles moved to styles.css so the
+   app.js-injected nav renders correctly on every page.) */
 
 /* ---- Page intro --------------------------------------------------------- */
 .page-intro { padding-block: var(--s-7) var(--s-5); }

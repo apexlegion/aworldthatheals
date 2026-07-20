@@ -24,8 +24,8 @@
   "resources": [
     { "type": "article", "title": "Panic disorder — when fear overwhelms", "source": "National Institute of Mental Health (NIMH)", "url": "https://www.nimh.nih.gov/health/publications/panic-disorder-when-fear-overwhelms", "whyHere": "Concise, reassuring, evidence-based overview.", "evidenceStatus": "evidence-based" },
     { "type": "worksheet", "title": "Understanding panic self-help guide", "source": "NHS self-help guides", "url": "https://web.ntw.nhs.uk/selfhelp/", "whyHere": "Free booklet explaining the panic cycle and how to break it.", "evidenceStatus": "evidence-based" },
-    { "type": "app", "title": "MindShift CBT", "source": "Anxiety Canada", "url": "https://www.anxietycanada.com/resources/mindshift-cbt/", "whyHere": "Free app with a dedicated panic-attack toolkit.", "evidenceStatus": "evidence-based" },
-    { "type": "video", "title": "How to cope with a panic attack", "source": "Anxiety Canada", "url": "https://www.anxietycanada.com", "whyHere": "Practical, calm guidance from a leading anxiety non-profit.", "evidenceStatus": "evidence-based" }
+    { "type": "worksheet", "title": "Free panic & anxiety self-help (worksheets & audio)", "source": "Getselfhelp.co.uk", "url": "https://getselfhelp.co.uk/anxiety/", "whyHere": "Free CBT tools that explain the panic cycle and how to break it.", "evidenceStatus": "evidence-based" },
+    { "type": "article", "title": "Panic disorder — when fear overwhelms", "source": "National Institute of Mental Health (NIMH)", "url": "https://www.nimh.nih.gov/health/publications/panic-disorder-when-fear-overwhelms", "whyHere": "Calm, reassuring, evidence-based guidance on coping with panic.", "evidenceStatus": "evidence-based" }
   ],
   "relatedTopics": ["anxiety", "mindfulness", "overthinking"],
   "matchPhrases": ["i'm having a panic attack", "i can't breathe", "my heart is racing", "i feel like i'm dying", "i think i'm having a heart attack", "i feel like i'm losing control", "sudden intense fear", "i keep having panic attacks", "i feel like i can't catch my breath", "everything feels unreal"]

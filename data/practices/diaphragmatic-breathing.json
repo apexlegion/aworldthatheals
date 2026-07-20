@@ -78,11 +78,11 @@
       "evidenceStatus": "evidence-based"
     },
     {
-      "type": "app",
-      "title": "MindShift CBT",
-      "source": "Anxiety Canada",
-      "url": "https://www.anxietycanada.com/resources/mindshift-cbt/",
-      "whyHere": "Free calm-breathing tools.",
+      "type": "article",
+      "title": "Breathing exercises for stress",
+      "source": "NHS",
+      "url": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/",
+      "whyHere": "Free, trustworthy instructions for calming belly breathing.",
       "evidenceStatus": "evidence-based"
     }
   ],
